@@ -5,6 +5,7 @@ list.pop(0) -> ==O(n)==
 list.pop() -> ==O(1)== 
 
 **Deque** ^47eb3b
+#deque
 - Double Ended Queue: Generalization of stack and queue, hence can be used for implementing both
 - Implemented using ==Doubly Linked List==
 - Both popping and appending are ==O(1)== since operations are at the ends (and not in the middle)

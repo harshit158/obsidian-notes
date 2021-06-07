@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "dad5a323916b2a45",
+        "id": "0c1cfe59906f76dd",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "Leetcode/Concepts/DFS.md",
-            "mode": "source"
+            "file": "Assets/linkedlist.pdf"
           }
         }
       }
@@ -39,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#finding",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -47,12 +46,20 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "caade965a3fa19dd",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 307
   },
   "right": {
     "id": "b78f15cdafdd7f3a",
@@ -68,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/Concepts/DFS.md",
+                "file": "Assets/linkedlist.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -76,6 +83,27 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "108a594b5ac71fe0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "94af906efa597b31",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Assets/linkedlist.pdf"
               }
             }
           }
@@ -86,9 +114,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dad5a323916b2a45",
+  "active": "0c1cfe59906f76dd",
   "lastOpenFiles": [
-    "Leetcode/Concepts/DFS.md",
-    "Leetcode/Concepts/Dynamic Programming.md"
+    "Assets/linkedlist.pdf",
+    "Leetcode/Lists/Linked List.md",
+    "ML/K-Means.md",
+    "Assets/clustering Advanced Kmeans.pdf",
+    "Assets/Pasted image 20210527172215.png",
+    "Assets/Pasted image 20210528155855.png",
+    "Assets/Pasted image 20210529204503.png",
+    "Assets/Pasted image 20210530121134.png",
+    "Papers/Grammar Correction on Devices.md",
+    "assets/trees.pdf"
   ]
 }
