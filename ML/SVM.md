@@ -6,3 +6,6 @@
 
 3. ==Support Vector Machine==
 	- CAN handle Non-Linear data using [[Kernelization]]
+
+<br>
+Prediction time depends only on the number of Support Vectors

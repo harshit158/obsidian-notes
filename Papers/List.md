@@ -1,0 +1,2 @@
+- [[Grammar Correction on Devices]] [[Link](https://ieeexplore.ieee.org/document/9364435)]
+- [[Graph Neural Networks for Natural Language Processing A Survey]] [[Link](https://arxiv.org/pdf/2106.06090.pdf)]

@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "0c1cfe59906f76dd",
+        "id": "31e5b5f3095335a5",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "Assets/linkedlist.pdf"
+            "file": "ML/Reservoir Sampling.md",
+            "mode": "source"
           }
         }
       }
@@ -38,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#finding",
+                "query": "tag:#binary-search",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307
+    "width": 376.0121879577637
   },
   "right": {
     "id": "b78f15cdafdd7f3a",
@@ -75,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/linkedlist.pdf",
+                "file": "ML/Reservoir Sampling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/linkedlist.pdf"
+                "file": "ML/Reservoir Sampling.md"
               }
             }
           }
@@ -114,17 +115,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0c1cfe59906f76dd",
+  "active": "31e5b5f3095335a5",
   "lastOpenFiles": [
-    "Assets/linkedlist.pdf",
-    "Leetcode/Lists/Linked List.md",
-    "ML/K-Means.md",
-    "Assets/clustering Advanced Kmeans.pdf",
-    "Assets/Pasted image 20210527172215.png",
-    "Assets/Pasted image 20210528155855.png",
-    "Assets/Pasted image 20210529204503.png",
-    "Assets/Pasted image 20210530121134.png",
-    "Papers/Grammar Correction on Devices.md",
-    "assets/trees.pdf"
+    "ML/Untitled.md",
+    "ML/Inter-Rater Reliability.md",
+    "ML/KNN.md",
+    "ML/SVM.md",
+    "ML/Linear Regression.md",
+    "ML/Imbalanced Class Classification.md",
+    "Leetcode/Python.md",
+    "Leetcode/Questions/792. Number of Matching Subsequences.md",
+    "Leetcode/Questions/392. Is Subsequence.md",
+    "Leetcode/Questions/Untitled.md"
   ]
 }

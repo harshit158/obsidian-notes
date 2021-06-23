@@ -86,3 +86,9 @@ Strategies in increasing order of complexity
 11. ==ARIMA== (Autoregressive **Integrated** Moving Average)
 	- ARIMA (p,d,q)
 	- ARIMA (p,0,q) = ARMA(p,q)
+
+
+
+Distance between two unequal length time series : [[Dynamic Time Warping]]
+
+

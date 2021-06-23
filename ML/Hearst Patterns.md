@@ -1,0 +1,1 @@
+![Information Extraction | Information Extraction Python,Spacy](https://cdn.analyticsvidhya.com/wp-content/uploads/2019/09/hearst_patterns.png)

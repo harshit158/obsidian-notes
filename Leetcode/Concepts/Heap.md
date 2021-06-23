@@ -29,16 +29,17 @@ Ref: https://www.tutorialspoint.com/heap-queue-or-heapq-in-python
 
 
 
-```
+```python
 import heapq
 nums = [1,2,3,8,4,3,9]
 
 heapq.heapify(nums) 		
 heapq.heappush(nums, 4)
-heapq.heappop(4)
+heapq.heappop(nums)
 ```
 
-- **heapq** module implements ==Min Heap==
+- **heapq** module implements ==MIN Heap==
+	- To use MAX heap, multiply each value by -1 ^cb18ba
 - Smallest element is at array[0]
 - **heapify** -> ==smallest== element gets brought to the first position, but rest of the array ==need not be sorted==.
 - **heapop** -> returns ==smallest element== and ==heapifies== automatically
@@ -48,7 +49,7 @@ heapq.heappop(4)
 ### Complexity
 | Operation      | Complexity | Intuition     |
 | :---        |    :----:   |          :--- |
-| Heapifying ==an element==      | O(logn)       | In the worst case, the element travels from root to all the way to leaf, which is the <br> height of the tree <br> ==percolates DOWN== | 
+| Heapifying ==an element==      | O(logn)       | In the worst case, the element travels from root to all the way to leaf, which is the height of the tree <br> ==percolates DOWN== | 
 | Deleting (root)      | O(logn)       | Once the last leaf node takes the value of root, it needs to be heapified.  <br> ==percolates DOWN== | 
 | Inserting an element      | O(logn)       | In the worst case, the new element has to travel from leaf to root before settling down <br> height of the tree <br> ==percolates UP== | 
 | Heapifying ==the array==      | O(n)       | How ? #todo | 

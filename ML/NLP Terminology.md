@@ -1,0 +1,1 @@
+![Hyponymy and hypernymy - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Hyponym_and_hypernym.svg/1200px-Hyponym_and_hypernym.svg.png)

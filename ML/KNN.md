@@ -10,3 +10,6 @@
 
 ==Disadvantages:==
 - Inefficient : Scans entire training data to find K-nearest neighbours to aggregate the value
+	- Can be made efficient by using
+		- [[KD Tree]]
+		- [[Locality Sensitive Hashing]]

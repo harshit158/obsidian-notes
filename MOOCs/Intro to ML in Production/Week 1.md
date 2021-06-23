@@ -28,7 +28,7 @@ This week is about Deployment
 	- Runs in parallel with humans
 	- Used to assess the performance and decide whether to allow the model for real time decision
 
-![[Pasted image 20210529212221.png]]
+![[Pasted image 20210529212221.png|700]]
 
 2. ==Canary Deployment==
 	- Give only a small fraction of traffic (5%) to the model and assess performance
@@ -41,11 +41,11 @@ This week is about Deployment
 	- Switches traffic from BLUE system to GREEN system suddenly
 	- Easy way to enable rollback
 
-![[Pasted image 20210529212939.png]]
+![[Pasted image 20210529212939.png|700]]
 
 <br>==Degrees of Automation==
 To what extent the ML model is penetrated in the workflow
-![[Pasted image 20210529211819.png]]
+![[Pasted image 20210529211819.png|700]]
 
 ### Monitoring
 - Have a monitoring dashboard to analyse different metrics
@@ -53,7 +53,7 @@ To what extent the ML model is penetrated in the workflow
 - Brainstorm the things that could go wrong
 - And for all these things, brainstorm statistics / metrics that will detect the problem
 Examples of Metrics to track:
-![[Pasted image 20210530121342.png]]
+![[Pasted image 20210530121342.png|600]]
 
 - Once metrics are in place, set thresholds for alarms to notify in case of faults
 - Adapt metrics and thresholds over time
