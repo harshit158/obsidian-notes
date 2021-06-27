@@ -16,7 +16,7 @@
 ![ShareTechnote|500](http://www.sharetechnote.com/image/EngMath_Matrix_EigenDecomposition_02.png)
 
 ---
-- ==Singular Value Decomposition==
+- ==[[Singular Value Decomposition]]==
 
 ![A Beginner&#39;s Guide to Singular Value Decomposition (SVD) | by Mukundh  Murthy | DataDrivenInvestor|250](https://miro.medium.com/max/894/1*XNWUlrQJXGeoCDqUMd0iUA.png)
 
