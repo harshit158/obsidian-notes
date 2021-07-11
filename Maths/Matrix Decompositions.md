@@ -12,7 +12,7 @@
 ![Cholesky Decomposition : Matrix Decomposition - GeeksforGeeks](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBgUQDQete-No-rMEtgBPQLzTKvWSr_DYcjxHzRa2db7vAa5Dxy255lguewfkMGBM6Dtc&usqp=CAU)
 
 ---
-- ==Eigen Decomposition==
+- ==[[Eigen Decomposition]]==
 ![ShareTechnote|500](http://www.sharetechnote.com/image/EngMath_Matrix_EigenDecomposition_02.png)
 
 ---

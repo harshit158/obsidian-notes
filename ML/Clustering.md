@@ -9,3 +9,13 @@ Types of Clustering:
 - Connectivity based ([[Hierarchial Clustering]] (Agglomerative clustering))
 - Distribution based [[Gaussian Mixture]]
 
+
+Evaluation Criteria
+---
+- ==Internal== Quality criteria
+*Measures Compactness of clusters*
+	- Sum of Squared Error (SSE)
+	- 
+
+- ==External== Quality criteria
+*Measures correspondence to true labels*

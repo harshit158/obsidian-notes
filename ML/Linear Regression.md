@@ -1,4 +1,5 @@
-$X^TX$ -> not invertible when features are collinear
+==Multicollinearity Issue==
+$X^TX$ -> not invertible when features are collinear ([[Multicollinearity]])
 Solved by [[Ridge Regression]] where the solution ==$w=(X^TX+\lambda I)^{-1}X^Ty$== involves inverting ==$(X^TX+\lambda I)$== instead of $X^TX$
 
 **Assumptions:**

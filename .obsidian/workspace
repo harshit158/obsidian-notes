@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "f61c8cff92c1966a",
+        "id": "b863a8f0eca3907b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Leetcode/Questions/74. Search a 2D Matrix.md",
-            "mode": "source"
+            "file": "ML/GMM.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,14 +76,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/Questions/74. Search a 2D Matrix.md",
+                "file": "ML/GMM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/Questions/74. Search a 2D Matrix.md"
+                "file": "ML/GMM.md"
               }
             }
           }
@@ -112,19 +112,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "f61c8cff92c1966a",
+  "active": "b863a8f0eca3907b",
   "lastOpenFiles": [
-    "Leetcode/Questions/Untitled.md",
-    "Leetcode/Questions/230. Kth Smallest Element in a BST.md",
-    "Leetcode/Concepts/BST (Binary Search Tree).md",
-    "Leetcode/Concepts/Untitled.md",
+    "ML/GMM (Gaussian Mixture Models).md",
+    "ML/LDA.md",
+    "ML/PCA.md",
+    "ML/Anomaly Detection.md",
+    "ML/PCA (Principal Component Analysis).md",
+    "ML/Topic Modelling.md",
     "ML/Untitled.md",
-    "Maths/Untitled.md",
-    "Maths/Singular Value Decomposition.md",
+    "Maths/Eigen Decomposition.md",
     "Maths/Matrix Decompositions.md",
-    "Leetcode/Concepts/Union Find (Disjoint Set).md",
-    "Leetcode/Questions/684. Redundant Connection.md"
+    "Maths/Singular Value Decomposition.md"
   ]
 }

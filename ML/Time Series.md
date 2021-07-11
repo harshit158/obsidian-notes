@@ -1,5 +1,5 @@
 ### Applications of Time Series
-
+---
 ### Time series Types based on 
 1. No. of Time dependent Variables
 ==Univariate== forecasting => Single time-dependent variable
@@ -9,7 +9,7 @@
 	a) ==One-Step== forecasting	
 	b) ==Multi-Step== forecasting
  
-	
+---
 ### Properties
 1. **==Stationarity==**:
 	-	Statistical properties of time series DO NOT change over time. 
@@ -35,6 +35,7 @@
 	- Measures the relationship between a variable's current value and its past values
 	- Can't use OLS (linear regression) since autocorrelation violates independence assumption [[Linear Regression#^320904]]
 
+---
 ### Approaches for Time Series Prediction
 - Statistical Methods [[Time Series#^2c75e3]]
 - Machine Learning Methods
@@ -52,7 +53,7 @@ https://www.kdnuggets.com/2018/03/time-series-dummies-3-step-process.html
 -	**Step3**: Evaluating Model Accuracy
 
 
-
+---
 ### Statistical Methods
 ^2c75e3
 
@@ -88,7 +89,11 @@ Strategies in increasing order of complexity
 	- ARIMA (p,0,q) = ARMA(p,q)
 
 
+---
 
 Distance between two unequal length time series : [[Dynamic Time Warping]]
 
+---
 
+**KATS** : https://facebookresearch.github.io/Kats/
+Time Series analysis library by ==Facebook==

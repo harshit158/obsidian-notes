@@ -19,11 +19,12 @@ Types of Approaches:
 	- One-Class SVM
 
 - ==Reconstruction== Error based
-	- PCA
+	- [[PCA]]
 	- Autoencoder
 
 ## For Time Series:
-https://medium.com/bukalapak-data/time-series-anomaly-detection-simple-yet-powerful-approaches-4449ffe1ca12
+- [Neptune Blog | # Anomaly Detection in Time Series: 2021](https://neptune.ai/blog/anomaly-detection-in-time-series)
+- https://medium.com/bukalapak-data/time-series-anomaly-detection-simple-yet-powerful-approaches-4449ffe1ca12
 ![|900](https://miro.medium.com/max/1182/1*5kUgnjnrfJhxL47BeXl1JQ.png)
 
 https://towardsdatascience.com/effective-approaches-for-time-series-anomaly-detection-9485b40077f1

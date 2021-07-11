@@ -1,5 +1,5 @@
 - Its a symmetric matrix
-- 
+- Computed by $XX^T$
 
 
 ![Interpretation of Covariance, Covariance Matrix and Eigenvalues | Towards  Data Science|700](https://miro.medium.com/max/7520/1*J6z7xcleH9wxHGGCLvDptg.jpeg)
