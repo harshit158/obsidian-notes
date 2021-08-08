@@ -1,0 +1,13 @@
+{
+  "readableLineLength": false,
+  "spellcheck": true,
+  "foldHeading": true,
+  "foldIndent": false,
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "fileSortOrder": "byModifiedTime",
+  "promptDelete": false,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "Assets",
+  "showFrontmatter": false
+}

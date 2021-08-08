@@ -6,3 +6,6 @@ Eigendecomposition can be only applied to certain matrices, hence SVD is a gener
 
 - Column vectors of ==U== -> Eigenvectors of ==$AA^T$== 
 - Column vectors of ==V== -> Eigenvectors of ==$A^TA$==
+
+Remember:
+- Always ==center the data== before using SVD

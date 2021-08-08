@@ -6,10 +6,12 @@ Ref:
 In PCA, we are interested in finding the axes that encode the most variations in the original dataset
 But in LDA, we are interested in ==maximizing separability between the known number of categories==
 
+![Classification of NIR spectra by Linear Discriminant Analysis in Python|700](https://nirpyresearch.com/wp-content/uploads/2018/11/PCAvsLDA.png)
+
 ---
 How does LDA create new axes ?
-1. Maximize distance between means
-2. Minimize variation within each category
+1. Maximize distance between means of known categories
+2. Minimize variation (known as "scatter") within each category
 ![[Pasted image 20210711121139.png|700]]
 
 ---

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ML/GMM.md",
+            "file": "ML/PCA.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "covariance",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/GMM.md",
+                "file": "ML/PCA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/GMM.md"
+                "file": "ML/PCA.md"
               }
             }
           }
@@ -117,15 +117,15 @@
   },
   "active": "b863a8f0eca3907b",
   "lastOpenFiles": [
-    "ML/GMM (Gaussian Mixture Models).md",
-    "ML/LDA.md",
     "ML/PCA.md",
-    "ML/Anomaly Detection.md",
-    "ML/PCA (Principal Component Analysis).md",
-    "ML/Topic Modelling.md",
-    "ML/Untitled.md",
+    "ML/KL Divergence.md",
+    "ML/Recommender Systems.md",
+    "ML/Time Series.md",
+    "Maths/SVD.md",
     "Maths/Eigen Decomposition.md",
-    "Maths/Matrix Decompositions.md",
-    "Maths/Singular Value Decomposition.md"
+    "Maths/Covariance matrix.md",
+    "Misc/ajays meeting.md",
+    "ML/Augmented Dickey-Fuller Test.md",
+    "ML/LDA.md"
   ]
 }
