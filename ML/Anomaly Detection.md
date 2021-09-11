@@ -3,7 +3,7 @@ Types of Anomalies:
 1. Point Anomalies
 2. Contextual Anomalies
 3. Collective Anomalies
-
+ 
 
 Types of Approaches:
 ---
