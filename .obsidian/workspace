@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0a6cb8544164adcd",
+        "id": "df0d18856256c659",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Maths/p-value, type1 and type2 errors.md",
+            "file": "ML/Random Forest.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pca",
+                "query": "linear regression",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/p-value, type1 and type2 errors.md",
+                "file": "ML/Random Forest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,19 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/p-value, type1 and type2 errors.md"
+                "file": "ML/Random Forest.md"
+              }
+            }
+          },
+          {
+            "id": "62198035a4272f12",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ML/Random Forest.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -115,17 +127,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0a6cb8544164adcd",
+  "active": "df0d18856256c659",
   "lastOpenFiles": [
+    "ML/Random Forest.md",
+    "ML/Locality Sensitive Hashing.md",
+    "ML/Linear Regression.md",
+    "ML/L1 Regularization (Lasso).md",
+    "ML/L2 Regularization (Ridge).md",
+    "ML/Dropout.md",
+    "Leetcode/Questions/22. Generate Parentheses.md",
+    "Leetcode/Questions/Untitled.md",
     "Maths/p-value, type1 and type2 errors.md",
-    "MOOCs/ML with Graphs/Embedding Entire Graphs.md",
-    "Papers and Articles/List.md",
-    "Papers and Articles/Grammar Correction on Devices.md",
-    "Papers and Articles/Getting labels using ___ learning.md",
-    "Papers and Articles/Graph Neural Networks for Natural Language Processing A Survey.md",
-    "ML/Anomaly Detection.md",
-    "ML/PCA.md",
-    "Maths/Convexity.md",
-    "Maths/SVD.md"
+    "ML/Hypothesis Testing.md"
   ]
 }

@@ -1,18 +1,24 @@
 #union-find
 
+Ref:
+Summary: https://leetcode.com/explore/learn/card/graph/618/disjoint-set/3844/
+Full optimized code: https://leetcode.com/explore/learn/card/graph/618/disjoint-set/3843/
+
 What is a ==Disjoint-Set== ?
 Group of sets where no item can be in more than one set
 
 Used for:
 - detecting cycle in a graph
+- checking if two nodes are connected
 
 ### Two Parts:
 1. ==Find() :== 
-Determine which subset a particular element is in. Used for determining if two elements are in the same subset.
+Determine which subset a particular element is in. Finds the root node of a given vertex
+Used for determining if two elements are in the same subset.
 An item from this set acts as the representative of the set.
 
 2. ==Union() :==
-Join two subsets into a single subset
+Join two subsets into a single subset and makes their root nodes same
 Representative of one set becomes representative of other set.
 
 
@@ -52,6 +58,20 @@ def find(x):
 Always attach smaller tree to the root of the larger tree. 
 
 ![Union-find data structure (disjoint set data structure) | Programming,  algorithms and data structures|500](https://algocoding.files.wordpress.com/2014/09/uf4_union_by_rank.png)
+
+```python
+def union(self, x, y):
+	rootX = self.find(x)
+	rootY = self.find(y)
+	if rootX != rootY:
+		if self.rank[rootX] > self.rank[rootY]:
+			self.root[rootY] = rootX
+		elif self.rank[rootX] < self.rank[rootY]:
+			self.root[rootX] = rootY
+		else:
+			self.root[rootY] = rootX
+			self.rank[rootX] += 1
+```
 
 
 ### Complexity

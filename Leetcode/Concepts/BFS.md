@@ -1,3 +1,8 @@
+#BFS 
+Used to:
+- traverse all the vertices of a graph (similar to DFS)
+- find **shortest path** between two vertices in a graph where all edges have **equal weights**
+
 ## Algorithm (for graph traversal):
 1. - ==Pick== any node
 	- ==visit== the adjacent ==unvisited== vertex

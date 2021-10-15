@@ -1,4 +1,7 @@
-
+#DFS 
+Used to:
+- traverse all vertices in a graph
+- traverse all paths between any two vertices in a graph
 
 Can be solved:
 - Recursively
