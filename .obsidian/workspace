@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "df0d18856256c659",
+        "id": "96c7823c9fd4f778",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ML/Random Forest.md",
-            "mode": "preview"
+            "file": "ML/Logistic Regression.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "linear regression",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Random Forest.md",
+                "file": "ML/Logistic Regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Random Forest.md"
+                "file": "ML/Logistic Regression.md"
               }
             }
           },
@@ -114,30 +114,30 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Random Forest.md",
+                "file": "ML/Logistic Regression.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "df0d18856256c659",
+  "active": "96c7823c9fd4f778",
   "lastOpenFiles": [
-    "ML/Random Forest.md",
-    "ML/Locality Sensitive Hashing.md",
-    "ML/Linear Regression.md",
-    "ML/L1 Regularization (Lasso).md",
-    "ML/L2 Regularization (Ridge).md",
-    "ML/Dropout.md",
-    "Leetcode/Questions/22. Generate Parentheses.md",
-    "Leetcode/Questions/Untitled.md",
-    "Maths/p-value, type1 and type2 errors.md",
-    "ML/Hypothesis Testing.md"
+    "ML/Logistic Regression.md",
+    "ML/PCA.md",
+    "ML/LSA.md",
+    "ML/Anomaly Detection.md",
+    "ML/Generative Vs Discriminative models.md",
+    "ML/Decision Trees.md",
+    "MOOCs/2-4 Machine Learning Data Lifecycle in Production/Week 1.md",
+    "MOOCs/2-4 Machine Learning Data Lifecycle in Production/About.md",
+    "MOOCs/1-4 Intro to ML in Production/Week 3.md",
+    "Assets/Pasted image 20211103151142.png"
   ]
 }

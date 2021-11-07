@@ -6,3 +6,13 @@ Solved by [[Ridge Regression]] where the solution ==$w=(X^TX+\lambda I)^{-1}X^Ty
 1. Each observation is independent ^320904
 2. Residuals are normally distributed
 3. There is a linear relationship between independent and dependent variables
+
+
+#### Heteroskedasticity
+- ==variance of the residual term==, or error term, in a regression model ==varies widely==
+
+#### Homoskedasticity
+- ==variance of the residual term==, or error term, in a regression model is ==constant==. That is, the error term does not vary much as the value of the predictor variable changes.
+- One of the assumptions in Linear Regression
+
+![Learn Heteroskedasticity in 2 minutes | by Dmitry Yemelyanov | Riga Data  Science Club | Medium|700](https://miro.medium.com/max/901/1*M2187QiB0o0I6r0JfM0JBg.jpeg)

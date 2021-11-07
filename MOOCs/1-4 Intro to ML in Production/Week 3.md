@@ -54,3 +54,32 @@ It helps in estimating Bayes Error / irreducible error to help with error analys
 🥊 Raising HLP
 - When label y comes from humans, HLP << 100% may indicate ambiguous labeling instructions.
 - Improving labeling consistency will raise, HLP but also will make it more difficult for the ML model to match this improved accuracy.
+
+
+---
+## Label and Organize Data
+
+### Obtaining data
+🥊How long to spend obtaining data:
+- Get into the iteration loop as quickly as possible
+- Instead of asking how much time it takes to obtain ==m samples==, ask how many samples we can get in ==k days==.
+
+🥊 Labelling data:
+- In-house
+- Outsourced
+- Crowdsourced
+
+🥊 Dont increase data by ==more than 10X== at a time
+
+### Data pipeline
+POC phase:
+- Goal is to decide if the model is worth deploying and is of utility
+- Dont focus and get bogged down by replicability of the preprocessing script
+
+Production phase:
+- Use more sophisticated tools to make pipeline replicable
+- ==Tensorflow Transform==, ==Apache Beam==, Airlflow
+
+### Balanced train/dev/test splits
+When the dataset is small, random split won't give us different classes in the same proportion as the population.
+Hence, do a randomized split such as ==Stratified Sampling==

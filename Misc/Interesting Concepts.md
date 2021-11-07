@@ -8,3 +8,6 @@
 **Murmuration**
 
 ![Starling murmurations | Lincolnshire Wildlife Trust|500](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYZfJKTIqWqyMyepNd_DWw6UQQk_vwBm36Cw&usqp=CAU)
+
+**Stroop Effect**
+![Stroop Effect|500](https://www.psytoolkit.org/lessons/stroop.png)
