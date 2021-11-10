@@ -5,9 +5,15 @@
   "foldIndent": false,
   "showLineNumber": true,
   "alwaysUpdateLinks": true,
-  "fileSortOrder": "byCreatedTime",
+  "fileSortOrder": "byModifiedTime",
   "promptDelete": false,
   "newFileLocation": "current",
   "attachmentFolderPath": "Assets",
-  "showFrontmatter": false
+  "showFrontmatter": false,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

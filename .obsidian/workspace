@@ -4,13 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "96c7823c9fd4f778",
+        "id": "29945173b66044a8",
         "type": "leaf",
+        "dimension": 19.572261827608557,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ML/Logistic Regression.md",
+            "file": "MOOCs/2-4 Machine Learning Data Lifecycle in Production/Week 1.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "7c929cab5433d9d0",
+        "type": "leaf",
+        "dimension": 80.42773817239144,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "MOOCs/2-4 Machine Learning Data Lifecycle in Production/Week 1.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "distances",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357
+    "width": 245
   },
   "right": {
     "id": "b78f15cdafdd7f3a",
@@ -76,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Logistic Regression.md",
+                "file": "MOOCs/2-4 Machine Learning Data Lifecycle in Production/Week 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Logistic Regression.md"
+                "file": "MOOCs/2-4 Machine Learning Data Lifecycle in Production/Week 1.md"
               }
             }
           },
@@ -114,30 +127,30 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Logistic Regression.md",
+                "file": "MOOCs/2-4 Machine Learning Data Lifecycle in Production/Week 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "96c7823c9fd4f778",
+  "active": "7c929cab5433d9d0",
   "lastOpenFiles": [
-    "ML/Logistic Regression.md",
-    "ML/PCA.md",
-    "ML/LSA.md",
-    "ML/Anomaly Detection.md",
-    "ML/Generative Vs Discriminative models.md",
-    "ML/Decision Trees.md",
     "MOOCs/2-4 Machine Learning Data Lifecycle in Production/Week 1.md",
     "MOOCs/2-4 Machine Learning Data Lifecycle in Production/About.md",
-    "MOOCs/1-4 Intro to ML in Production/Week 3.md",
-    "Assets/Pasted image 20211103151142.png"
+    "Tasks.md",
+    "ML/Distances.md",
+    "Assets/Pasted image 20211109022220.png",
+    "Assets/Pasted image 20210615174433.png",
+    "Assets/Pasted image 20210615171757.png",
+    "Assets/Pasted image 20210614023318.png",
+    "Assets/graph.pdf",
+    "Assets/Pasted image 20211006154225.png"
   ]
 }

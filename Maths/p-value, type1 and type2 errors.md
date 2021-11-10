@@ -7,8 +7,11 @@ Hence we define,
 - ==Alternate hypothesis== -> the statement that we want to ==prove==
 
 The idea is that we want to disprove Null hypothesis based on **p-value**
-- If p-value > threshold, then NULL hypothesis is True
-- Otherwise, alternate hypothesis is True
+- If ==p-value > threshold==
+	- NULL hypothesis is **Accepted**
+- Otherwise
+	- NULL hypothesis is  **Rejected**
+	- Still can't say anything about Alternate hypothesis
 
 This means that:
 - ==p-value is the probability that the NULL hypothesis is True==
