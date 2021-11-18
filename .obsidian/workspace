@@ -8,11 +8,8 @@
         "type": "leaf",
         "dimension": 44.35590969455511,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "MOOCs/2-4 Machine Learning Data Lifecycle in Production/Week 1.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       },
       {
@@ -89,7 +86,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOOCs/2-4 Machine Learning Data Lifecycle in Production/Week 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,9 +112,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "MOOCs/2-4 Machine Learning Data Lifecycle in Production/Week 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -127,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOOCs/2-4 Machine Learning Data Lifecycle in Production/Week 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,6 +135,8 @@
   },
   "active": "29945173b66044a8",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled 1.md",
     "MOOCs/2-4 Machine Learning Data Lifecycle in Production/Week 1.md",
     "MOOCs/2-4 Machine Learning Data Lifecycle in Production/Week 2.md",
     "ML/Strategies for OOV.md",
@@ -149,8 +144,6 @@
     "ML/Knowledge Graphs.md",
     "ML/RDF.md",
     "ML/KNN.md",
-    "ML/GMM.md",
-    "ML/Topic Modelling.md",
-    "System Design/Load Balancing.md"
+    "ML/GMM.md"
   ]
 }
