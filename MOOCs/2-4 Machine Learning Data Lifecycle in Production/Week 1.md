@@ -164,6 +164,9 @@ TFDV workflow is given below:
 3. This is used for identifying anomalies
 ![[Pasted image 20211109213509.png]]
 
-Lab Notebook: https://github.com/harshit158/machine-learning-data-lifecycle-in-production/blob/main/C2_W1_Lab_1_TFDV_Exercise.ipynb
+---
+==**Lab Notebook**==: https://github.com/harshit158/machine-learning-data-lifecycle-in-production/blob/main/C2_W1_Lab_1_TFDV_Exercise.ipynb
 
-Assignment: https://github.com/harshit158/machine-learning-data-lifecycle-in-production/blob/main/C2W1_Assignment.ipynb
+==**Assignment:**== https://github.com/harshit158/machine-learning-data-lifecycle-in-production/blob/main/C2W1_Assignment.ipynb
+
+---

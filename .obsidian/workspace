@@ -6,7 +6,7 @@
       {
         "id": "29945173b66044a8",
         "type": "leaf",
-        "dimension": 19.572261827608557,
+        "dimension": 44.35590969455511,
         "state": {
           "type": "markdown",
           "state": {
@@ -18,7 +18,7 @@
       {
         "id": "7c929cab5433d9d0",
         "type": "leaf",
-        "dimension": 80.42773817239144,
+        "dimension": 55.644090305444884,
         "state": {
           "type": "markdown",
           "state": {
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "distances",
+                "query": "LSH",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245
+    "width": 282
   },
   "right": {
     "id": "b78f15cdafdd7f3a",
@@ -140,17 +140,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7c929cab5433d9d0",
+  "active": "29945173b66044a8",
   "lastOpenFiles": [
     "MOOCs/2-4 Machine Learning Data Lifecycle in Production/Week 1.md",
-    "MOOCs/2-4 Machine Learning Data Lifecycle in Production/About.md",
-    "Tasks.md",
-    "ML/Distances.md",
-    "Assets/Pasted image 20211109022220.png",
-    "Assets/Pasted image 20210615174433.png",
-    "Assets/Pasted image 20210615171757.png",
-    "Assets/Pasted image 20210614023318.png",
-    "Assets/graph.pdf",
-    "Assets/Pasted image 20211006154225.png"
+    "MOOCs/2-4 Machine Learning Data Lifecycle in Production/Week 2.md",
+    "ML/Strategies for OOV.md",
+    "Misc/Tips and Tricks.md",
+    "ML/Knowledge Graphs.md",
+    "ML/RDF.md",
+    "ML/KNN.md",
+    "ML/GMM.md",
+    "ML/Topic Modelling.md",
+    "System Design/Load Balancing.md"
   ]
 }
