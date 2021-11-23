@@ -115,7 +115,10 @@ Different Correlation coefficients:
 	- Anova F-Test
 	- Chi squared Test
 	
-	==Note==: When using these, its important to note the types of features and target variable:
+	
+	==Note==: 
+	- Can use sklearn's **SelectKBest** with appropriate scoring function (as shown below). Should be careful considering the type of features
+	- When using these, its important to note the types of features and target variable:
 
 |Method | Feature type | Target type| 
 | :-- | :-- | :-- |
