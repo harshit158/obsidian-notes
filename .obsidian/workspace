@@ -6,11 +6,11 @@
       {
         "id": "29945173b66044a8",
         "type": "leaf",
-        "dimension": 44.9468085106383,
+        "dimension": 45.611702127659576,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MOOCs/2-4 Machine Learning Data Lifecycle in Production/Week 2.md",
+            "file": "MOOCs/2-4 Machine Learning Data Lifecycle in Production/Week 3.md",
             "mode": "source"
           }
         }
@@ -18,11 +18,11 @@
       {
         "id": "7c929cab5433d9d0",
         "type": "leaf",
-        "dimension": 55.053191489361694,
+        "dimension": 54.388297872340424,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MOOCs/2-4 Machine Learning Data Lifecycle in Production/Week 2.md",
+            "file": "MOOCs/2-4 Machine Learning Data Lifecycle in Production/Week 3.md",
             "mode": "preview"
           }
         }
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pearson",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOOCs/2-4 Machine Learning Data Lifecycle in Production/Week 2.md",
+                "file": "MOOCs/2-4 Machine Learning Data Lifecycle in Production/Week 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOOCs/2-4 Machine Learning Data Lifecycle in Production/Week 2.md"
+                "file": "MOOCs/2-4 Machine Learning Data Lifecycle in Production/Week 3.md"
               }
             }
           },
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOOCs/2-4 Machine Learning Data Lifecycle in Production/Week 2.md",
+                "file": "MOOCs/2-4 Machine Learning Data Lifecycle in Production/Week 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,15 +142,15 @@
   },
   "active": "29945173b66044a8",
   "lastOpenFiles": [
-    "MOOCs/2-4 Machine Learning Data Lifecycle in Production/Week 2.md",
-    "ML/L2 Regularization (Ridge).md",
     "MOOCs/2-4 Machine Learning Data Lifecycle in Production/Week 3.md",
+    "MOOCs/2-4 Machine Learning Data Lifecycle in Production/Week 2.md",
     "MOOCs/2-4 Machine Learning Data Lifecycle in Production/Week 1.md",
+    "MOOCs/2-4 Machine Learning Data Lifecycle in Production/About.md",
+    "Papers and Articles/Getting labels using ___ learning.md",
+    "ML/L2 Regularization (Ridge).md",
     "Misc/Quotes.md",
     "Misc/Tips and Tricks.md",
     "ML/ANN (Appox. Nearest Neighbors).md",
-    "Tasks.md",
-    "Assets/Pasted image 20211119094800.png",
-    "Assets/Pasted image 20211116180907.png"
+    "Tasks.md"
   ]
 }

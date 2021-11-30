@@ -129,8 +129,35 @@ Eg: Actual vs Predicted click through. Idea is to get labels through model's pre
 	![[Pasted image 20211109014350.png]]
 
 4. ==Semi Supervised Labelling==
+![[Pasted image 20210811175759.png|600]]
+An example use case is ==Graph based Label Propagation== as shown below:
+![[Pasted image 20211123095146.png|300]]
+
 5. ==Active Learning==
-6. ==Weak Supervision==
+	- Family of algorithms for ==intelligently sampling== the data
+	- Select the points to be labeled that would be most informative for model training
+	- Typical lifecycle:
+	![[Pasted image 20211123095722.png|600]]
+	- The crux is the ==sampling techniques== which are as follows:
+		- **Margin Sampling**:
+		Label points the current model is least confident in
+
+		- **Cluster-based sampling:**
+		Sample from  well formed clusters to "cover" the entire space
+		- **Query-by-committee:**
+		Train an ensemble of models and sample points that generate disagreement
+		- ** Region-based sampling:**
+		Runs several active learning algorithms in different partitions of the space
+
+1. ==Weak Supervision==
+	- Start with unlabeled data,  without ground-truth labels
+	- One or more weak supervision sources are used to label data:
+		- A list of heuristics that can automate labelling
+		- Typically provided by subject matter experts
+	- Noisy labels have certain probability of being correct, not 100%
+	- Objective is to learn a generative model to determine weights for weak supervision sources.
+	- ==Snorkel==  is a #tool for weak supervision
+	![[Pasted image 20211123102026.png|550]]
 
 ---
 ## Validating Data
