@@ -12,3 +12,5 @@
 4. Termination condition:
 	- If still some edges left, there is cycle
 	- Otherwise we get the topological sort
+
+

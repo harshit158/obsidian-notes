@@ -4,26 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "29945173b66044a8",
+        "id": "e328eec949fe7595",
         "type": "leaf",
-        "dimension": 45.611702127659576,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MOOCs/2-4 Machine Learning Data Lifecycle in Production/Week 3.md",
+            "file": "NLP/Pointwise Mutual Information (PMI).md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "7c929cab5433d9d0",
-        "type": "leaf",
-        "dimension": 54.388297872340424,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "MOOCs/2-4 Machine Learning Data Lifecycle in Production/Week 3.md",
-            "mode": "preview"
           }
         }
       }
@@ -73,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284
+    "width": 431
   },
   "right": {
     "id": "b78f15cdafdd7f3a",
@@ -89,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOOCs/2-4 Machine Learning Data Lifecycle in Production/Week 3.md",
+                "file": "NLP/Pointwise Mutual Information (PMI).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOOCs/2-4 Machine Learning Data Lifecycle in Production/Week 3.md"
+                "file": "NLP/Pointwise Mutual Information (PMI).md"
               }
             }
           },
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOOCs/2-4 Machine Learning Data Lifecycle in Production/Week 3.md",
+                "file": "NLP/Pointwise Mutual Information (PMI).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,17 +127,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "29945173b66044a8",
+  "active": "e328eec949fe7595",
   "lastOpenFiles": [
-    "MOOCs/2-4 Machine Learning Data Lifecycle in Production/Week 3.md",
-    "MOOCs/2-4 Machine Learning Data Lifecycle in Production/Week 2.md",
+    "NLP/Pointwise Mutual Information (PMI).md",
+    "NLP/Transformers.md",
     "MOOCs/2-4 Machine Learning Data Lifecycle in Production/Week 1.md",
-    "MOOCs/2-4 Machine Learning Data Lifecycle in Production/About.md",
-    "Papers and Articles/Getting labels using ___ learning.md",
-    "ML/L2 Regularization (Ridge).md",
-    "Misc/Quotes.md",
-    "Misc/Tips and Tricks.md",
-    "ML/ANN (Appox. Nearest Neighbors).md",
-    "Tasks.md"
+    "MOOCs/2-4 Machine Learning Data Lifecycle in Production/Week 2.md",
+    "Tasks.md",
+    "MOOCs/2-4 Machine Learning Data Lifecycle in Production/Week 3.md",
+    "Misc/Interview Preparation Checklist.md",
+    "Templates/Emojis.md",
+    "Templates/Leetcode.md",
+    "Assets/Pasted image 20211122135158.png"
   ]
 }
