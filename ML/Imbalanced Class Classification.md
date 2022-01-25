@@ -1,11 +1,14 @@
-Oversampling:
+**1. Assymetric Loss functions**
+
+**2. Oversampling:**
 - ==SMOTE== (Synthetic Minority Oversampling Technique)
 	- Synthesize elements for the minority class, in the vicinity of already existing elements
 
 ![](https://miro.medium.com/max/918/0*UrGYcz_Ab-HTo4-B.png)
 
-Undersampling:
+**3. Undersampling:**
 - ==Cluster Centroids==
+	- Cluster data points and remove points from large clusters with <u>random sampling</u>
 
 - ==Tomek Links==
 	- Select all those pairs of data points a, b such that:
