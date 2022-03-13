@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e328eec949fe7595",
+        "id": "9cc50575ab9d5ef2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "System Design/Load Balancing.md",
+            "file": "Work/KG from Logs.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "imbalanced",
+                "query": "statistics",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Design/Load Balancing.md",
+                "file": "Work/KG from Logs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Design/Load Balancing.md"
+                "file": "Work/KG from Logs.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Design/Load Balancing.md",
+                "file": "Work/KG from Logs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e328eec949fe7595",
+  "active": "9cc50575ab9d5ef2",
   "lastOpenFiles": [
+    "Work/KG from Logs.md",
+    "Papers and Articles/SLOGERT.md",
+    "Papers and Articles/List.md",
+    "ML/Time Series.md",
+    "Work/TODOs.md",
+    "MOOCs/Practical Time Series/Week 2.md",
+    "MOOCs/Practical Time Series/Week 3.md",
+    "Work/AIOPs.md",
     "System Design/Load Balancing.md",
-    "Untitled.md",
-    "Tasks.md",
-    "Leetcode/Questions/15. 3Sum.md",
-    "Leetcode/Questions/16. 3Sum Closest.md",
-    "Leetcode/Questions/442. Find All Duplicates in an Array.md",
-    "Leetcode/Questions/448. Find All Numbers Disappeared in an Array.md",
-    "Leetcode/Questions/79. Word Search.md",
-    "Leetcode/Questions/22. Generate Parentheses.md",
-    "Leetcode/Questions/429. N-ary Tree Level Order Traversal.md"
+    "MOOCs/Introduction to Big Data with Spark and Hadoop/Week1 - Intro.md"
   ]
 }

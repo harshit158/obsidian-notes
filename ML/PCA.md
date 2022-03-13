@@ -9,7 +9,7 @@ Ref:
 ### Two Approaches:
 (Assuming X is nxm matrix, where n is the number of observations and m is number of features )
 1. **Using [[Eigen Decomposition]]**
-	1. Data -> [[Covariance Matrix]] -> Eigen Decomposition
+	1. Data -> [[Covariance matrix and Correlation]] -> Eigen Decomposition
 	(==Doesn't require centering==, because its done implicitly while calculating covariance matrix)
 	
 	2. Data -> $X^TX / (n-1)$ -> Eigen Decomposition

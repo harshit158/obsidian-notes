@@ -33,4 +33,5 @@ https://towardsdatascience.com/effective-approaches-for-time-series-anomaly-dete
 
 
 ![](https://miro.medium.com/max/2592/1*q8J3Gc94eBvY4gOn9UTCaQ.gif)
-
+Note: ==Shewhart Control Chart== is a chart that shows the control lines (3 sigma for example) and anything beyond that is an anomaly 
+![[Pasted image 20220202140859.png|500]]

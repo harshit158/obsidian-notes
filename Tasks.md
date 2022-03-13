@@ -29,6 +29,4 @@ Investment options:
 1. Cryptocurrency
 
 
-
-Ask Papa doubts:
-1. City of birth - Ganiyar or Mahindergarh
+1. 

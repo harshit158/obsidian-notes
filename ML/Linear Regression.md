@@ -3,9 +3,10 @@ $X^TX$ -> not invertible when features are collinear ([[Multicollinearity]])
 Solved by [[Ridge Regression]] where the solution ==$w=(X^TX+\lambda I)^{-1}X^Ty$== involves inverting ==$(X^TX+\lambda I)$== instead of $X^TX$
 
 **Assumptions:**
-1. Each observation is independent ^320904
-2. Residuals are normally distributed
-3. There is a linear relationship between independent and dependent variables
+1. Each observation is independent (because error terms are independent) ^320904
+2. Residuals (errors) are normally distributed and on average 0
+3. Errors all have the same variance (homoscedastic)
+4. There is a linear relationship between independent and dependent variables
 
 
 #### Heteroskedasticity

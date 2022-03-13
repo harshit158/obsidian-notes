@@ -76,7 +76,7 @@ This graph can be applied to both training and serving scenarios and different m
 - N dimensional space defined by your N features
 
 🥊 Feature Space Coverage:
-Ensure that Train/Eval is representativ of the Serving dataset:
+Ensure that Train/Eval is representative of the Serving dataset:
 - Same numerical ranges
 - Same classes
 - Similar characteristics of image data

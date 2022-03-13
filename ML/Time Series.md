@@ -12,11 +12,13 @@
 ---
 ### Properties
 1. **==Stationarity==**:
+	(The properties of one section of data are much like the properties of other sections of data)
 	-	Statistical properties of time series DO NOT change over time. 
 		Following are the <u>conditions for stationarity</u>:
-		-	Mean is constant
+		-	Mean is constant (There is no Trend)
 		-	Variance is constant
 		-	There is no Seasonality
+
 
 	-	Ideally we want to have stationary time series
 
@@ -35,6 +37,21 @@
 	- Measures the relationship between a variable's current value and its past values
 	- Can't use OLS (linear regression) since autocorrelation violates independence assumption [[Linear Regression#^320904]]
 
+
+---
+### Components of a Time Series
+1. Trend
+2. Seasonality
+3. Cycle
+4. Irregularities / Noise
+
+We generally decompose a given time series into these components and then analyse them separately
+
+🥊  How to identify seasonality / period of a time series ?
+- Visually by looking at the plot
+- Logically based on the meaning of the variable
+- Plug in the different periods and see the result of downstream tasks 
+
 ---
 ### Approaches for Time Series Prediction
 - Statistical Methods [[Time Series#^2c75e3]]
@@ -43,6 +60,8 @@
 	- Deep Learning based
 		- LSTM / RNN
 		- Prophet by Facebook
+
+![[Pasted image 20220210131516.png|800]]
 
 ### 3 Step Process
 Refs: 
@@ -95,5 +114,10 @@ Distance between two unequal length time series : [[Dynamic Time Warping]]
 
 ---
 
-**KATS** : https://facebookresearch.github.io/Kats/
+Tools:
+- **KATS** : https://facebookresearch.github.io/Kats/
 Time Series analysis library by ==Facebook==
+- Seasonality detection using [FFT](https://towardsdatascience.com/how-to-detect-seasonality-outliers-and-changepoints-in-your-time-series-5d0901498cff#:~:text=FFTDetector%20%E2%80%94%20Fast%20Fourier%20Transform%20Seasonality%20Detector):
+
+
+### STL Decomposition
