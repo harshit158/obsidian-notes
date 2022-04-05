@@ -40,3 +40,7 @@ $E[X_t]=\mu t$ and $Var[X_t]=\sigma^2 t$ which means the mean and variance depen
 - Autocorrelation cuts off at lag q (Below is an example for q=2)
 ![[Pasted image 20220308002419.png|800]]
 
+
+
+-> need confident rules based on domain knowledge
+-> use some visual cues to identify the labels .. similarity in distributions 

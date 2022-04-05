@@ -25,13 +25,17 @@ TODOs:
 - [ ] Start Pytorch implementation
 - [ ] Read about time error project 
 
+Possible TODOs:
+1. 
+
 
 **03 / 08 / 2022**
-- [ ] Distributed:
+- [ ] Distributed Training:
 	- [ ] Training: Spark
 	- [ ] Serving: Ray
 - [ ] Identify the seasonality from the data automatically
 	- [ ] Using FFT from Kats (https://towardsdatascience.com/how-to-detect-seasonality-outliers-and-changepoints-in-your-time-series-5d0901498cff#:~:text=FFTDetector%20%E2%80%94%20Fast%20Fourier%20Transform%20Seasonality%20Detector)
+- [ ] Test on Packet Loss
 - [ ] While re-training the model, use a context vector from the past time series to feed it along with the next batch
 
 
@@ -61,3 +65,8 @@ Possible Research / Novelty:
 - [ ] Automatic identification of horizon length
 - [ ] Why patterns in some whereas none in others ?
 - [ ] RCA
+
+
+
+- I am currently involved in 5 projects
+- Cloud solutions 

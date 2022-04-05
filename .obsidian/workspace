@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9cc50575ab9d5ef2",
+        "id": "2da34fa85bb1d1be",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Work/KG from Logs.md",
+            "file": "Tasks.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "statistics",
+                "query": "backtracking",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/KG from Logs.md",
+                "file": "Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/KG from Logs.md"
+                "file": "Tasks.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/KG from Logs.md",
+                "file": "Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9cc50575ab9d5ef2",
+  "active": "2da34fa85bb1d1be",
   "lastOpenFiles": [
-    "Work/KG from Logs.md",
-    "Papers and Articles/SLOGERT.md",
-    "Papers and Articles/List.md",
-    "ML/Time Series.md",
-    "Work/TODOs.md",
-    "MOOCs/Practical Time Series/Week 2.md",
-    "MOOCs/Practical Time Series/Week 3.md",
+    "Tasks.md",
     "Work/AIOPs.md",
-    "System Design/Load Balancing.md",
-    "MOOCs/Introduction to Big Data with Spark and Hadoop/Week1 - Intro.md"
+    "Work/KG for Log Analysis.md",
+    "Misc/Tools and Libraries.md",
+    "Leetcode/Concepts/Backtracking.md",
+    "Leetcode/Questions/78. Subsets.md",
+    "Leetcode/Questions/22. Generate Parentheses.md",
+    "MOOCs/Practical Time Series/Week 2.md",
+    "ML/Time Series.md",
+    "Misc/Quotes.md"
   ]
 }

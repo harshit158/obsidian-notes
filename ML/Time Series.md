@@ -13,6 +13,7 @@
 ### Properties
 1. **==Stationarity==**:
 	(The properties of one section of data are much like the properties of other sections of data)
+		Refer to MOOC content [[MOOCs/Practical Time Series/Week 3#^9cd811]]
 	-	Statistical properties of time series DO NOT change over time. 
 		Following are the <u>conditions for stationarity</u>:
 		-	Mean is constant (There is no Trend)
