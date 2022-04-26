@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tasks.md",
+            "file": "Misc/Tools and Libraries.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks.md",
+                "file": "Misc/Tools and Libraries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks.md"
+                "file": "Misc/Tools and Libraries.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks.md",
+                "file": "Misc/Tools and Libraries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -130,15 +130,15 @@
   },
   "active": "2da34fa85bb1d1be",
   "lastOpenFiles": [
+    "Misc/Tools and Libraries.md",
+    "Misc/Tips and Tricks.md",
+    "Misc/Quotes.md",
+    "Misc/Solving Autocomplete Issue on Jupyter.md",
+    "Misc/My Mistakes.md",
     "Tasks.md",
     "Work/AIOPs.md",
     "Work/KG for Log Analysis.md",
-    "Misc/Tools and Libraries.md",
     "Leetcode/Concepts/Backtracking.md",
-    "Leetcode/Questions/78. Subsets.md",
-    "Leetcode/Questions/22. Generate Parentheses.md",
-    "MOOCs/Practical Time Series/Week 2.md",
-    "ML/Time Series.md",
-    "Misc/Quotes.md"
+    "Leetcode/Questions/78. Subsets.md"
   ]
 }
