@@ -25,22 +25,21 @@
 
 
 ### Random Walk Model
-- $X_t=X_{t-1}+Z_t$ , where $Z_t$ is some random noise
-$X_0 = 0, X_1=Z_1, X_2=Z_2$
+$$X_t=X_{t-1}+Z_t$$
+- For example:
+$$X_0 = 0$$
+$$X_1= X_0 + Z_1 = Z_1$$
+$$X_2=X_1+Z_2 = Z_1 + Z_2$$
+... where $Z_t$ is some random noise
 Therefore, $X_t=\sum_{i=1}^{t}Z_i$  
 $E[X_t]=\mu t$ and $Var[X_t]=\sigma^2 t$ which means the mean and variance depends on the timestep t
 
-- Random Walk model is NOT stationary
+- ==Random Walk model is NOT stationary==
 
 ![[Pasted image 20220308001607.png|700]]
 
 
 ### Moving Average Model of order q.  (MA(q))
-- $X_t = Z_t + \theta_1Z_{t-1} + ... + \theta_qZ_{t-q}$
+- $X_t = \theta_0Z_t + \theta_1Z_{t-1} + ... + \theta_qZ_{t-q}$
 - Autocorrelation cuts off at lag q (Below is an example for q=2)
 ![[Pasted image 20220308002419.png|800]]
-
-
-
--> need confident rules based on domain knowledge
--> use some visual cues to identify the labels .. similarity in distributions 
