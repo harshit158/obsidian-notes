@@ -31,3 +31,12 @@ $$B^2X_t = BBX_t = BX_{t-1} = X_{t-2}$$
 Example, for Random Walk:
 $$X_t = X_{t-1} + Z_t$$
 $$X_t = BX_t + Z_t $$
+
+### Invertibility
+- Multiple Stochastic processes (time series) can have the same ACF plot
+- We can use invertibility to identify and rule out ==non invertible== series
+- Definition of Invertibility:
+	- ${X_t}$ is a stochastic process
+	- $Z_t$ is random disturbances or white noise
+	- $X_t$ is **invertible** if $Z_t = \sum_{k=0}^{\infty}\pi_kX_{t-k}$  where $\sum_{k=0}^{\infty}|\pi_k|$ is convergent
+- Invertibility condition guarantees unique MA process corresponding to observed ACF
