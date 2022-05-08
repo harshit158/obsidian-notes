@@ -122,3 +122,7 @@ Time Series analysis library by ==Facebook==
 
 
 ### STL Decomposition
+
+
+---
+- data-at-rest processing VS data-in-motion processing

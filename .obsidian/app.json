@@ -1,5 +1,5 @@
 {
-  "readableLineLength": false,
+  "readableLineLength": true,
   "spellcheck": true,
   "foldHeading": true,
   "foldIndent": false,
@@ -18,5 +18,6 @@
   },
   "useMarkdownLinks": false,
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": true,
+  "strictLineBreaks": false
 }

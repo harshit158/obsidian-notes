@@ -16,3 +16,10 @@ class args:
     learning_rate = 2e-5
 
 args.max_len```
+
+- Getting the filename without the extension, given the full path 
+```python
+from pathlib import Path
+Path(filename).stem  => returns filename without extension
+Path(filename).name  => returns filename WITH extension
+```

@@ -95,7 +95,7 @@ These points become important when dealing with terabytes of data or serving mil
 	-  Uses feature-target variable relationship
 	-  Selects those contributing the most
 
-![[Pasted image 20211113100920.png|800]]
+![[Pasted image 20211113100920.png|700]]
 
 1. ##### ==Filter Methods:==:
 Filter methods ranks each feature based on some ==univariate metric== / ==statistical tests==  and then selects the highest ranking features. 
