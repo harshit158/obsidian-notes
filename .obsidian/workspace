@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal/Tasks.md",
-            "mode": "source",
+            "file": "docs/ML/Locality Sensitive Hashing.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Tasks.md",
+                "file": "docs/ML/Locality Sensitive Hashing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Tasks.md"
+                "file": "docs/ML/Locality Sensitive Hashing.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Tasks.md",
+                "file": "docs/ML/Locality Sensitive Hashing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -130,15 +130,15 @@
   },
   "active": "2da34fa85bb1d1be",
   "lastOpenFiles": [
-    "Personal/Tasks.md",
-    "Personal/Quotes.md",
-    "Personal/My Mistakes.md",
-    "Personal/Piano.md",
-    "Personal/Interview Preparation Checklist.md",
-    "Personal/Interesting Concepts.md",
-    "Personal/Work/AIOPs.md",
-    "Personal/Work/KG for Log Analysis.md",
-    "Personal/Work/TODOs.md",
-    "Papers and Articles/SLOGERT.md"
+    "docs/ML/Locality Sensitive Hashing.md",
+    "docs/ML/Parametric VS Non-Parametric models.md",
+    "docs/ML/ONNX.md",
+    "docs/ML/NLP Terminology.md",
+    "docs/ML/Naive Bayes.md",
+    "docs/ML/Reservoir Sampling.md",
+    "docs/ML/Recommender Systems.md",
+    "docs/ML/Random Forest.md",
+    "docs/ML/RDF.md",
+    "docs/ML/Strategies for OOV.md"
   ]
 }

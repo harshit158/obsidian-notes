@@ -1,0 +1,4 @@
+- Resume
+	- CRF and Viterbi
+- Dan jurafsky book
+- Pytorch basics for NLP
