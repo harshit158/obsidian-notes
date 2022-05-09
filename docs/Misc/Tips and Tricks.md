@@ -15,7 +15,8 @@ class args:
     epochs = 5
     learning_rate = 2e-5
 
-args.max_len```
+args.max_len
+```
 
 - Getting the filename without the extension, given the full path 
 ```python
