@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "2da34fa85bb1d1be",
+        "id": "3c902989438f0ff9",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2da34fa85bb1d1be",
+  "active": "3c902989438f0ff9",
   "lastOpenFiles": [
     "docs/MOOCs/Book - Designing ML Systems (Chip Huyen)/C3 - Data Engineering Fundamentals.md",
-    "docs/Misc/Tips and Tricks.md",
-    "docs/Leetcode/Concepts/BFS.md",
-    "docs/Leetcode/Concepts/Cycle Detection  in Graph.md",
-    "docs/Leetcode/Concepts/Binary Search.md",
-    "docs/Leetcode/Concepts/Union Find (Disjoint Set).md",
-    "docs/Leetcode/Concepts/Trie.md",
-    "docs/Leetcode/Concepts/Topological Sort.md",
-    "docs/Leetcode/Concepts/Trees.md",
-    "docs/Leetcode/Concepts/Tips.md"
+    "docs/Assets/Untitled.md",
+    "docs/Assets/Pasted image 20220509102003.png",
+    "docs/Assets/304.png",
+    "docs/Assets/clustering Advanced Kmeans.pdf",
+    "docs/Assets/graph.pdf",
+    "docs/Assets/3.png",
+    "docs/Assets/2.png",
+    "docs/Assets/1.png",
+    "docs/Misc/Tips and Tricks.md"
   ]
 }
