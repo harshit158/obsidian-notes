@@ -33,3 +33,47 @@ for i in range(nrows):
 ### Text Vs Binary format
 - Text formats (Eg: CSV) take more space than Binary formats (Eg: Parquet)
 - Parquet format preferred by AWS S3, as it is faster to unload and consumers less storage
+
+
+## Data Models
+### Relational Model
+- Data is organized into relations (table is just a visual representation of a "relation")
+- Relation is a collection of tuples
+- Both rows and columns in a relation are unordered (they can be shuffled)
+
+![[Pasted image 20220510080335.png]]
+
+- **Normalization** is a technique to reduce data redundancy by separating contents in different tables. Types - 1NF, 2NF, etc
+
+- SQL: ==Declarative language==:  Specify the outputs you want, and the computer figures out the steps needed to get you the queried outputs
+  Python: ==Imperative Language==: Specify the steps needed for an action and the computer executes these steps to return the outputs
+
+- Just like SQL, there can be ==Declarative ML== - specify the task and the feature schema - model building will be taken care of by the framework
+	- Eg: **Ludwig** by Uber, **H2O AutoML**
+
+
+
+### NoSQL
+- Two types of Non relational models:
+	- **Document Model**
+	  The document model targets use cases where data comes in self-contained documents and relationships between one document and another are rare
+	  
+	- **Graph Model**
+	  Targets use cases where relationships between data items are common and important
+
+- Queries that are made possible in one Data model, is very hard in other data models
+
+
+### Structured Vs Unstructured
+- Structured Data adheres to schema
+  Unstructured Data doesn't have to
+  
+- **Data Lake**: 
+	- A repository for storing ==unstructured== data
+	- Usually used to store RAW data before processing
+  **Data Warehouse**: 
+	- For ==structured== data
+	- Stores data that has been processed and ready to be used
+
+![[Pasted image 20220510083623.png|600]]
+
