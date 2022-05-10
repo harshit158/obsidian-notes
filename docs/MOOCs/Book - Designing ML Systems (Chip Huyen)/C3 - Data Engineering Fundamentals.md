@@ -71,6 +71,7 @@ for i in range(nrows):
 - **Data Lake**: 
 	- A repository for storing ==unstructured== data
 	- Usually used to store RAW data before processing
+	  
   **Data Warehouse**: 
 	- For ==structured== data
 	- Stores data that has been processed and ready to be used
