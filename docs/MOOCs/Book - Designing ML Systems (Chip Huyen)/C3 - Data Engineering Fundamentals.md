@@ -140,6 +140,7 @@ for i in range(nrows):
 🥊  **==Event Driven== Architecture**
 
 ![[Pasted image 20220512092809.png|600]]
+
 - Instead of requesting data from the service, the service **broadcasts** its results to a broker which makes the results available to whosoever wants it.
 
 - DB can be broker, but it can be slow because of frequent I/O operations
