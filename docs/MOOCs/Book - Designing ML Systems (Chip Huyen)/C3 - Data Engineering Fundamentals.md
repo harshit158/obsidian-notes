@@ -163,4 +163,10 @@ for i in range(nrows):
 		- Message queue is responsible to deliver message to right consumers
 		- Eg: Apache RocketMQ, RabbitMQ
 		  ![[Pasted image 20220512101726.png]]
-		  
+
+## Batch Processing VS Stream processing
+
+- Tools for efficient stream processing:
+	- Apache Flink
+	- KSQL
+	- Spark Streaming
