@@ -106,3 +106,61 @@ for i in range(nrows):
 - But now, both types of databases can handle both of types of processing.
   They do it by **decoupling storage from processing**. 
   Eg: Bigquery, Snowflake, Teradata   
+
+
+## Modes of Data Flow
+- 3 Main modes of dataflow across different processes:
+	- (1) **Through Databases**
+		- Cons:
+			(1)  Both processes need to access the same database, not possible always
+			(2) Slow I/O operations from DBs can be latency heavy
+			
+	- (2) **Through Services using Requests** (REST APIs)
+		- Most popular style of requests:
+			(1) REST
+			(2) RPC (Remote Procedure Call)
+			
+	- (3) **Through Real Time Transport** (Apache Kafka, Amazon Kinesis)
+
+
+🥊  **Through Real Time Transport**
+
+- Data flow in real time can happen through 2 architectures:
+	(1) ==Request Driven== Architecture
+	(2) ==Even Driven== Architecture
+
+
+🥊  **==Request Driven== Architecture**
+
+![[Pasted image 20220512092423.png|600]]
+- This architecture can blow up if a single service stops working 
+- Instead of this, there can be a broker that takes care of passing data to whoever wants it
+
+
+🥊  **==Event Driven== Architecture**
+
+![[Pasted image 20220512092809.png|600]]
+- Instead of requesting data from the service, the service **broadcasts** its results to a broker which makes the results available to whosoever wants it.
+
+- DB can be broker, but it can be slow because of frequent I/O operations
+  Instead of DB, **Real time transport** makes use of **in-memory storage** as broker
+  
+- A piece of data broadcast to real time transport is called an ==Event==. Hence "Event Driven" architecture.
+  A real time transport is also called ==Event Bus==
+
+- Request-driven architecture works well for systems that rely more on <u>logic</u> than on data Event-driven architecture works better for systems that are <u>data-heavy</u>.
+
+- 2 Types of Real Time Transports:
+	- (1) **Pubsub (publish-subscribe)**
+		- Any service can publish to real time transport
+		- Any service that subscribes to a topic can read all events in that topic
+		- Services that produce data, don't care about who consumes their data
+		- Eg: Apache Kafka, Amazon Kinesis
+		  ![[Pasted image 20220512101708.png]]
+		  
+	- (2) **Message Queue**
+		- Even often has intended consumers (an event with intended consumers is called ==message==)
+		- Message queue is responsible to deliver message to right consumers
+		- Eg: Apache RocketMQ, RabbitMQ
+		  ![[Pasted image 20220512101726.png]]
+		  
