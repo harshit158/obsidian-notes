@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/MOOCs/Book - Designing ML Systems (Chip Huyen)/C3 - Data Engineering Fundamentals.md",
+            "file": "docs/MOOCs/Book - Designing ML Systems (Chip Huyen)/C4 - Training Data.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/MOOCs/Book - Designing ML Systems (Chip Huyen)/C3 - Data Engineering Fundamentals.md",
+                "file": "docs/MOOCs/Book - Designing ML Systems (Chip Huyen)/C4 - Training Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/MOOCs/Book - Designing ML Systems (Chip Huyen)/C3 - Data Engineering Fundamentals.md"
+                "file": "docs/MOOCs/Book - Designing ML Systems (Chip Huyen)/C4 - Training Data.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/MOOCs/Book - Designing ML Systems (Chip Huyen)/C3 - Data Engineering Fundamentals.md",
+                "file": "docs/MOOCs/Book - Designing ML Systems (Chip Huyen)/C4 - Training Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -130,8 +130,8 @@
   },
   "active": "3c902989438f0ff9",
   "lastOpenFiles": [
-    "docs/MOOCs/Book - Designing ML Systems (Chip Huyen)/C3 - Data Engineering Fundamentals.md",
     "docs/MOOCs/Book - Designing ML Systems (Chip Huyen)/C4 - Training Data.md",
+    "docs/MOOCs/Book - Designing ML Systems (Chip Huyen)/C3 - Data Engineering Fundamentals.md",
     "Untitled.md",
     "docs/Assets/Pasted image 20220512092353.png",
     "docs/Assets/Pasted image 20220510083623.png",
