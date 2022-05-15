@@ -14,9 +14,13 @@
 		(4) **Quota Sampling**
 
 	- (B) **Random Sampling**
-		(1)
+		(1) Simple Random Sampling
+		(2)  
+		(3)
+		(4)
 
 
+### Non-Probability Sampling
 - **Cons** of Non-Probability Sampling
 	- Selected data not representative of entire data - riddled with selection baises
 	  But in some cases, it is still useful
@@ -28,3 +32,18 @@
 	- Data for ==Self driving cars== - mostly trained in CA, which has sunny weather, lacks diverse climates
 
 - Non-probability Sampling can be quick way to get started but not reliable
+
+
+### Simple Random Sampling
+- Equal probability is given to all samples
+- **Drawback:**
+	- Rare categories of data is not selected
+	  Models trained on this data think that this data doesn't exist
+
+### Stratified Sampling
+- Population is divided into groups belonging to different classes and then it is sampled
+  Eg: 1% each from class A and class B instead of 1% from entire population
+- Each group is called ==stratum==
+- **Drawback**:
+	- Not always possible to divide population into groups
+	  Eg: When a sample can belong to different groups (multilable tasks)
