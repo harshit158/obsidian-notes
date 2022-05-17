@@ -125,4 +125,12 @@ Time Series analysis library by ==Facebook==
 
 
 ---
-- data-at-rest processing VS data-in-motion processing
+- ==data-at-rest== processing VS ==data-in-motion== processing
+
+
+- Imputation in time series in Pandas
+	- Forward fill: Puts current value into the next missing position
+	  ```python
+	  df['col'].fillna(method='ffill')
+	  ```
+	- Backward fill:

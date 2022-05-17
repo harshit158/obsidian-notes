@@ -47,3 +47,34 @@
 - **Drawback**:
 	- Not always possible to divide population into groups
 	  Eg: When a sample can belong to different groups (multilable tasks)
+
+### Weighted Sampling
+- Each sample is given a weight, according to which it is sampled
+- **Pros**:
+	- Allows to use domain expertise
+	  Eg: If recent data is more useful, can give more weightage to recent observations
+	- Helps if data comes from different distributions
+	  Eg: If red and blue samples are 25%, 75%, but if both of them have equal probability to happen, red can be given more weightage so that it gets selected
+
+
+### Reservoir Sampling
+- Used for streaming data
+- Suppose k elements need to be selected from streaming data
+  - This algo ensures that each incoming nth data has probability of $\frac{k}{n}$ of being in the reservoir
+  - Each element in the reservoir has $\frac{k}{n}$ probability of being there
+  - All samples have equal chance of being selected
+  - If we stop the algorithm at any time, all samples in the reservoir have been sampled with the correct probability.
+
+- **Algorithm**:
+	- (1) Copy the first k elements from the input array to the output array.
+	- (2) Iterate from k to (n-1) (both inclusive). In each iteration jj:
+		- 2.1 Generate a random number num from 0 to j.
+		- 2.2 If num is less than kk, replace the element at index num in the output array with the item at index j in the input array. 
+
+![[Pasted image 20220517113941.png]]
+
+
+### Importance Sampling
+- Allows us to sample from a distribution when we only have access to another distribution.
+- Eg: If we want to sample from P(x), but all we have Q(x)
+  Simply sample from Q(x) and weigh it by P(x)/Q(x)
