@@ -127,10 +127,28 @@ Time Series analysis library by ==Facebook==
 ---
 - ==data-at-rest== processing VS ==data-in-motion== processing
 
-
+### Missing Data Imputation in Time Series
 - Imputation in time series in Pandas
 	- Forward fill: Puts current value into the next missing position
 	  ```python
 	  df['col'].fillna(method='ffill')
 	  ```
 	- Backward fill:
+
+
+### Smoothing Techniques for Time Series
+1. ==Moving Average:==
+	1. **Centered** Moving Average
+	   $$center_{ma}(t) = mean(obs(t-1), obs(t), obs(t+1))$$
+	   ```python
+	   df.rolling(window=3, center=True).mean()
+	   ```
+		- Not used for forecasting since we need future observations for this.
+		- Used only for analyzing dataset
+		  
+	2. **Trailing** Moving Average
+	   $$trail_{ma}(t) = mean(obs(t-2), obs(t-1), obs(t))$$
+	   ```python
+	   df.rolling(window=3, center=False).mean()
+	   ```
+		- Can be used for forecasting
