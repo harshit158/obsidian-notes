@@ -45,3 +45,12 @@
 - Components required to overcome latency challenge of online prediction:
 	- Real Time pipeline -> Extract streaming features, input them in a model, return prediction in real time
 	- Model that can generate predictions at a speed acceptable to its end users
+
+
+### Unifying Batch pipeline and Streaming pipeline
+
+- Common source of bugs is having two separate pipelines for inference and training
+![[Pasted image 20220525200655.png]]
+
+- A better way will be to unify both stages like the one below
+![[Pasted image 20220525200533.png]]
