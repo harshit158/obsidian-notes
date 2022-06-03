@@ -1,0 +1,3 @@
+- Replace higher dimensional tensors to lower dimensional tensors
+- Eg: Compact convolution filters used by ==MobileNet==, using [[Depthwise Separable Convolution ]]
+- 

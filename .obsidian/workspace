@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3c902989438f0ff9",
+        "id": "18324b504a85a4d6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/MOOCs/Book - Designing ML Systems (Chip Huyen)/C7 - Model Deployment and Prediction Service.md",
+            "file": "docs/ML/Depthwise Separable Convolution.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "binary search",
+                "query": "ensemble",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 430
+    "width": 443
   },
   "right": {
     "id": "b78f15cdafdd7f3a",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/MOOCs/Book - Designing ML Systems (Chip Huyen)/C7 - Model Deployment and Prediction Service.md",
+                "file": "docs/ML/Depthwise Separable Convolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/MOOCs/Book - Designing ML Systems (Chip Huyen)/C7 - Model Deployment and Prediction Service.md"
+                "file": "docs/ML/Depthwise Separable Convolution.md"
               }
             }
           },
@@ -115,30 +115,31 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/MOOCs/Book - Designing ML Systems (Chip Huyen)/C7 - Model Deployment and Prediction Service.md",
+                "file": "docs/ML/Depthwise Separable Convolution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "3c902989438f0ff9",
+  "active": "18324b504a85a4d6",
   "lastOpenFiles": [
-    "docs/MOOCs/Book - Designing ML Systems (Chip Huyen)/C7 - Model Deployment and Prediction Service.md",
-    "docs/Leetcode/Questions/34. Find First and Last Position of Element in Sorted Array.md",
-    "docs/Leetcode/Questions/278. First Bad Version.md",
+    "docs/ML/Depthwise Separable Convolution.md",
+    "docs/ML/Low-Rank Factorization.md",
+    "docs/Assets/Pasted image 20220603133020.png",
+    "docs/Assets/Pasted image 20220603133052.png",
     "docs/ML/Time Series.md",
-    "docs/Leetcode/Questions/Binary.md",
-    "docs/Leetcode/Concepts/Binary Search.md",
-    "docs/Leetcode/Questions/744. Find Smallest Letter Greater Than Target.md",
-    "docs/MOOCs/Practical Time Series/Week 3.md",
-    "docs/MOOCs/Book - Designing ML Systems (Chip Huyen)/C4 - Training Data.md",
-    "docs/Misc/Tips and Tricks.md"
+    "docs/MOOCs/Book - Designing ML Systems (Chip Huyen)/C7 - Model Deployment and Prediction Service.md",
+    "docs/Assets/Excalidraw/C7 - Model Deployment and Prediction Service 2022-06-03 11.53.57.excalidraw.md",
+    "docs/Assets/Excalidraw/C7 - Model Deployment and Prediction Service 2022-06-03 13-02-31.excalidraw.md",
+    "docs/Assets/Excalidraw/ 2022-06-03 13-03-01.excalidraw.md",
+    "docs/Assets/Excalidraw/ 06-03_0.excalidraw.md"
   ]
 }

@@ -52,5 +52,21 @@
 - Common source of bugs is having two separate pipelines for inference and training
 ![[Pasted image 20220525200655.png]]
 
-- A better way will be to unify both stages like the one below
-![[Pasted image 20220525200533.png]]
+- A better way will be to unify both stages like the one below 
+![[Pasted image 20220525200533.png|right-wrap|center]]
+
+
+
+## Model Compression
+- 3 approaches to reduce inference latency:
+	- Make it do inference faster
+	- Make the model smaller
+	- Make the hardware its deployed on run faster
+
+
+![[C7 - Model Deployment and Prediction Service 2022-06-03 11.53.57.excalidraw|900| center]]
+
+1. [[Low-Rank Factorization]]
+2. [[Knowledge Distillation]]
+3. [[Pruning]]
+4. [[Quantization]]
