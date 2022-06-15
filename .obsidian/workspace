@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "18324b504a85a4d6",
+        "id": "2afe65b1f17ba3fa",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/ML/Depthwise Separable Convolution.md",
+            "file": "docs/ML/Quantization.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/ML/Depthwise Separable Convolution.md",
+                "file": "docs/ML/Quantization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/ML/Depthwise Separable Convolution.md"
+                "file": "docs/ML/Quantization.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/ML/Depthwise Separable Convolution.md",
+                "file": "docs/ML/Quantization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "18324b504a85a4d6",
+  "active": "2afe65b1f17ba3fa",
   "lastOpenFiles": [
+    "docs/ML/Quantization.md",
+    "docs/Assets/Excalidraw/Quantization 2022-06-15 12-57-16.excalidraw.md",
     "docs/ML/Depthwise Separable Convolution.md",
-    "docs/ML/Low-Rank Factorization.md",
-    "docs/Assets/Pasted image 20220603133020.png",
-    "docs/Assets/Pasted image 20220603133052.png",
-    "docs/ML/Time Series.md",
+    "docs/Assets/Excalidraw/Quantization 2022-06-15 12-57-16.excalidra.md",
     "docs/MOOCs/Book - Designing ML Systems (Chip Huyen)/C7 - Model Deployment and Prediction Service.md",
+    "docs/ML/Low-Rank Factorization.md",
     "docs/Assets/Excalidraw/C7 - Model Deployment and Prediction Service 2022-06-03 11.53.57.excalidraw.md",
-    "docs/Assets/Excalidraw/C7 - Model Deployment and Prediction Service 2022-06-03 13-02-31.excalidraw.md",
-    "docs/Assets/Excalidraw/ 2022-06-03 13-03-01.excalidraw.md",
-    "docs/Assets/Excalidraw/ 06-03_0.excalidraw.md"
+    "docs/Personal/Interview Preparation Checklist.md",
+    "docs/Misc/Tools and Libraries.md",
+    "docs/Misc/Coding Tips and Tricks.md"
   ]
 }
