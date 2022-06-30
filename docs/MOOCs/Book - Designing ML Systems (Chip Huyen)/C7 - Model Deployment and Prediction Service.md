@@ -70,3 +70,69 @@
 2. [[Knowledge Distillation]]
 3. [[Pruning]]
 4. [[Quantization]]
+
+
+## ML on cloud and on Edge
+🥊 Advantages on Edge deployment:
+- Handles sensitive data
+- High stability since doesn't need internet connection
+
+
+### Compiling and Optimizing Models for Edge Devices
+🥊 Different hardware backends have different compute primitives:
+![[Pasted image 20220629091908.png]] 
+
+🥊 Adapting framework (pytorch, tf) for every type of backend (cpu, gpu, tpu) is intensive, hence ==Intermediate Representation (IR)==   ("middleman")
+- From the original code for a model, compilers generate a series of high- and low-level
+  IRs before generating the code native to a hardware backend so that it can run on that hardware backend
+  ![[Pasted image 20220629092514.png]]
+- This is ==lowering== - “lower” your high-level framework code into low-level hardware-native code
+
+#### Model Optimization
+- **Performance often slows down** because generated machine code might not be efficient. 
+- The speed up can be done at the compiling stage by the compilers. For eg: They can look at the operators in the computation graph - convolutions / loops / cross-entropy 
+- Two ways to optimize ML models: 
+	- ==Local==:
+		- ==**Vectorization**==
+			- Given a loop or a nested loop, instead of executing it one item at a time, execute multiple elements contiguous in memory at the same time to reduce latency caused by data I/O.
+			  
+		- **==Parallelization==**
+			- Given an input array (or _n_-dimensional array), divide it into different, independent work chunks, and do the operation on each chunk individually.
+			  
+		- **==Loop Tiling==**
+			- Change the data accessing order in a loop to leverage **hardware’s memory layout and cache**. This kind of optimization is hardware dependent. A good access pattern on CPUs is not a good access pattern on GPUs.
+			  
+		- ==**Operator Fusion**==
+			- Fuse multiple operators into one to avoid redundant memory access. For eg: Combine everything in one for loop instead of doing multiple passes over the array
+ 
+			![[Pasted image 20220630162046.png]]
+			
+
+	- ==Global==
+		- Optimize the graph itself: Horizontal and Vertical fusing different components of the graph
+
+![[Pasted image 20220630162206.png]]
+
+
+#### ML for optimization
+- Idea is to use ML to identify which parts of the graph can be fused to increase the speed. Some ML powered compilers are: 
+	- ==cuDNN autotune== : Only works for convolution operators
+	- ==autoTVM== :  (more general solution)
+		  1.  It first breaks your computation graph into subgraphs.
+		  2. It predicts how big each subgraph is.
+		  3. It allocates time to search for the best possible path for each subgraph.
+		  4. It stitches the best possible way to run each subgraph together to execute the entire graph.
+
+### ML in Browsers
+- Two options to run ML in browsers:
+	- Using ==Javascript== itself - Tensorflow.js, brain.js
+	- Using ==WebAssembly (WASM)== - open standard that allows to run executable programs in browsers. 
+		  - Build ML models (Tf, torch) and then compile it to WASM. This gives executable file that you can just use with JS.
+		  - WASM (is faster than JS) but still slower than native codes on edge devices
+
+
+
+
+## Summary
+Trend with increasing power of hardwares
+![[Pasted image 20220630170116.png]]

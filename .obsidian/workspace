@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/ML/Quantization.md",
+            "file": "docs/MOOCs/Book - Designing ML Systems (Chip Huyen)/C7 - Model Deployment and Prediction Service.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/ML/Quantization.md",
+                "file": "docs/MOOCs/Book - Designing ML Systems (Chip Huyen)/C7 - Model Deployment and Prediction Service.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/ML/Quantization.md"
+                "file": "docs/MOOCs/Book - Designing ML Systems (Chip Huyen)/C7 - Model Deployment and Prediction Service.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/ML/Quantization.md",
+                "file": "docs/MOOCs/Book - Designing ML Systems (Chip Huyen)/C7 - Model Deployment and Prediction Service.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -131,15 +131,15 @@
   },
   "active": "2afe65b1f17ba3fa",
   "lastOpenFiles": [
+    "docs/MOOCs/Book - Designing ML Systems (Chip Huyen)/C7 - Model Deployment and Prediction Service.md",
+    "docs/Assets/Excalidraw/C7 - Model Deployment and Prediction Service 2022-06-30 16-14-16.excalidraw.md",
+    "docs/Assets/Pasted image 20220629091827.png",
+    "docs/Personal/Quotes.md",
     "docs/ML/Quantization.md",
     "docs/Assets/Excalidraw/Quantization 2022-06-15 12-57-16.excalidraw.md",
     "docs/ML/Depthwise Separable Convolution.md",
     "docs/Assets/Excalidraw/Quantization 2022-06-15 12-57-16.excalidra.md",
-    "docs/MOOCs/Book - Designing ML Systems (Chip Huyen)/C7 - Model Deployment and Prediction Service.md",
     "docs/ML/Low-Rank Factorization.md",
-    "docs/Assets/Excalidraw/C7 - Model Deployment and Prediction Service 2022-06-03 11.53.57.excalidraw.md",
-    "docs/Personal/Interview Preparation Checklist.md",
-    "docs/Misc/Tools and Libraries.md",
-    "docs/Misc/Coding Tips and Tricks.md"
+    "docs/Assets/Excalidraw/C7 - Model Deployment and Prediction Service 2022-06-03 11.53.57.excalidraw.md"
   ]
 }
