@@ -12,4 +12,4 @@ https://github.com/allenai/naacl2021-longdoc-tutorial
 	- Graph based 
 	- Graph with external knowledge
 	- Transformers based (https://github.com/allenai/naacl2021-longdoc-tutorial/blob/main/slides/part3-long-sequence-transformers.pdf)
-![[Pasted image 20211004232631.png|800]]
+![[Pasted image 20211004232631.png|700]]

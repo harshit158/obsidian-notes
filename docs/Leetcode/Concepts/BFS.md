@@ -13,7 +13,6 @@ Used to:
 
 ![[Pasted image 20210524203020.png]]
 
-
 - Instead of queue here, we can ==use Deque== ([[Tips#^47eb3b]]) which will be more efficient 
 
 **Remember**
@@ -23,9 +22,7 @@ Used to:
 
 
 ## Ways of tracking nodes at different levels
-
 ^4bf035
-
 (in increasing order of efficiency)
 Ref: https://leetcode.com/problems/populating-next-right-pointers-in-each-node/solution/
 

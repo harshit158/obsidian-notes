@@ -23,6 +23,7 @@ def binarySearch(nums, target):
     # End Condition: left > right
     return -1
 ```
+This is the ONE I USE.
 
 **Template 2:**
 ```python
