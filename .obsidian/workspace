@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Leetcode/Questions/34. Find First and Last Position of Element in Sorted Array.md",
+            "file": "docs/Misc/Adding conda environment as a ipython kernels.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "34",
+                "query": "triple",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Leetcode/Questions/34. Find First and Last Position of Element in Sorted Array.md",
+                "file": "docs/Misc/Adding conda environment as a ipython kernels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Leetcode/Questions/34. Find First and Last Position of Element in Sorted Array.md"
+                "file": "docs/Misc/Adding conda environment as a ipython kernels.md"
               }
             }
           },
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Leetcode/Questions/34. Find First and Last Position of Element in Sorted Array.md",
+                "file": "docs/Misc/Adding conda environment as a ipython kernels.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -132,15 +131,15 @@
   },
   "active": "2afe65b1f17ba3fa",
   "lastOpenFiles": [
-    "docs/Leetcode/Questions/34. Find First and Last Position of Element in Sorted Array.md",
-    "docs/Leetcode/Questions/98. Validate Binary Search Tree.md",
-    "docs/Leetcode/Concepts/Binary Search.md",
-    "docs/Leetcode/Questions/102. Binary Tree Level Order Traversal.md",
-    "docs/Leetcode/Questions/107. Binary Tree Level Order Traversal II.md",
-    "docs/Leetcode/Concepts/Trees.md",
-    "docs/Leetcode/Concepts/BFS.md",
-    "docs/Leetcode/Concepts/Backtracking.md",
-    "docs/Leetcode/Concepts/BST (Binary Search Tree).md",
-    "docs/Leetcode/Concepts/DFS.md"
+    "docs/MOOCs/Missing Semester from CS - MIT/Lecture 1 and 2 - Shell.md",
+    "docs/Misc/Adding conda environment as a ipython kernels.md",
+    "docs/ML/Test - Kolmogorov-Smirnov (KS).md",
+    "docs/MOOCs/2-4 Machine Learning Data Lifecycle in Production/Week 1.md",
+    "docs/MOOCs/Book - Designing ML Systems (Chip Huyen)/C7 - Model Deployment and Prediction Service.md",
+    "docs/ML/Distances.md",
+    "docs/MOOCs/2-4 Machine Learning Data Lifecycle in Production/Tools.md",
+    "docs/MOOCs/1-4 Intro to ML in Production/Week 1.md",
+    "docs/MOOCs/2-4 Machine Learning Data Lifecycle in Production/[.md",
+    "docs/Misc/Tools and Libraries.md"
   ]
 }

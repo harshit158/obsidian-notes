@@ -141,7 +141,6 @@ An example use case is ==Graph based Label Propagation== as shown below:
 	- The crux is the ==sampling techniques== which are as follows:
 		- **Margin Sampling**:
 		Label points the current model is least confident in
-
 		- **Cluster-based sampling:**
 		Sample from  well formed clusters to "cover" the entire space
 		- **Query-by-committee:**
@@ -167,13 +166,17 @@ An example use case is ==Graph based Label Propagation== as shown below:
 ![[Pasted image 20211109022220.png]]
 
 1. **Data Drift**: A skew grows between Training and Serving data
- Degree of data and skew drift is typically measured by ==[[Distances|Chebyshev distance (L-infinity)]]==
 	- **Schema Skew**: Inconsistent features / feature types; int != float
+		- Example implementation using [[Tools and Libraries#^5b633e| Great Expectations]]
 	- **Distribution Skew**: Distribution of feature values for training is different from serving.
-	Caused by: 
+	Caused by:
 	  - Faulty sampling method during training
 	  - Different data sources for training and serving data
 	  - Trend, seasonality, changes in data over time
+
+**Data Drift detection methods:**
+	- ==[[Distances|Chebyshev distance (L-infinity)]]==: Degree of data and skew drift measurement
+	- ==[[Test - Kolmogorov-Smirnov (KS)|Kolmogorov-Smirnov (KS) test]]==
 
 2. **Concept Drift**: Interpretation of the relationship between the input predictors and target feature evolves
 ![[Pasted image 20211109021758.png]]
