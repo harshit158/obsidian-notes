@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2afe65b1f17ba3fa",
+        "id": "99b8e685a7b5c1b5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Misc/Adding conda environment as a ipython kernels.md",
+            "file": "docs/Leetcode/Questions/73. Set Matrix Zeroes.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "triple",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Misc/Adding conda environment as a ipython kernels.md",
+                "file": "docs/Leetcode/Questions/73. Set Matrix Zeroes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Misc/Adding conda environment as a ipython kernels.md"
+                "file": "docs/Leetcode/Questions/73. Set Matrix Zeroes.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Misc/Adding conda environment as a ipython kernels.md",
+                "file": "docs/Leetcode/Questions/73. Set Matrix Zeroes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2afe65b1f17ba3fa",
+  "active": "99b8e685a7b5c1b5",
   "lastOpenFiles": [
-    "docs/MOOCs/Missing Semester from CS - MIT/Lecture 1 and 2 - Shell.md",
+    "docs/Leetcode/Questions/49. Group Anagrams.md",
+    "docs/Misc/Obsidian Keyboard Shortcuts.md",
+    "docs/ML/Similarity Search.md",
+    "docs/Assets/Excalidraw/Similarity Search 2022-08-06 19-09-13.excalidraw.md",
+    "docs/MOOCs/Book - Robust Python/Chapter 1 - Intentions.md",
+    "docs/Assets/Pasted image 20220806191758.png",
+    "docs/Assets/Pasted image 20220806191835.png",
     "docs/Misc/Adding conda environment as a ipython kernels.md",
     "docs/ML/Test - Kolmogorov-Smirnov (KS).md",
-    "docs/MOOCs/2-4 Machine Learning Data Lifecycle in Production/Week 1.md",
-    "docs/MOOCs/Book - Designing ML Systems (Chip Huyen)/C7 - Model Deployment and Prediction Service.md",
-    "docs/ML/Distances.md",
-    "docs/MOOCs/2-4 Machine Learning Data Lifecycle in Production/Tools.md",
-    "docs/MOOCs/1-4 Intro to ML in Production/Week 1.md",
-    "docs/MOOCs/2-4 Machine Learning Data Lifecycle in Production/[.md",
-    "docs/Misc/Tools and Libraries.md"
+    "docs/ML/ANN (Appox. Nearest Neighbors).md"
   ]
 }
