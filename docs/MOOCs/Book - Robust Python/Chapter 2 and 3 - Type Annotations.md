@@ -8,20 +8,21 @@
 - ==Type Annotations==
 	- These are an additional syntax notifying the user of an expected type of your variables. 
 	- These serve as **type hints** for the readers
-	- **Not used anyhow by the python compiler**
+	- **Not used anyhow by the python compiler**, instead have to use typecheckers (mypy) to do the validation
 
-- **Annotating arguments**
-def find_workers_available(open_time: ==datetime.datetime==)
-
-- **Annotating  returns**
-def find_workers_available(open_time: datetime.datetime) -> ==list[str]==
-
-- **Annotate variables**
-```python
-workers: list[str] = find_workers_available(open_time)
-numbers: list[int] = []
-ratio: float = get_ratio(5,3)
-```
+- Annotation at different places in a function
+	- **Annotating arguments**
+	def find_workers_available(open_time: ==datetime.datetime==)
+	
+	- **Annotating  returns**
+	def find_workers_available(open_time: datetime.datetime) -> ==list[str]==
+	
+	- **Annotate variables**
+	```python
+	workers: list[str] = find_workers_available(open_time)
+	numbers: list[int] = []
+	ratio: float = get_ratio(5,3)
+	```
 
 - ==Benefits== of Type Annotations:
 	- **Autocomplete** based on the annotation that was given in the function signature
@@ -35,9 +36,36 @@ ratio: float = get_ratio(5,3)
 		a: int = 5
 		a = "string"
 ```
-
 		  
 - When to use Type Annotations:
 	- With functions that are expected to be called in other modules or by other users
 	- When a type is complicated
-	- Areas where mypy comp
+
+
+## Types of Type-Annotations
+- ==Constraint Types==
+	- **Optional Type**
+	```python
+	def add_numbers(a: int, b: int) -> Optional[int]:
+	```
+
+	- **Union Types**
+	```python
+	def add_numbers(a: int, b: int) -> Union[int, float, None]: 
+	```
+
+	- **Literal Types**
+	```python
+	def add_numbers(a: int , b: int):
+		possible_a = Literal[1,2,3,4,5]
+		possible_b = Literal[6,7,8,9,10]
+	```
+	
+	- **Final Types**
+	```python
+	c: Final = 5
+	def add_numbers(a: int , b: int):
+		 c = a #This throws error, since modification of c is not allowed
+	```
+
+- ==Collection Types==
