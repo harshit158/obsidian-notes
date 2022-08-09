@@ -2,5 +2,8 @@
   "obsidian-mind-map",
   "obsidian-excalidraw-plugin",
   "excalibrain",
-  "dataview"
+  "dataview",
+  "highlightr-plugin",
+  "obsidian-admonition",
+  "calendar"
 ]
