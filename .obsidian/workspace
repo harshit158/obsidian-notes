@@ -4,14 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "536ad3c9d492479b",
+        "id": "300d6172852e2b9e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "docs/MOOCs/Book - Robust Python/Chapter 2, 3 and 4 - Type Annotations.md",
-            "mode": "source",
-            "source": false
+            "file": "docs/Personal/Reading and Writing.md"
           }
         }
       }
@@ -56,12 +54,21 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "e8fc03ab0711628d",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 412.5
+    "width": 372.5036334991455
   },
   "right": {
     "id": "b78f15cdafdd7f3a",
@@ -77,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/MOOCs/Book - Robust Python/Chapter 2, 3 and 4 - Type Annotations.md",
+                "file": "docs/Personal/Reading and Writing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/MOOCs/Book - Robust Python/Chapter 2, 3 and 4 - Type Annotations.md"
+                "file": "docs/Personal/Reading and Writing.md"
               }
             }
           },
@@ -115,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/MOOCs/Book - Robust Python/Chapter 2, 3 and 4 - Type Annotations.md",
+                "file": "docs/Personal/Reading and Writing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -130,23 +137,24 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "536ad3c9d492479b",
+  "active": "300d6172852e2b9e",
   "lastOpenFiles": [
-    "docs/NLP/Transformers.md",
-    "docs/NLP/Pointwise Mutual Information (PMI).md",
     "docs/NLP/Electra.md",
-    "2022-08-09.md",
-    "docs/Assets/Excalidraw/Electra 2022-08-09 14-59-32.excalidraw.md",
-    "docs/Assets/Pasted image 20220809145701.png",
-    "docs/Assets/Pasted image 20220809145755.png",
-    "docs/Assets/Excalidraw/BERT Variants 2022-08-09 10-57-27.excalidraw.md",
-    "docs/Templates/callout.md",
-    "docs/Misc/Obsidian Tips.md"
+    "docs/Personal/Reading and Writing.md",
+    "docs/Personal/Interview Preparation Checklist.md",
+    "docs/Personal/Quotes.md",
+    "docs/Personal/Checks.md",
+    "docs/Personal/Tasks.md",
+    "docs/Personal/Work/Log Anomaly Detection.md",
+    "docs/Papers/DeepLog - Anomaly Detection and Diagnosis from System Logs through Deep Learning.md",
+    "docs/Papers/Reading List.md",
+    "docs/Papers/Deep Learning for Anomaly Detection in Log Data A Survey.md"
   ]
 }

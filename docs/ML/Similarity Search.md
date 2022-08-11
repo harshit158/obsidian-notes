@@ -27,3 +27,7 @@ Challenge in Similarity Search is to perform search in case of billion+ data poi
 - Space Partition Based Index
 - Encoding Based Index
 (Ref: https://www.youtube.com/watch?v=3Zg1iKRxgkU)
+
+
+**Resources / Tutorials:**
+- [NLP for Semantic Search Course](https://www.pinecone.io/learn/dense-vector-embeddings-nlp/
