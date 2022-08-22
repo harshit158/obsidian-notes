@@ -6,24 +6,26 @@
       {
         "id": "7527542bb2c0050c",
         "type": "leaf",
-        "dimension": 43.388429752066116,
+        "dimension": 44.96602841260037,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Papers/Paper Reading List.md",
+            "file": "docs/Leetcode/Python.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "dd545073f61937f5",
+        "id": "7aaab73ac9a0de5e",
         "type": "leaf",
-        "dimension": 56.611570247933884,
+        "dimension": 55.033971587399634,
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "docs/Personal/Reading and Writing Kanban.md"
+            "file": "docs/Leetcode/Questions/334. Increasing Triplet Subsequence.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -77,12 +79,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 241.5036334991455
+    "width": 523.5
   },
   "right": {
     "id": "b78f15cdafdd7f3a",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Personal/Reading and Writing Kanban.md",
+                "file": "docs/Leetcode/Questions/334. Increasing Triplet Subsequence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Personal/Reading and Writing Kanban.md"
+                "file": "docs/Leetcode/Questions/334. Increasing Triplet Subsequence.md"
               }
             }
           },
@@ -136,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Personal/Reading and Writing Kanban.md",
+                "file": "docs/Leetcode/Questions/334. Increasing Triplet Subsequence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,17 +159,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dd545073f61937f5",
+  "active": "7aaab73ac9a0de5e",
   "lastOpenFiles": [
-    "docs/Books/Book - Robust Python/Chapter 10 - User defined types CLASSES.md",
     "docs/Personal/Reading and Writing Kanban.md",
-    "docs/Books/Book - Robust Python/Chapter 9 - User defined types.md",
+    "docs/Leetcode/Python.md",
+    "docs/Leetcode/Questions/3. Longest Substring Without Repeating Characters.md",
+    "docs/Leetcode/Questions/5. Longest Palindromic Substring.md",
+    "docs/Leetcode/5. Longest Palindromic Substring.md",
     "docs/Papers/Paper Reading List.md",
-    "docs/Books/Book - Robust Python/Chapter 16 - Dependencies, Composability.md",
-    "docs/Personal/Work/RASA Chatbot.md",
-    "docs/Personal/Untitled Kanban.md",
-    "docs/NLP/Transformers.md",
-    "docs/Templates/callout-tip.md",
-    "docs/Templates/callout-library.md"
+    "docs/Misc/Project Structure.md",
+    "docs/Books/Book - Robust Python/Chapter 10 - User defined types CLASSES.md",
+    "docs/Books/Book - Robust Python/Chapter 9 - User defined types.md",
+    "docs/Books/Book - Robust Python/Chapter 16 - Dependencies, Composability.md"
   ]
 }
