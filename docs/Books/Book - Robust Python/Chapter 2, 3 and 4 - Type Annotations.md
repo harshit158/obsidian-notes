@@ -27,16 +27,16 @@
 - ==Benefits== of Type Annotations:
 	- **Autocomplete** based on the annotation that was given in the function signature
 	- ==**Typecheckers**== help in spotting bugs related to incompatible functions performed on variables
-		- Its a tool : Eg "mypy" is a popular typechecker
-		```python
-		pip install mypy
-		```
 
-		```python
-		a: int = 5
-		a = "string"
-		```
-
+>[!example] Library |  mypy (typechecker tool)
+> #tool 
+>Its a tool : Eg "mypy" is a popular typechecker
+>```python
+>pip install mypy
+>```
+>```python
+a: int = 5
+a = "string"
 
 		  
 - When to use Type Annotations:

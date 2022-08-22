@@ -1,3 +1,14 @@
 {
-  "items": []
+  "items": [
+    {
+      "type": "file",
+      "title": "Reading and Writing",
+      "path": "docs/Personal/Reading and Writing Kanban.md"
+    },
+    {
+      "type": "file",
+      "title": "Reading List",
+      "path": "docs/Papers/Paper Reading List.md"
+    }
+  ]
 }

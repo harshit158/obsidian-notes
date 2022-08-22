@@ -71,7 +71,6 @@
 3. [[Pruning]]
 4. [[Quantization]]
 
-
 ## ML on cloud and on Edge
 🥊 Advantages on Edge deployment:
 - Handles sensitive data

@@ -21,3 +21,11 @@
 		- Mojority class is undersampled
 
 ![Handling Imbalanced Data- Machine Learning, Computer Vision, NLP](https://editor.analyticsvidhya.com/uploads/85598tomek.png)
+
+
+**While Training**:
+- <mark style="background: #BBFABBA6;">Balanced batching strategy:</mark> 
+	- This algorithm ==distributes classes across batches== to balance the data set
+	- To prevent oversampling rare classes and undersampling frequent ones, it keeps the number of examples per batch roughly ==proportional to the relative number of examples== in the overall data set.
+
+[[RASA Chatbot]]

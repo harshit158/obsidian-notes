@@ -1,5 +1,8 @@
 {
   "baseFontSize": 15,
   "theme": "moonstone",
-  "translucency": false
+  "translucency": false,
+  "enabledCssSnippets": [
+    "image-zoom"
+  ]
 }
