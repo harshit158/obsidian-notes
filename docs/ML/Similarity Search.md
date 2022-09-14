@@ -1,3 +1,4 @@
+Prior step to this is obtaining some kind of vector representation:
 Challenge in Similarity Search is to perform search in case of billion+ data points
 - The Search has to be Fast but Accurate as well (generally there is a trade-off)
 - To make it efficient (fast), the vectors are stored in ==Indexes== , wherein they are modified in such a way that the search becomes feasible
@@ -10,7 +11,7 @@ Challenge in Similarity Search is to perform search in case of billion+ data poi
 - There are different **Types of Indexes**: ^aec857
 	- ==**Flat and Accurate==:**
 		- Vectors that are fed into these indexes are NOT modified, hence "flat"
-		- This is similar to [[KNN]] , since the Query vector is compared to every other vector and there is no reduction in the search scope
+			- This is similar to [[KNN]] , since the Query vector is compared to every other vector and there is no reduction in the search scope
 		- Possible **Optimizations**:
 			- (1) Reduce Vector Size
 			- (2) Reduce Search Scope: Eg clustering of vectors and comparing the query vector to the centroids of these clusters instead of individual vectors

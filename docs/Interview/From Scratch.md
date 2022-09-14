@@ -1,0 +1,6 @@
+- Linear Regression
+- Logistic Regression
+- KNN
+- K-Means
+- Neural Network
+- Attention Mechanism

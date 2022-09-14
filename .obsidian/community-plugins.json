@@ -3,10 +3,11 @@
   "obsidian-excalidraw-plugin",
   "excalibrain",
   "dataview",
-  "highlightr-plugin",
   "obsidian-admonition",
   "calendar",
   "file-tree-alternative",
   "obsidian-kanban",
-  "sliding-panes-obsidian"
+  "sliding-panes-obsidian",
+  "obsidian-emoji-toolbar",
+  "highlightr-plugin"
 ]

@@ -4,26 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "7527542bb2c0050c",
+        "id": "12f098563d0b4222",
         "type": "leaf",
-        "dimension": 44.96602841260037,
+        "dimension": 45.936981757877284,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Leetcode/Python.md",
+            "file": "docs/Personal/Work/AIOPs - Timing.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "7aaab73ac9a0de5e",
+        "id": "b5ebfb199ed09298",
         "type": "leaf",
-        "dimension": 55.033971587399634,
+        "dimension": 54.063018242122716,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Leetcode/Questions/334. Increasing Triplet Subsequence.md",
+            "file": "docs/Leetcode/Questions/75. Sort Colors.md",
             "mode": "source",
             "source": false
           }
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "word",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 523.5
+    "width": 365.5
   },
   "right": {
     "id": "b78f15cdafdd7f3a",
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Leetcode/Questions/334. Increasing Triplet Subsequence.md",
+                "file": "docs/Leetcode/Questions/75. Sort Colors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Leetcode/Questions/334. Increasing Triplet Subsequence.md"
+                "file": "docs/Leetcode/Questions/75. Sort Colors.md"
               }
             }
           },
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Leetcode/Questions/334. Increasing Triplet Subsequence.md",
+                "file": "docs/Leetcode/Questions/75. Sort Colors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -159,17 +159,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7aaab73ac9a0de5e",
+  "active": "b5ebfb199ed09298",
   "lastOpenFiles": [
+    "docs/Personal/Note to Myself.md",
+    "docs/Personal/Work/AIOPs - Timing.md",
+    "docs/Personal/Work/TODOs.md",
+    "docs/Personal/Work/Log Anomaly Detection/Untitled.md",
+    "docs/Personal/Work/AIOPs - Active Assurance.md",
+    "docs/Personal/Work/Log Anomaly Detection/Paper Notes.md",
+    "docs/Personal/Quotes.md",
+    "docs/Personal/My Achievements.md",
     "docs/Personal/Reading and Writing Kanban.md",
-    "docs/Leetcode/Python.md",
-    "docs/Leetcode/Questions/3. Longest Substring Without Repeating Characters.md",
-    "docs/Leetcode/Questions/5. Longest Palindromic Substring.md",
-    "docs/Leetcode/5. Longest Palindromic Substring.md",
-    "docs/Papers/Paper Reading List.md",
-    "docs/Misc/Project Structure.md",
-    "docs/Books/Book - Robust Python/Chapter 10 - User defined types CLASSES.md",
-    "docs/Books/Book - Robust Python/Chapter 9 - User defined types.md",
-    "docs/Books/Book - Robust Python/Chapter 16 - Dependencies, Composability.md"
+    "docs/Misc/Project Structure.md"
   ]
 }

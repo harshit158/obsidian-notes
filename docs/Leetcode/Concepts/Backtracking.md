@@ -19,3 +19,19 @@ def backtrack(candidate):
             # backtrack
             remove(next_candidate)
 ```
+
+Generally 4 elements in a Backtracking function:
+- **nums**: The original array which we got as an input
+- **result**: Generally the result array which contains all the solutions 
+- **idx** **/** **visited / openN;closedN**: Some identifier which tells about the current index in the nums that is getting processed
+- **cur**: Which contains the partial solution thus far
+
+
+Examples:
+- [[22. Generate Parentheses]]
+- [[78. Subsets]]
+- [[79. Word Search]]
+- [[797. All Paths From Source to Target]]
+- [[17. Letter Combinations of a Phone Number]]
+- [[46. Permutations]]
+- 
