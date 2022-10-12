@@ -18,11 +18,16 @@
 - **Causality from Logs:**
 	- [[Mining Causality of Network Events in Log Data]] | [Link](https://ieeexplore.ieee.org/document/8122062)
 	- [[A Quantitative Causal Analysis for Network Log Data]]
+	- [[Mining Causal Association Rules]] | [Link](https://www.researchgate.net/publication/262240022_Mining_Causal_Association_Rules)
 	- [[Graph Based Statistical Analysis of Network Traffic]]
 	- [[A Causality Mining and Knowledge Graph Based Method of Root Cause Diagnosis for Performance Anomaly in Cloud Applications]] | [Link](https://mdpi-res.com/d_attachment/applsci/applsci-10-02166/article_deploy/applsci-10-02166.pdf)
 	- [[Groot: An Event-graph-based Approach for Root Cause Analysis in Industrial Settings]] | [Link](https://arxiv.org/pdf/2108.00344.pdf)
 	- [[Graph-based root cause analysis for service-oriented and microservice architectures]]
 
+- **Summarization of Logs:**
+	- [[Graph Summarization of Industrial Event Log Data]] [Link](http://arno.uvt.nl/show.cgi?fid=149681)
+	- [[Summarizing Unstructured Logs in Online Services]] [Link](https://arxiv.org/pdf/2012.08938.pdf)
+	- [[Frequent Itemset Mining from event logs]] [Link](https://reader.elsevier.com/reader/sd/pii/S0950705117304860?token=4CFF390E357DFDF07E0A7F52A02D4FAFDF445AABCC1156993859A628E94DAB5B9E4A4C8BDD839C4C1BAE54E5F5F5DFBD&originRegion=us-east-1&originCreation=20220921020238)
 
 - **Intent Classification**
 	- [[Short Text Intent Classification for Conversational Agents]] | [Link](https://drive.google.com/file/d/1-rhAWH8M5-9U-W5MFTx7aYVxs4WQILSr/view?usp=sharing)

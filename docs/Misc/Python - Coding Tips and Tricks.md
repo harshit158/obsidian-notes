@@ -25,7 +25,8 @@ Path(filename).stem  => returns filename without extension
 Path(filename).name  => returns filename WITH extension
 ```
 
-
-
 - Pandas -> df.==query==("A > 2 or F > 4")
   Use the conditions inside a string. Much easier to use
+
+### For working with python paths
+- https://towardsdatascience.com/simple-trick-to-work-with-relative-paths-in-python-c072cdc9acb9

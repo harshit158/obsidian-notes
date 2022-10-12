@@ -5,7 +5,7 @@
   "foldIndent": false,
   "showLineNumber": true,
   "alwaysUpdateLinks": true,
-  "fileSortOrder": "byModifiedTime",
+  "fileSortOrder": "byCreatedTime",
   "promptDelete": true,
   "newFileLocation": "current",
   "attachmentFolderPath": "docs/Assets",
