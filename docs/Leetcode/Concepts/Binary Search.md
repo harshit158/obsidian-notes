@@ -1,3 +1,9 @@
+
+## Edge cases
+- 1 element
+- 2 elements
+
+
 **Template 1:**
 
 ```python

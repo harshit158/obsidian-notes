@@ -1,8 +1,10 @@
 {
   "baseFontSize": 15,
   "theme": "moonstone",
-  "translucency": false,
+  "translucency": true,
   "enabledCssSnippets": [
     "image-zoom"
-  ]
+  ],
+  "accentColor": "",
+  "showViewHeader": true
 }

@@ -19,5 +19,6 @@
   "useMarkdownLinks": false,
   "legacyEditor": false,
   "livePreview": true,
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "showInlineTitle": false
 }

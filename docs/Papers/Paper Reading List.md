@@ -39,5 +39,8 @@
 
 
 **Random**
+- Bloomberg AI group:
+	- https://www.bloomberg.com/company/values/tech-at-bloomberg/artificial-intelligence-ai/our-published-ai-research/
 - [[Survey of Transformer-based Pretrained Models in Natural Language Processing]]
-- 
+- Learning Rich Representation of Keyphrases from Text
+- Scientific Chart Summarization: Datasets and Improved Text Modeling

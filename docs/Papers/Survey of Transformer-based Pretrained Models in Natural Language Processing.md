@@ -60,8 +60,3 @@ where $L_{PT-K}$ represents loss functions of different pre-training tasks
 		- Each has its own purpose
 
 ![[Pasted image 20220826004242.png]]
-
-
-Conventional NLP + Quantum 
-What is the objective of this branch of NLP ? Is it superior in terms of speed, accuracy, better text understanding, memory requirements .. etc ?
-Are these models / approaches already being used in production ?
