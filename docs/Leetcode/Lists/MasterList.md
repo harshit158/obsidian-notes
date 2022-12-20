@@ -5,6 +5,8 @@
 - [[Hashtable]]
 
 ## All
+- [[261. Graph Valid Tree]]
+- [[323. Number of Connected Components in an Undirected Graph]]
 - [[417. Pacific Atlantic Water Flow]]
 - [[133. Clone Graph]]
 - [[994. Rotting Oranges]]

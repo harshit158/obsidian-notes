@@ -10,7 +10,5 @@
 2. Remove these nodes and delete all the outgoing edges from this node
 3. Repeat 1 and 2 until we find no more nodes with 0 incoming edges
 4. Termination condition:
-	- If still some edges left, there is cycle
+	- ==If still some edges left, there is cycle==
 	- Otherwise we get the topological sort
-
-

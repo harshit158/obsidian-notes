@@ -7,9 +7,15 @@ Full optimized code: https://leetcode.com/explore/learn/card/graph/618/disjoint-
 What is a ==Disjoint-Set== ?
 Group of sets where no item can be in more than one set
 
-Used for:
-- detecting cycle in a graph
-- checking if two nodes are connected
+---
+**Used for:**
+1. **detecting cycle in a graph**
+	- In case of graph, if there is ==no merge== that happened for a particular edge, it means there is a cycle [[261. Graph Valid Tree]]
+2. **checking if two nodes are connected**
+3. **finding the number of connected components**
+	- [[323. Number of Connected Components in an Undirected Graph]]
+	- [[261. Graph Valid Tree]]
+---
 
 ### Two Parts:
 1. ==Find() :== 
@@ -21,7 +27,7 @@ An item from this set acts as the representative of the set.
 Join two subsets into a single subset and makes their root nodes same
 Representative of one set becomes representative of other set.
 
-
+---
 ### Implementation
 - Each set is represented by a tree data
 - Each node holds a reference to its parent
@@ -29,7 +35,7 @@ Representative of one set becomes representative of other set.
 ![Disjoint-set data structure|500](https://blog.cloudapps.io/images/lectures/disjoint_set.png)
 Here 0, 5 and 6 are leaders of their respective sets
 
-
+---
 ### Optimizations
 Run time of naive implementation is ==O(N)==, similar to linked list
 
