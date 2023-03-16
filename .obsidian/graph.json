@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "#heap",
+  "search": "ML/",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.8343378616938184,
+  "scale": 2.2535424458657034,
   "close": false
 }

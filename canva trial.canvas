@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d113f67313129026","x":-2223,"y":-613,"width":674,"height":445,"color":"4","type":"file","file":"docs/ML/Vanishing Gradient.md"},
+		{"id":"ce773c2012e9c69f","x":-1305,"y":-813,"width":400,"height":400,"type":"file","file":"docs/ML/Time Series.md"},
+		{"id":"0b0f2097e9d908b9","x":-772,"y":-318,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"74e0203524b9f86c","fromNode":"d113f67313129026","fromSide":"right","toNode":"ce773c2012e9c69f","toSide":"left","label":"is only variable"},
+		{"id":"7f67c1358f990f90","fromNode":"ce773c2012e9c69f","fromSide":"right","toNode":"0b0f2097e9d908b9","toSide":"left"}
+	]
+}

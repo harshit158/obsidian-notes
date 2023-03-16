@@ -8,7 +8,7 @@ Slow will land at highlighted position:
 
 ==Reverse==
 ![[Pasted image 20210609214620.png]] ^ffa6c1
-Here "prev" represents the end of reversed linked list ^c4209d
+Here "prev" represents the head of reversed linked list ^c4209d
 
 
 ==Sentinel Node==

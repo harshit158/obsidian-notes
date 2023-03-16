@@ -3,7 +3,7 @@
 |Load balancing required | Not required |
 | Resilient | Single Point of failure |
 |Slower: Network Calls ([[RPC]]) |Faster: Inter process communication |
-| Scales well basis number of users | Harware limit |
+| Scales well basis number of users | Hardware limit |
 
 🥊How to describe load ?
 - Requests / sec -> ==webserver==

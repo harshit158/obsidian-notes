@@ -1,3 +1,7 @@
+NLP Topics:
+- Transformers
+
+**Implementatios**
 - Linear Regression
 - Logistic Regression
 - KNN

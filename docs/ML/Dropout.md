@@ -1,9 +1,3 @@
-<iframe 
-		width=550
-		height=300
-		src="https://www.youtube.com/watch?v=D8PJAL-MZv8">
-</iframe>
-
 Ref: [stackoverflow answer](https://stackoverflow.com/questions/54109617/implementing-dropout-from-scratch)
 
 2 types of Dropout Implementation:
