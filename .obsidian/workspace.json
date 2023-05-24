@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b7da0defc82e9f9b",
+            "id": "da3a0b3395fea4c9",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Leetcode/Lists/MasterList.md",
+                "file": "docs/Personal/Work/Updates.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,115 +22,45 @@
             }
           },
           {
-            "id": "da3a0b3395fea4c9",
+            "id": "1bbe9d21c88d319a",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Leetcode/Concepts/Union Find (Disjoint Set).md",
+                "file": "docs/Papers/Paper Reading List.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
             "id": "bda71132e8306f48",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "docs/Leetcode/Questions/547. Number of Provinces.md",
-                "mode": "source",
-                "source": false
-              }
+                "file": "docs/Personal/Reading and Writing Kanban.md"
+              },
+              "pinned": true
             }
           },
           {
-            "id": "82fc8c5e3f8f721f",
+            "id": "962c37822dcd8488",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Leetcode/Concepts/Topological Sort.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2037244157b7b3e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Leetcode/Questions/261. Graph Valid Tree.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "713dfffa633b55ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Leetcode/Lists/Grind75.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b06796c48969873f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Interview/From Scratch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e04c4a0fd391c96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Leetcode/Concepts/BFS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69e0d353c46ed620",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Leetcode/Questions/542. 01 Matrix.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26812999a1ce2d15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/System Design/Designing a Rate Limiter.md",
+                "file": "docs/Personal/Interview Preparation Checklist.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -159,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bfs",
+                "query": "55",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,12 +113,20 @@
               "type": "file-tree-view",
               "state": {}
             }
+          },
+          {
+            "id": "d7d35a91a0393bde",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 304.5
   },
   "right": {
     "id": "b78f15cdafdd7f3a",
@@ -204,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Leetcode/Questions/542. 01 Matrix.md",
+                "file": "docs/Personal/Interview Preparation Checklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Leetcode/Questions/542. 01 Matrix.md"
+                "file": "docs/Personal/Interview Preparation Checklist.md"
               }
             }
           },
@@ -242,18 +180,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Leetcode/Questions/542. 01 Matrix.md",
+                "file": "docs/Personal/Interview Preparation Checklist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
-            }
-          },
-          {
-            "id": "12eb8af679e4de3e",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           },
           {
@@ -263,13 +193,20 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "d9d9baa16c584520",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -281,47 +218,47 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "random-note:Open random note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "69e0d353c46ed620",
+  "active": "962c37822dcd8488",
   "lastOpenFiles": [
+    "docs/Personal/Ajay 1-1.md",
+    "docs/Personal/Resume.md",
+    "docs/Personal/Reading and Writing Kanban.md",
+    "docs/Personal/Interesting Concepts.md",
+    "docs/Personal/My Mistakes.md",
+    "docs/Personal/Interview Preparation Checklist.md",
+    "docs/Personal/Quotes.md",
+    "docs/Personal/Piano.md",
+    "docs/Personal/Note to Myself.md",
+    "docs/Personal/Form I-983.md",
+    "docs/Personal/Work/4. Log Anomaly Detection/Log Anomaly Detection.md",
+    "docs/Personal/Work/Updates.md",
+    "docs/Papers/Paper Reading List.md",
+    "docs/Leetcode/Questions/424. Longest Repeating Character Replacement.md",
+    "docs/Assets/Excalidraw/AIOps for Optics 2023-05-01 11-11-56.excalidraw.md",
+    "docs/Personal/Work/AIOps for Optics.md",
+    "docs/Assets/Excalidraw/Ajay 1-1 2023-05-09 11-42-47.excalidraw.md",
+    "docs/Personal/Work/1. AIOPs - Timing.md",
+    "docs/Leetcode/Questions/662. Maximum Width of Binary Tree.md",
     "docs/Leetcode/Concepts/BFS.md",
-    "docs/Leetcode/Questions/542. 01 Matrix.md",
-    "docs/Leetcode/Questions/53. Maximum Subarray.md",
-    "docs/Leetcode/Questions/57. Insert Interval.md",
-    "docs/Leetcode/Questions/704. Binary Search.md",
-    "docs/Interview/From Scratch.md",
-    "docs/Leetcode/Lists/Grind75.md",
-    "docs/Leetcode/Questions/733. Flood Fill.md",
-    "docs/Leetcode/Questions/242. Valid Anagram.md",
-    "docs/Leetcode/Questions/226. Invert Binary Tree.md",
-    "docs/Leetcode/Questions/20. Valid Parentheses.md",
-    "docs/Leetcode/Questions/1. Two Sum.md",
-    "docs/Leetcode/Questions/261. Graph Valid Tree.md",
-    "docs/Leetcode/Lists/MasterList.md",
-    "docs/Leetcode/Lists/Arrays.md",
-    "docs/Leetcode/Questions/217. Contains Duplicate.md",
-    "docs/Leetcode/Questions/121. Best Time to Buy and Sell Stock.md",
-    "docs/Leetcode/Questions/21. Merge Two sorted lists.md",
-    "docs/Leetcode/Questions/101. Symmetric Tree.md",
-    "docs/Leetcode/Lists/Graph.md",
-    "docs/Leetcode/Questions/79. Word Search.md",
+    "docs/Leetcode/Questions/117. Populating Next Right Pointers in Each Node II.md",
+    "docs/Leetcode/Questions/116. Populating Next Right Pointers in Each Node.md",
+    "docs/Leetcode/Questions/103. Binary Tree Zigzag Level Order Traversal.md",
+    "docs/Leetcode/Questions/637. Average of Levels in Binary Tree.md",
     "docs/Leetcode/Questions/429. N-ary Tree Level Order Traversal.md",
-    "docs/Assets/Pasted image 20230313091655.png",
-    "docs/Assets/Pasted image 20230313091644.png",
-    "docs/Blogs/Leetcode Mental Models.md",
-    "docs/Leetcode/Questions/268. Missing Number.md",
-    "docs/Leetcode/Questions/136. Single Number.md",
-    "docs/Leetcode/Concepts/Bit Manipulation.md",
-    "docs/Assets/Pasted image 20230307171952.png",
-    "docs/Assets/Pasted image 20230306184819.png",
-    "docs/Assets/Pasted image 20230306184711.png",
-    "docs/Assets/Pasted image 20230306180940.png",
-    "docs/Assets/Pasted Image 20230306132410_587.png",
-    "docs/Assets/Pasted Image 20230306132003_393.png",
-    "docs/Assets/Pasted Image 20230301232859_098.png",
-    "docs/Assets/Pasted Image 20230228212435_311.png"
+    "docs/Leetcode/Questions/199. Binary Tree Right Side View.md",
+    "docs/Assets/Pasted image 20230520010117.png",
+    "docs/Assets/Pasted Image 20230518130424_208.png",
+    "docs/Assets/Pasted image 20230518112404.png",
+    "docs/Assets/Pasted Image 20230508163414_618.png",
+    "docs/Assets/Pasted Image 20230508163344_396.png",
+    "docs/Assets/Pasted Image 20230508162642_190.png",
+    "docs/Assets/Pasted Image 20230508162513_946.png",
+    "docs/Assets/Pasted image 20230504143155.png",
+    "docs/Assets/Pasted Image 20230501104051_696.png",
+    "docs/Assets/Pasted Image 20230501104033_679.png"
   ]
 }

@@ -4,11 +4,11 @@
   "excalibrain",
   "dataview",
   "obsidian-admonition",
-  "calendar",
   "file-tree-alternative",
   "obsidian-kanban",
   "sliding-panes-obsidian",
   "obsidian-emoji-toolbar",
   "highlightr-plugin",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "calendar"
 ]

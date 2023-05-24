@@ -4,3 +4,7 @@ Quickly becomes bottleneck for long sequences ^ce649a
 
 
 ![[Pasted image 20220817231907.png]]
+
+http://nlp.seas.harvard.edu/annotated-transformer/
+
+- Example from "Getting started with Google BERT"

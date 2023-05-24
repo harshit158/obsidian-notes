@@ -1,0 +1,3 @@
+- Min heap requires Nlog==k== complexity whereas max heap requires N+klog==N== complexity
+- In min heap approach, we can get top k elements even for streaming elements but for max heap approach, its off-line
+- Min heap requires less space since we keep only k elements at any point of time

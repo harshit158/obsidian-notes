@@ -1,0 +1,1 @@
+- First phase is collecting dots, and then connecting them

@@ -16,7 +16,7 @@ Used to:
 - Instead of queue here, we can ==use Deque== ([[Tips#^47eb3b]]) which will be more efficient 
 
 **Remember**
-- 
+- ==if we do queue.pop(-1) -> this is equivalent of doing iterative DFS==
 
 ## Complexity
 

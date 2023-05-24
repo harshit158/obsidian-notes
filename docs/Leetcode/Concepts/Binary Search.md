@@ -100,7 +100,7 @@ A = [1,2,3,6,7,7,10]
 		bisect.bisect_left(A, 6) -> 3
 		# If there are multiple occurence, returns the FIRST occurence
 		bisect.bisect_left(A, 7) -> 4
-		# If target is not found
+		# If target is not found (the index at which it should be inserted)
 		bisect.bisect_left(A, 8) -> 6
 
 (2) bisect.bisect_right

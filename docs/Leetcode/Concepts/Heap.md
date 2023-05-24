@@ -47,9 +47,33 @@ heapq.heappop(nums)
 
 
 ### Complexity
-| Operation      | Complexity | Intuition     |
-| :---        |    :----:   |          :--- |
-| Heapifying ==an element==      | O(logn)       | In the worst case, the element travels from root to all the way to leaf, which is the height of the tree <br> ==percolates DOWN== | 
-| Deleting (root)      | O(logn)       | Once the last leaf node takes the value of root, it needs to be heapified.  <br> ==percolates DOWN== | 
-| Inserting an element      | O(logn)       | In the worst case, the new element has to travel from leaf to root before settling down <br> height of the tree <br> ==percolates UP== | 
-| Heapifying ==the array==      | O(n)       | How ? #todo | 
+| Operation                 | Complexity | Intuition                                                                                                                              |
+|:------------------------- |:----------:|:-------------------------------------------------------------------------------------------------------------------------------------- |
+| Heapifying ==an element== |  O(logn)   | In the worst case, the element travels from root to all the way to leaf, which is the height of the tree <br> ==percolates DOWN==      |
+| Deleting (root)           |  O(logn)   | Once the last leaf node takes the value of root, it needs to be heapified.  <br> ==percolates DOWN==                                   |
+| Inserting an element      |  O(logn)   | In the worst case, the new element has to travel from leaf to root before settling down <br> height of the tree <br> ==percolates UP== |
+| Heapifying ==the array==  |    O(n)    | How? #todo Hint: This is different from heapifying all the elements one by one. Instead here, we are talking about heapifying everything at once.                                                                                                                           |
+
+
+### Breaking tie between same frequencies:
+-> Add a tuple of (freq, second_item) 
+-> If there is a tie between freq of multiple items, it uses second_item to break the tie
+
+```python
+import heapq
+
+heap = []
+
+heapq.heappush(heap, (5, 'apple'))
+heapq.heappush(heap, (2, 'banana'))
+heapq.heappush(heap, (3, 'cherry'))
+heapq.heappush(heap, (2, 'avocado'))
+
+print(heap)
+
+```
+
+output
+```python
+[(2, 'avocado'), (2, 'banana'), (3, 'cherry'), (5, 'apple')]
+```

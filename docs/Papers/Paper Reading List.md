@@ -1,3 +1,7 @@
+- [ ] HuggingGPT https://arxiv.org/pdf/2303.17580.pdf
+- [ ] LLM Survey https://arxiv.org/pdf/2303.18223.pdf
+
+
 - **Anomaly Detection from Logs:**
 	- [[Catching Unusual Traffic Behavior using TF–IDF-based Port Access Statistics Analysis]]
 	- [An Attention-Based GRU Network for Anomaly Detection from System Logs](https://www.jstage.jst.go.jp/article/transinf/E103.D/8/E103.D_2020EDL8016/_pdf/-char/en)

@@ -1,3 +1,5 @@
+![[Recommender Systems 2023-03-26 19-28-13.excalidraw|800]]
+
 ## Collaborative Filtering
 
 ### Matrix Factorization:
