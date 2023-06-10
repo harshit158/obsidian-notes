@@ -79,6 +79,9 @@ def union(self, x, y):
 			self.rank[rootX] += 1
 ```
 
+For 
+
+
 
 ### Complexity
 #todo 

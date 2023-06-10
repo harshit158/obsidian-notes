@@ -22,6 +22,9 @@ Used to:
 
 
 ## Ways of tracking nodes at different levels
+
+^9a1ef3
+
 ^4bf035
 (in increasing order of efficiency)
 Ref: https://leetcode.com/problems/populating-next-right-pointers-in-each-node/solution/
