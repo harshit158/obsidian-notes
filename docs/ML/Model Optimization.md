@@ -4,3 +4,8 @@
 - Pruning
 - Knowledge Distillation
 - [[ONNX]]
+
+
+Above approaches modify either model architecture or weights, leading to change in accuracy.
+The below ones don't modify and hence retain the same accuracy:
+- 

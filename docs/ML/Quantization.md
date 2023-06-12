@@ -15,6 +15,9 @@
 
 
 - **Quantization can happen**:
-	- ==During Training== (Quantization aware training) -> models are trained in lower precision
+	- ==Quantization aware training== (During Training)
+		- Models are trained in lower precision - since it happens during the training, the model learns to compensate for the effects of quantization which can help maintain the model's accuracy
 		- Larger models on same hardware
-	- ==After Training== -> models trained in single-precision-floating-point and later quantized for inference
+		
+	- ==Post Training Quantization== (After Training)
+		- Models trained in single-precision-floating-point and later quantized for inference

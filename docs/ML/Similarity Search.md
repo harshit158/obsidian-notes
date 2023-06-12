@@ -9,11 +9,13 @@ Challenge in Similarity Search is to perform search in case of billion+ data poi
 >==Distance metrics== are used to actually find the distance between the query and each of the fetched neighbors
 
 - There are different **Types of Indexes**: ^aec857
-	- ==**Flat and Accurate==:**
+	- ==**Flat and Accurate but Slow==:**
 		- Vectors that are fed into these indexes are NOT modified, hence "flat"
 			- This is similar to [[KNN]] , since the Query vector is compared to every other vector and there is no reduction in the search scope
+			  
+	- ==**Flat/Modified and Lesser Accurate but Fast**==
 		- Possible **Optimizations**:
-			- (1) Reduce Vector Size
+			- (1) Reduce Vector Size (Eg: Product Quantization)
 			- (2) Reduce Search Scope: Eg clustering of vectors and comparing the query vector to the centroids of these clusters instead of individual vectors
 		- These optimizations means that we are <u> no longer performing an exhaustive nearest-neighbours search and don't scan the entire dataset.</u> Hence these approaches are known as ==Approximate Nearest Neighbors Search (ANN)==
 
@@ -22,11 +24,12 @@ Challenge in Similarity Search is to perform search in case of billion+ data poi
 
 
 **Libraries**:
-- Annoy | Spotify
-- FAISS | Facebook
-- Scann | Google
+- Annoy | Spotify (Tree Based)
+- [[FAISS]] | Facebook (Clustering)
+- Scann | Google (Vector Compression)
 - SPTAG | Microsoft
 - DiskANN | Microsoft
+- HNSW (Proximity Graphs)
 
 **Resources / Tutorials:**
 - [NLP for Semantic Search Course](https://www.pinecone.io/learn/dense-vector-embeddings-nlp/
