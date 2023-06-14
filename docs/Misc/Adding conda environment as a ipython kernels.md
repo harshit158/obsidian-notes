@@ -31,5 +31,5 @@ python -m ipykernel install --user --name=env_name
 --- 
 Ways of creating virtual environment: Using
 - pyenv (most recommended) - lets us install multiple versions of python
-- venv
-- virtualenv
+- venv (python3)
+- virtualenv (python2)

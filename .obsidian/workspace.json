@@ -46,9 +46,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "a6d26ce2c6404fba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Leetcode/Questions/289. Game of Life.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -77,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Self-Attention",
+                "query": "approximate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Personal/Work/Updates.md",
+                "file": "docs/Leetcode/Questions/289. Game of Life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Personal/Work/Updates.md"
+                "file": "docs/Leetcode/Questions/289. Game of Life.md"
               }
             }
           },
@@ -168,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Personal/Work/Updates.md",
+                "file": "docs/Leetcode/Questions/289. Game of Life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -210,8 +222,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a134238dd2014a12",
+  "active": "a6d26ce2c6404fba",
   "lastOpenFiles": [
+    "docs/Assets/Excalidraw/AIOps for Optics 2023-05-01 11-11-56.excalidraw.md",
+    "docs/Leetcode/Questions/289. Game of Life.md",
+    "docs/Personal/Work/5. AIOps for Optics.md",
+    "docs/Personal/Work/1. AIOPs - Timing.md",
+    "docs/Personal/Work/Updates.md",
+    "docs/Assets/Excalidraw/Updates 2023-06-12 23-12-18.excalidraw.md",
+    "docs/ML/FAISS.md",
+    "docs/ML/Similarity Search.md",
+    "docs/Assets/Excalidraw/Similarity Search 2022-08-06 19-09-13.excalidraw.md",
+    "docs/Misc/Adding conda environment as a ipython kernels.md",
+    "docs/Misc/Python - Coding Tips and Tricks.md",
+    "docs/ML/GNN.md",
+    "docs/Assets/Pasted image 20230612163944.png",
     "docs/ML/Self-Attention.md",
     "docs/NLP/Transformers.md",
     "docs/Personal/Interview Preparation Checklist.md",
@@ -219,25 +244,13 @@
     "docs/ML/Quantization.md",
     "docs/Papers/Paper Reading List.md",
     "docs/Personal/Reading and Writing Kanban.md",
-    "docs/Personal/Work/Updates.md",
     "docs/Personal/Resume.md",
-    "docs/Personal/Work/5. AIOps for Optics.md",
     "docs/ML/Vector Databases.md",
     "docs/Personal/Work/3. AIOPs - Active Assurance.md",
     "docs/Personal/Work/2. KG for Log Analysis.md",
     "docs/Personal/Work/4. Log Anomaly Detection/Log Anomaly Detection.md",
     "docs/Personal/Work/TODOs.md",
     "docs/Personal/On Writing.md",
-    "docs/Personal/Form I-983.md",
-    "docs/Personal/Ajay 1-1.md",
-    "docs/Personal/Note to Myself.md",
-    "docs/Personal/Work/1. AIOPs - Timing.md",
-    "docs/Personal/Work/4. Log Anomaly Detection/Experiments.md",
-    "docs/Personal/Work/4. Log Anomaly Detection/Paper Notes.md",
-    "docs/Leetcode/Questions/103. Binary Tree Zigzag Level Order Traversal.md",
-    "docs/Leetcode/Questions/215. Kth Largest Element in an Array.md",
-    "docs/ML/Similarity Search.md",
-    "docs/ML/FAISS.md",
     "docs/Assets/Pasted image 20230610141733.png",
     "Untitled.canvas",
     "docs/Assets/Pasted image 20230610141259.png",
@@ -247,7 +260,6 @@
     "docs/Assets/Pasted image 20230607081927.png",
     "docs/Assets/Pasted image 20230607081832.png",
     "docs/Assets/Pasted Image 20230526000048_092.png",
-    "docs/Assets/Pasted Image 20230526000033_088.png",
-    "docs/Assets/Pasted Image 20230525163522_308.png"
+    "docs/Assets/Pasted Image 20230526000033_088.png"
   ]
 }
