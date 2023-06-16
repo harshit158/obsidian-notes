@@ -29,7 +29,7 @@ Challenge in Similarity Search is to perform search in case of billion+ data poi
 - Scann | Google (Vector Compression)
 - SPTAG | Microsoft
 - DiskANN | Microsoft
-- HNSW (Proximity Graphs)
+- HNSWlib (Proximity Graphs)
 
 **Resources / Tutorials:**
 - [NLP for Semantic Search Course](https://www.pinecone.io/learn/dense-vector-embeddings-nlp/
