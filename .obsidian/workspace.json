@@ -34,6 +34,20 @@
             }
           },
           {
+            "id": "a6d26ce2c6404fba",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Leetcode/Lists/Grind75 + Leetcode150.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
             "id": "a134238dd2014a12",
             "type": "leaf",
             "pinned": true,
@@ -48,19 +62,19 @@
             }
           },
           {
-            "id": "a6d26ce2c6404fba",
+            "id": "997097783e19c736",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Personal/Work/5. AIOps for Optics.md",
+                "file": "docs/Leetcode/Questions/26. Remove Duplicates from Sorted Array.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -89,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "approxi",
+                "query": "26",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,12 +136,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 304.5,
-    "collapsed": true
+    "width": 304.5
   },
   "right": {
     "id": "b78f15cdafdd7f3a",
@@ -143,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Personal/Work/5. AIOps for Optics.md",
+                "file": "docs/Leetcode/Lists/Grind75 + Leetcode150.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Personal/Work/5. AIOps for Optics.md"
+                "file": "docs/Leetcode/Lists/Grind75 + Leetcode150.md"
               }
             }
           },
@@ -181,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Personal/Work/5. AIOps for Optics.md",
+                "file": "docs/Leetcode/Lists/Grind75 + Leetcode150.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -225,9 +239,22 @@
   },
   "active": "a6d26ce2c6404fba",
   "lastOpenFiles": [
-    "docs/Personal/Work/1. AIOPs - Timing.md",
-    "docs/Leetcode/Questions/27. Remove Element.md",
+    "docs/Leetcode/Questions/26. Remove Duplicates from Sorted Array.md",
+    "docs/Leetcode/Lists/Grind75 + Leetcode150.md",
+    "docs/Leetcode/Questions/88. Merge Sorted Array.md",
+    "docs/Assets/Pasted image 20230617195225.png",
+    "docs/Leetcode/Questions/704. Binary Search.md",
+    "docs/Leetcode/Lists/Hashtable.md",
+    "docs/Leetcode/Lists/Arrays.md",
+    "docs/ML/Product Quantization.md",
     "docs/ML/Similarity Search.md",
+    "docs/Assets/Excalidraw/Similarity Search 2022-08-06 19-09-13.excalidraw.md",
+    "docs/Books/Book - Designing ML Systems (Chip Huyen)/C7 - Model Deployment and Prediction Service.md",
+    "docs/Leetcode/Questions/27. Remove Element.md",
+    "docs/Misc/Adding conda environment as a ipython kernels.md",
+    "docs/Misc/File Permissions.md",
+    "docs/Personal/Work/5. AIOps for Optics.md",
+    "docs/Personal/Work/1. AIOPs - Timing.md",
     "docs/Personal/Work/Updates.md",
     "docs/Assets/Excalidraw/Updates 2023-06-12 23-12-18.excalidraw.md",
     "docs/Assets/Pasted Image 20230615112202_349.png",
@@ -239,28 +266,15 @@
     "docs/Assets/Excalidraw/Log Anomaly Detection 2023-06-14 12-57-44.excalidraw.md",
     "docs/Personal/Ajay 1-1.md",
     "docs/Assets/Excalidraw/Log Anomaly Detection 2023-06-14 12-56-27.excalidraw.md",
-    "docs/Personal/Work/5. AIOps for Optics.md",
     "docs/Assets/Excalidraw/AIOps for Optics 2023-05-01 11-11-56.excalidraw.md",
     "docs/Personal/Work/4. Log Anomaly Detection/Experiments.md",
-    "docs/Personal/Work/4. Log Anomaly Detection/Paper Notes.md",
     "docs/Assets/Pasted Image 20230614114423_631.png",
     "docs/Assets/Pasted Image 20230614114236_629.png",
     "docs/Assets/Pasted Image 20230614114133_626.png",
     "docs/Assets/Pasted Image 20230614114030_623.png",
-    "docs/Leetcode/Questions/289. Game of Life.md",
-    "docs/ML/FAISS.md",
-    "docs/Assets/Excalidraw/Similarity Search 2022-08-06 19-09-13.excalidraw.md",
-    "docs/Misc/Adding conda environment as a ipython kernels.md",
-    "docs/Misc/Python - Coding Tips and Tricks.md",
-    "docs/ML/GNN.md",
     "docs/Assets/Pasted image 20230612163944.png",
-    "docs/ML/Self-Attention.md",
-    "docs/NLP/Transformers.md",
-    "docs/Personal/Interview Preparation Checklist.md",
-    "docs/ML/Model Optimization.md",
     "docs/Assets/Pasted image 20230610141733.png",
     "Untitled.canvas",
-    "docs/Assets/Pasted image 20230610141259.png",
-    "docs/Assets/Pasted image 20230607184606.png"
+    "docs/Assets/Pasted image 20230610141259.png"
   ]
 }

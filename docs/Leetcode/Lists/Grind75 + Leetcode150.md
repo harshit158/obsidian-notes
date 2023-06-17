@@ -47,3 +47,21 @@
 - [[133. Clone Graph]]
 - [[150. Evaluate Reverse Polish Notation]]
 - [[207. Course Schedule]]
+
+<mark style="background: #BBFABBA6;">**Week5**</mark> 
+
+<mark style="background: #BBFABBA6;">**Week6**</mark> 
+
+<mark style="background: #BBFABBA6;">**Week7**</mark> 
+
+<mark style="background: #BBFABBA6;">**Week8**</mark> 
+
+<mark style="background: #BBFABBA6;">**Week9**</mark> 
+
+<mark style="background: #BBFABBA6;">**Week10**</mark> 
+
+
+Leetcode 150 (but not in Grind 75)
+- [[27. Remove Element]] [0]
+- [[88. Merge Sorted Array]] [0]
+- [[26. Remove Duplicates from Sorted Array]] [0]

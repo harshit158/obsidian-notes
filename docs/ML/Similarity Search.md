@@ -15,7 +15,7 @@ Challenge in Similarity Search is to perform search in case of billion+ data poi
 			  
 	- ==**Flat/Modified and Lesser Accurate but Fast**==
 		- Possible **Optimizations**:
-			- (1) Reduce Vector Size (Eg: Product Quantization)
+			- (1) Reduce Vector Size (Eg: [[Product Quantization]])
 			- (2) Reduce Search Scope: Eg clustering of vectors and comparing the query vector to the centroids of these clusters instead of individual vectors
 		- These optimizations means that we are <u> no longer performing an exhaustive nearest-neighbours search and don't scan the entire dataset.</u> Hence these approaches are known as ==Approximate Nearest Neighbors Search (ANN)==
 
