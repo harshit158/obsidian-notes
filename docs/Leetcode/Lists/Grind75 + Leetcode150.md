@@ -1,4 +1,4 @@
-<mark style="background: #BBFABBA6;">**Week1**</mark> 
+#### ==Week 1==
 - [[1. Two Sum]]
 - [[20. Valid Parentheses]]
 - [[21. Merge Two sorted lists]]
@@ -9,7 +9,7 @@
 - [[704. Binary Search]]
 - [[733. Flood Fill]]
 
-<mark style="background: #BBFABBA6;">**Week2**</mark> 
+#### ==Week 2==
 - [[278. First Bad Version]]
 - [[383. Ransom Note]]
 - [[70. Climbing Stairs]]
@@ -23,7 +23,7 @@
 - [[217. Contains Duplicate]]
 - [[252. Meeting Rooms]]
 
-<mark style="background: #BBFABBA6;">**Week3**</mark> 
+#### ==Week 3==
 - [[13. Roman to Integer]]
 - [[844. Backspace String Compare]]
 - [[338. Counting Bits]]
@@ -38,7 +38,7 @@
 - [[53. Maximum Subarray]]
 - [[57. Insert Interval]]
 
-<mark style="background: #BBFABBA6;">**Week4**</mark> 
+#### ==Week 4==
 - [[542. 01 Matrix]]
 - [[973. K Closest Points to Origin]]
 - [[3. Longest Substring Without Repeating Characters]]
@@ -48,20 +48,26 @@
 - [[150. Evaluate Reverse Polish Notation]]
 - [[207. Course Schedule]]
 
-<mark style="background: #BBFABBA6;">**Week5**</mark> 
+#### ==Week 5==
 
-<mark style="background: #BBFABBA6;">**Week6**</mark> 
+#### ==Week 6==
 
-<mark style="background: #BBFABBA6;">**Week7**</mark> 
+#### ==Week 7==
 
-<mark style="background: #BBFABBA6;">**Week8**</mark> 
+#### ==Week 8==
 
-<mark style="background: #BBFABBA6;">**Week9**</mark> 
+#### ==Week 9==
 
-<mark style="background: #BBFABBA6;">**Week10**</mark> 
+#### ==Week 10==
+
+#### ==Week 11==
+
+#### ==Week 12==
 
 
-Leetcode 150 (but not in Grind 75)
+--- 
+
+#### ==Leetcode 150 (but not in Grind 75)==
 - [[27. Remove Element]] [0]
 - [[88. Merge Sorted Array]] [0]
 - [[26. Remove Duplicates from Sorted Array]] [0]

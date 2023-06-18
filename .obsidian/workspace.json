@@ -41,7 +41,7 @@
               "type": "markdown",
               "state": {
                 "file": "docs/Leetcode/Lists/Grind75 + Leetcode150.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true
@@ -136,8 +136,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -241,6 +240,7 @@
   "lastOpenFiles": [
     "docs/Leetcode/Questions/26. Remove Duplicates from Sorted Array.md",
     "docs/Leetcode/Lists/Grind75 + Leetcode150.md",
+    "docs/Blogs/Leetcode Mental Models.md",
     "docs/Leetcode/Questions/88. Merge Sorted Array.md",
     "docs/Assets/Pasted image 20230617195225.png",
     "docs/Leetcode/Questions/704. Binary Search.md",
@@ -267,7 +267,6 @@
     "docs/Personal/Ajay 1-1.md",
     "docs/Assets/Excalidraw/Log Anomaly Detection 2023-06-14 12-56-27.excalidraw.md",
     "docs/Assets/Excalidraw/AIOps for Optics 2023-05-01 11-11-56.excalidraw.md",
-    "docs/Personal/Work/4. Log Anomaly Detection/Experiments.md",
     "docs/Assets/Pasted Image 20230614114423_631.png",
     "docs/Assets/Pasted Image 20230614114236_629.png",
     "docs/Assets/Pasted Image 20230614114133_626.png",
