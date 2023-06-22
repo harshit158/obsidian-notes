@@ -65,9 +65,31 @@
             "id": "997097783e19c736",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "docs/Assets/Excalidraw/Ajay 1-1 2023-05-08 16-22-48.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "9bff0e6731b53516",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Leetcode/Questions/189. Rotate Array.md",
+                "file": "docs/Leetcode/Questions/121. Best Time to Buy and Sell Stock.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c732253c8e78f71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Leetcode/Questions/122. Best Time to Buy and Sell Stock II.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +125,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "alias",
+                "query": "122. Best Time to Buy and Sell Stock II",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -238,12 +260,21 @@
   },
   "active": "a6d26ce2c6404fba",
   "lastOpenFiles": [
+    "docs/Leetcode/Questions/122. Best Time to Buy and Sell Stock II.md",
+    "docs/Assets/Pasted image 20230621205823.png",
+    "docs/Leetcode/Lists/Grind75 + Leetcode150.md",
+    "docs/Personal/Work/Updates.md",
+    "docs/Leetcode/Questions/121. Best Time to Buy and Sell Stock.md",
+    "docs/Assets/Excalidraw/Ajay 1-1 2023-05-08 16-22-48.excalidraw.md",
+    "docs/Papers/Paper Reading List.md",
+    "docs/Personal/Reading and Writing Kanban.md",
+    "docs/Personal/Work/4. Log Anomaly Detection/Log Anomaly Detection.md",
+    "docs/Assets/Excalidraw/Log Anomaly Detection 2023-06-14 12-57-44.excalidraw.md",
+    "docs/Assets/Pasted image 20230621085636.png",
     "docs/Leetcode/Questions/189. Rotate Array.md",
     "docs/Assets/Excalidraw/5. AIOps for Optics 2023-06-20 15-47-11.excalidraw.md",
     "docs/Personal/Work/5. AIOps for Optics.md",
-    "docs/Personal/Work/Updates.md",
     "docs/Assets/Excalidraw/AIOps for Optics 2023-05-01 11-11-56.excalidraw.md",
-    "docs/Personal/Work/4. Log Anomaly Detection/Log Anomaly Detection.md",
     "docs/Personal/Ajay 1-1.md",
     "docs/Personal/Work/1. AIOPs - Timing.md",
     "docs/Misc/Project Structure.md",
@@ -256,15 +287,7 @@
     "docs/Misc/Python - Coding Tips and Tricks.md",
     "docs/Misc/Protocol Buffer (protobuf).md",
     "docs/Misc/File Permissions.md",
-    "docs/Leetcode/Lists/Grind75 + Leetcode150.md",
-    "docs/Leetcode/Questions/169. Majority Element.md",
-    "docs/ML/Product Quantization.md",
-    "docs/Personal/Reading and Writing Kanban.md",
-    "docs/MOOCs/Large Language Models - Applications through Production.md",
     "docs/Assets/Pasted image 20230618193147.png",
-    "docs/MOOCs/1-4 Intro to ML in Production/Week 3.md",
-    "docs/MOOCs/1-4 Intro to ML in Production/Week 2.md",
-    "docs/MOOCs/1-4 Intro to ML in Production/Week 1.md",
     "docs/Assets/Pasted image 20230617195225.png",
     "docs/Assets/Pasted Image 20230615112202_349.png",
     "docs/Assets/Pasted Image 20230615112126_482.png",
@@ -272,8 +295,6 @@
     "docs/Assets/Pasted Image 20230614114236_629.png",
     "docs/Assets/Pasted Image 20230614114133_626.png",
     "docs/Assets/Pasted Image 20230614114030_623.png",
-    "docs/Assets/Pasted image 20230612163944.png",
-    "docs/Assets/Pasted image 20230610141733.png",
     "Untitled.canvas"
   ]
 }

@@ -2,7 +2,7 @@
 - [[1. Two Sum]]
 - [[20. Valid Parentheses]]
 - [[21. Merge Two sorted lists]]
-- [[121. Best Time to Buy and Sell Stock]]
+- [[121. Best Time to Buy and Sell Stock]] [1]
 - [[125. Valid Palindrome]]
 - [[226. Invert Binary Tree]]
 - [[242. Valid Anagram]]
@@ -73,3 +73,4 @@
 - [[26. Remove Duplicates from Sorted Array]] [0]
 - [[80. Remove Duplicates from Sorted Array II]] [0]
 - [[189. Rotate Array]] [0]
+- [[122. Best Time to Buy and Sell Stock II]]
