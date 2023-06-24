@@ -72,31 +72,31 @@
             }
           },
           {
-            "id": "9bff0e6731b53516",
+            "id": "770897d285c865e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Leetcode/Questions/121. Best Time to Buy and Sell Stock.md",
+                "file": "docs/Misc/Adding conda environment as a ipython kernels.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9c732253c8e78f71",
+            "id": "525fc9cfbf2cd242",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Leetcode/Questions/122. Best Time to Buy and Sell Stock II.md",
+                "file": "docs/Leetcode/Questions/274. H-Index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -125,7 +125,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "122. Best Time to Buy and Sell Stock II",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Leetcode/Lists/Grind75 + Leetcode150.md",
+                "file": "docs/Leetcode/Questions/274. H-Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Leetcode/Lists/Grind75 + Leetcode150.md"
+                "file": "docs/Leetcode/Questions/274. H-Index.md"
               }
             }
           },
@@ -216,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Leetcode/Lists/Grind75 + Leetcode150.md",
+                "file": "docs/Leetcode/Questions/274. H-Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -258,35 +258,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a6d26ce2c6404fba",
+  "active": "525fc9cfbf2cd242",
   "lastOpenFiles": [
+    "docs/Assets/Pasted image 20230623213651.png",
+    "docs/Leetcode/Lists/Grind75 + Leetcode150.md",
+    "docs/Leetcode/Questions/274. H-Index.md",
+    "docs/Assets/Excalidraw/Ajay 1-1 2023-05-08 16-22-48.excalidraw.md",
+    "docs/Leetcode/Questions/55. Jump Game.md",
+    "docs/Misc/Adding conda environment as a ipython kernels.md",
+    "docs/Misc/File Permissions.md",
+    "docs/Leetcode/Questions/45. Jump Game II.md",
+    "docs/Personal/Work/Updates.md",
+    "docs/Personal/My Mistakes.md",
+    "docs/Personal/Interview Preparation Checklist.md",
+    "docs/Personal/Quotes.md",
+    "docs/Personal/Piano.md",
+    "docs/Personal/Interesting Concepts.md",
+    "docs/Personal/Reading and Writing Kanban.md",
+    "docs/Personal/Note to Myself.md",
+    "docs/Personal/Resume.md",
+    "docs/Misc/Python - Coding Tips and Tricks.md",
+    "docs/Misc/Solving Autocomplete Issue on Jupyter.md",
     "docs/Leetcode/Questions/122. Best Time to Buy and Sell Stock II.md",
     "docs/Assets/Pasted image 20230621205823.png",
-    "docs/Leetcode/Lists/Grind75 + Leetcode150.md",
-    "docs/Personal/Work/Updates.md",
     "docs/Leetcode/Questions/121. Best Time to Buy and Sell Stock.md",
-    "docs/Assets/Excalidraw/Ajay 1-1 2023-05-08 16-22-48.excalidraw.md",
     "docs/Papers/Paper Reading List.md",
-    "docs/Personal/Reading and Writing Kanban.md",
     "docs/Personal/Work/4. Log Anomaly Detection/Log Anomaly Detection.md",
     "docs/Assets/Excalidraw/Log Anomaly Detection 2023-06-14 12-57-44.excalidraw.md",
     "docs/Assets/Pasted image 20230621085636.png",
     "docs/Leetcode/Questions/189. Rotate Array.md",
     "docs/Assets/Excalidraw/5. AIOps for Optics 2023-06-20 15-47-11.excalidraw.md",
-    "docs/Personal/Work/5. AIOps for Optics.md",
-    "docs/Assets/Excalidraw/AIOps for Optics 2023-05-01 11-11-56.excalidraw.md",
-    "docs/Personal/Ajay 1-1.md",
-    "docs/Personal/Work/1. AIOPs - Timing.md",
-    "docs/Misc/Project Structure.md",
-    "docs/Misc/Obsidian Tips.md",
-    "docs/Misc/Git.md",
-    "docs/Misc/Highlighting in Vi.md",
-    "docs/Misc/Tools and Libraries.md",
-    "docs/Misc/Solving Autocomplete Issue on Jupyter.md",
-    "docs/Misc/Adding conda environment as a ipython kernels.md",
-    "docs/Misc/Python - Coding Tips and Tricks.md",
-    "docs/Misc/Protocol Buffer (protobuf).md",
-    "docs/Misc/File Permissions.md",
     "docs/Assets/Pasted image 20230618193147.png",
     "docs/Assets/Pasted image 20230617195225.png",
     "docs/Assets/Pasted Image 20230615112202_349.png",
