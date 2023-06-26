@@ -49,6 +49,7 @@
 - [[207. Course Schedule]]
 
 #### ==Week 5==
+- [[238. Product of Array Except Self]] [1]
 
 #### ==Week 6==
 
@@ -57,6 +58,7 @@
 #### ==Week 8==
 
 #### ==Week 9==
+- [[134. Gas Station]] [0]
 
 #### ==Week 10==
 
@@ -75,3 +77,5 @@
 - [[80. Remove Duplicates from Sorted Array II]] [0]
 - [[189. Rotate Array]] [0]
 - [[122. Best Time to Buy and Sell Stock II]]
+- [[274. H-Index]] [0]
+- [[380. Insert Delete GetRandom O(1)]] [1]

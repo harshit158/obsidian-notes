@@ -62,36 +62,36 @@
             }
           },
           {
-            "id": "997097783e19c736",
+            "id": "8c0bf0cbb325f6c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Leetcode/Questions/134. Gas Station.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9fed92c0672c38f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Personal/Work/4. Log Anomaly Detection/Log Anomaly Detection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be47ab2080297691",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "docs/Assets/Excalidraw/Ajay 1-1 2023-05-08 16-22-48.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "770897d285c865e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Misc/Adding conda environment as a ipython kernels.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "525fc9cfbf2cd242",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Leetcode/Questions/274. H-Index.md",
-                "mode": "source",
-                "source": false
+                "file": "docs/Assets/Excalidraw/AIOps for Optics 2023-05-01 11-11-56.excalidraw.md"
               }
             }
           }
@@ -125,8 +125,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "134",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -162,7 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 293.5110321044922
   },
   "right": {
     "id": "b78f15cdafdd7f3a",
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Leetcode/Questions/274. H-Index.md",
+                "file": "docs/Assets/Excalidraw/AIOps for Optics 2023-05-01 11-11-56.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Leetcode/Questions/274. H-Index.md"
+                "file": "docs/Assets/Excalidraw/AIOps for Optics 2023-05-01 11-11-56.excalidraw.md"
               }
             }
           },
@@ -216,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Leetcode/Questions/274. H-Index.md",
+                "file": "docs/Assets/Excalidraw/AIOps for Optics 2023-05-01 11-11-56.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -242,7 +242,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,44 +259,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "525fc9cfbf2cd242",
+  "active": "be47ab2080297691",
   "lastOpenFiles": [
-    "docs/Assets/Pasted image 20230623213651.png",
+    "docs/Assets/Pasted Image 20230624233648_212.png",
+    "docs/Assets/Pasted Image 20230624232951_958.png",
+    "docs/Assets/Pasted Image 20230624232656_954.png",
+    "docs/Assets/Pasted Image 20230624232609_187.png",
+    "docs/Personal/Work/5. AIOps for Optics.md",
+    "docs/Personal/Work/Updates.md",
+    "docs/Leetcode/Questions/134. Gas Station.md",
+    "docs/Personal/Reading and Writing Kanban.md",
     "docs/Leetcode/Lists/Grind75 + Leetcode150.md",
-    "docs/Leetcode/Questions/274. H-Index.md",
     "docs/Assets/Excalidraw/Ajay 1-1 2023-05-08 16-22-48.excalidraw.md",
-    "docs/Leetcode/Questions/55. Jump Game.md",
+    "docs/Personal/Work/4. Log Anomaly Detection/Log Anomaly Detection.md",
     "docs/Misc/Adding conda environment as a ipython kernels.md",
+    "docs/Leetcode/Questions/380. Insert Delete GetRandom O(1).md",
+    "docs/Leetcode/Concepts/Comparison Vs Non-Comparison based sorting.md",
+    "docs/Leetcode/Questions/692. Top K Frequent Words.md",
+    "docs/Leetcode/Concepts/Arrays.md",
+    "docs/Leetcode/Questions/274. H-Index.md",
+    "docs/Assets/Pasted image 20230623213651.png",
+    "docs/Leetcode/Questions/55. Jump Game.md",
     "docs/Misc/File Permissions.md",
     "docs/Leetcode/Questions/45. Jump Game II.md",
-    "docs/Personal/Work/Updates.md",
     "docs/Personal/My Mistakes.md",
     "docs/Personal/Interview Preparation Checklist.md",
     "docs/Personal/Quotes.md",
     "docs/Personal/Piano.md",
     "docs/Personal/Interesting Concepts.md",
-    "docs/Personal/Reading and Writing Kanban.md",
     "docs/Personal/Note to Myself.md",
     "docs/Personal/Resume.md",
     "docs/Misc/Python - Coding Tips and Tricks.md",
     "docs/Misc/Solving Autocomplete Issue on Jupyter.md",
-    "docs/Leetcode/Questions/122. Best Time to Buy and Sell Stock II.md",
     "docs/Assets/Pasted image 20230621205823.png",
-    "docs/Leetcode/Questions/121. Best Time to Buy and Sell Stock.md",
-    "docs/Papers/Paper Reading List.md",
-    "docs/Personal/Work/4. Log Anomaly Detection/Log Anomaly Detection.md",
-    "docs/Assets/Excalidraw/Log Anomaly Detection 2023-06-14 12-57-44.excalidraw.md",
     "docs/Assets/Pasted image 20230621085636.png",
-    "docs/Leetcode/Questions/189. Rotate Array.md",
-    "docs/Assets/Excalidraw/5. AIOps for Optics 2023-06-20 15-47-11.excalidraw.md",
     "docs/Assets/Pasted image 20230618193147.png",
     "docs/Assets/Pasted image 20230617195225.png",
     "docs/Assets/Pasted Image 20230615112202_349.png",
     "docs/Assets/Pasted Image 20230615112126_482.png",
-    "docs/Assets/Pasted Image 20230614114423_631.png",
-    "docs/Assets/Pasted Image 20230614114236_629.png",
-    "docs/Assets/Pasted Image 20230614114133_626.png",
-    "docs/Assets/Pasted Image 20230614114030_623.png",
     "Untitled.canvas"
   ]
 }

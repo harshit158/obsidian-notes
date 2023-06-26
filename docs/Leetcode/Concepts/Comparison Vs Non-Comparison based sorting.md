@@ -1,0 +1,5 @@
+- Comparision based sorting - O(nlogn)
+	- Heapsort
+	- Quicksort
+- Non-Comparision based sorting - O(n)
+	- Counting Sort
