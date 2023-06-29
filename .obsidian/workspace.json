@@ -62,30 +62,6 @@
             }
           },
           {
-            "id": "8c0bf0cbb325f6c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Leetcode/Questions/134. Gas Station.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9fed92c0672c38f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Personal/Work/4. Log Anomaly Detection/Log Anomaly Detection.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "be47ab2080297691",
             "type": "leaf",
             "state": {
@@ -94,9 +70,21 @@
                 "file": "docs/Assets/Excalidraw/AIOps for Optics 2023-05-01 11-11-56.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "b00e6be7192cbc53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Leetcode/Questions/12. Integer to Roman.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -178,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Assets/Excalidraw/AIOps for Optics 2023-05-01 11-11-56.excalidraw.md",
+                "file": "docs/Leetcode/Questions/12. Integer to Roman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Assets/Excalidraw/AIOps for Optics 2023-05-01 11-11-56.excalidraw.md"
+                "file": "docs/Leetcode/Questions/12. Integer to Roman.md"
               }
             }
           },
@@ -216,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Assets/Excalidraw/AIOps for Optics 2023-05-01 11-11-56.excalidraw.md",
+                "file": "docs/Leetcode/Questions/12. Integer to Roman.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -259,19 +247,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "be47ab2080297691",
+  "active": "b00e6be7192cbc53",
   "lastOpenFiles": [
+    "docs/Personal/Work/4. Log Anomaly Detection/Log Anomaly Detection.md",
+    "docs/Leetcode/Questions/12. Integer to Roman.md",
+    "docs/Personal/Work/Updates.md",
+    "docs/Misc/Git.md",
+    "docs/Assets/Excalidraw/AIOps for Optics 2023-05-01 11-11-56.excalidraw.md",
+    "docs/Leetcode/Lists/Grind75 + Leetcode150.md",
+    "docs/Assets/Excalidraw/Ajay 1-1 2023-05-08 16-22-48.excalidraw.md",
+    "docs/Assets/Pasted image 20230628090226.png",
+    "docs/Assets/Pasted Image 20230627111908_580.png",
+    "docs/Assets/Pasted Image 20230627110627_516.png",
+    "docs/Assets/Pasted Image 20230627110612_501.png",
     "docs/Assets/Pasted Image 20230624233648_212.png",
     "docs/Assets/Pasted Image 20230624232951_958.png",
     "docs/Assets/Pasted Image 20230624232656_954.png",
     "docs/Assets/Pasted Image 20230624232609_187.png",
     "docs/Personal/Work/5. AIOps for Optics.md",
-    "docs/Personal/Work/Updates.md",
     "docs/Leetcode/Questions/134. Gas Station.md",
     "docs/Personal/Reading and Writing Kanban.md",
-    "docs/Leetcode/Lists/Grind75 + Leetcode150.md",
-    "docs/Assets/Excalidraw/Ajay 1-1 2023-05-08 16-22-48.excalidraw.md",
-    "docs/Personal/Work/4. Log Anomaly Detection/Log Anomaly Detection.md",
     "docs/Misc/Adding conda environment as a ipython kernels.md",
     "docs/Leetcode/Questions/380. Insert Delete GetRandom O(1).md",
     "docs/Leetcode/Concepts/Comparison Vs Non-Comparison based sorting.md",
@@ -289,14 +284,7 @@
     "docs/Personal/Interesting Concepts.md",
     "docs/Personal/Note to Myself.md",
     "docs/Personal/Resume.md",
-    "docs/Misc/Python - Coding Tips and Tricks.md",
-    "docs/Misc/Solving Autocomplete Issue on Jupyter.md",
     "docs/Assets/Pasted image 20230621205823.png",
-    "docs/Assets/Pasted image 20230621085636.png",
-    "docs/Assets/Pasted image 20230618193147.png",
-    "docs/Assets/Pasted image 20230617195225.png",
-    "docs/Assets/Pasted Image 20230615112202_349.png",
-    "docs/Assets/Pasted Image 20230615112126_482.png",
     "Untitled.canvas"
   ]
 }

@@ -20,3 +20,10 @@ git push -u origin <branch-name>
 		- git config ==--global==
 	- At system level
 		- git config ==--system==
+
+
+
+### Access Private Repos
+- Create a personal access token in your github account
+- Clone using https
+- When it prompts for password: enter your access token instead of github password
