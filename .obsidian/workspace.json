@@ -77,7 +77,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Leetcode/Questions/12. Integer to Roman.md",
+                "file": "docs/Leetcode/Lists/Grind75 + Leetcode150.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01ede82c317c9cf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/MOOCs/Generative AI (Coursera)/Week 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +125,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "134",
+                "query": "transformer",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Leetcode/Questions/12. Integer to Roman.md",
+                "file": "docs/Leetcode/Lists/Grind75 + Leetcode150.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Leetcode/Questions/12. Integer to Roman.md"
+                "file": "docs/Leetcode/Lists/Grind75 + Leetcode150.md"
               }
             }
           },
@@ -204,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Leetcode/Questions/12. Integer to Roman.md",
+                "file": "docs/Leetcode/Lists/Grind75 + Leetcode150.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -249,11 +261,16 @@
   },
   "active": "b00e6be7192cbc53",
   "lastOpenFiles": [
-    "docs/Personal/Work/4. Log Anomaly Detection/Log Anomaly Detection.md",
+    "docs/NLP/Transformers.md",
+    "docs/Assets/Pasted image 20230629214640.png",
+    "docs/MOOCs/Generative AI (Coursera)/Week 1.md",
+    "docs/Assets/Excalidraw/AIOps for Optics 2023-05-01 11-11-56.excalidraw.md",
+    "docs/Assets/Pasted image 20230629213032.png",
     "docs/Leetcode/Questions/12. Integer to Roman.md",
+    "docs/MOOCs/Generative AI (Coursera)",
+    "docs/Personal/Work/4. Log Anomaly Detection/Log Anomaly Detection.md",
     "docs/Personal/Work/Updates.md",
     "docs/Misc/Git.md",
-    "docs/Assets/Excalidraw/AIOps for Optics 2023-05-01 11-11-56.excalidraw.md",
     "docs/Leetcode/Lists/Grind75 + Leetcode150.md",
     "docs/Assets/Excalidraw/Ajay 1-1 2023-05-08 16-22-48.excalidraw.md",
     "docs/Assets/Pasted image 20230628090226.png",
@@ -273,7 +290,6 @@
     "docs/Leetcode/Questions/692. Top K Frequent Words.md",
     "docs/Leetcode/Concepts/Arrays.md",
     "docs/Leetcode/Questions/274. H-Index.md",
-    "docs/Assets/Pasted image 20230623213651.png",
     "docs/Leetcode/Questions/55. Jump Game.md",
     "docs/Misc/File Permissions.md",
     "docs/Leetcode/Questions/45. Jump Game II.md",
@@ -281,10 +297,6 @@
     "docs/Personal/Interview Preparation Checklist.md",
     "docs/Personal/Quotes.md",
     "docs/Personal/Piano.md",
-    "docs/Personal/Interesting Concepts.md",
-    "docs/Personal/Note to Myself.md",
-    "docs/Personal/Resume.md",
-    "docs/Assets/Pasted image 20230621205823.png",
     "Untitled.canvas"
   ]
 }
