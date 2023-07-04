@@ -77,7 +77,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Leetcode/Lists/Grind75 + Leetcode150.md",
+                "file": "docs/Leetcode/Questions/14. Longest Common Prefix.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,9 +94,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d7b3a74a17ba90f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Leetcode/Questions/28. Find the Index of the First Occurrence in a String.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +137,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "transformer",
+                "query": "28. find the index",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -259,8 +271,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b00e6be7192cbc53",
+  "active": "a6d26ce2c6404fba",
   "lastOpenFiles": [
+    "docs/Leetcode/Questions/28. Find the Index of the First Occurrence in a String.md",
+    "docs/ML/Gradient Checkpointing.md",
+    "docs/ML/Gradient Accumulation.md",
+    "docs/Leetcode/Lists/Grind75 + Leetcode150.md",
+    "docs/Leetcode/Questions/151. Reverse Words in a String.md",
+    "docs/Leetcode/Questions/14. Longest Common Prefix.md",
     "docs/NLP/Transformers.md",
     "docs/Assets/Pasted image 20230629214640.png",
     "docs/MOOCs/Generative AI (Coursera)/Week 1.md",
@@ -271,7 +289,6 @@
     "docs/Personal/Work/4. Log Anomaly Detection/Log Anomaly Detection.md",
     "docs/Personal/Work/Updates.md",
     "docs/Misc/Git.md",
-    "docs/Leetcode/Lists/Grind75 + Leetcode150.md",
     "docs/Assets/Excalidraw/Ajay 1-1 2023-05-08 16-22-48.excalidraw.md",
     "docs/Assets/Pasted image 20230628090226.png",
     "docs/Assets/Pasted Image 20230627111908_580.png",
@@ -293,10 +310,6 @@
     "docs/Leetcode/Questions/55. Jump Game.md",
     "docs/Misc/File Permissions.md",
     "docs/Leetcode/Questions/45. Jump Game II.md",
-    "docs/Personal/My Mistakes.md",
-    "docs/Personal/Interview Preparation Checklist.md",
-    "docs/Personal/Quotes.md",
-    "docs/Personal/Piano.md",
     "Untitled.canvas"
   ]
 }

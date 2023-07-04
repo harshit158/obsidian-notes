@@ -80,3 +80,6 @@
 - [[274. H-Index]] [0]
 - [[380. Insert Delete GetRandom O(1)]] [1]
 - [[12. Integer to Roman]] [0]
+- [[14. Longest Common Prefix]] [1]
+- [[151. Reverse Words in a String]] [0]
+- [[28. Find the Index of the First Occurrence in a String]] [1]

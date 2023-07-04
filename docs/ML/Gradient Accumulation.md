@@ -1,0 +1,1 @@
+https://huggingface.co/docs/transformers/v4.18.0/en/performance#:~:text=is%20gradient%20accumulation.-,Gradient%20Accumulation,-The%20idea%20behind
