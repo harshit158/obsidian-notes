@@ -68,6 +68,9 @@
 - [[55. Jump Game]] [1]
 - 
 
+#### ==Week 15==
+- [[42. Trapping Rain Water]] [0]
+
 --- 
 
 #### ==Leetcode 150 (but not in Grind 75)==
@@ -83,3 +86,4 @@
 - [[14. Longest Common Prefix]] [1]
 - [[151. Reverse Words in a String]] [0]
 - [[28. Find the Index of the First Occurrence in a String]] [1]
+- [[68. Text Justification]] [0]
