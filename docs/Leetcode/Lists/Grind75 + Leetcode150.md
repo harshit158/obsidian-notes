@@ -87,3 +87,6 @@
 - [[151. Reverse Words in a String]] [0]
 - [[28. Find the Index of the First Occurrence in a String]] [1]
 - [[68. Text Justification]] [0]
+- [[125. Valid Palindrome]] [1]
+- [[392. Is Subsequence]] [1]
+- [[167. Two Sum II - Input array is sorted]] [1]

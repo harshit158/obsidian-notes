@@ -7,6 +7,13 @@ Quickly becomes bottleneck for long sequences ^ce649a
 
 ![[Pasted image 20230629214640.png]]
 
+- Encoder-only aka ==Auto-encoding models==
+- Decoder-only aka ==Auto-regressive models==
+- Encoder-Decoder aka ==Sequence-to-sequence models==
+
+
 http://nlp.seas.harvard.edu/annotated-transformer/
 
 - Example from "Getting started with Google BERT"
+
+

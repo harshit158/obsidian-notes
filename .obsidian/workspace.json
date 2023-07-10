@@ -106,9 +106,81 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7d2ddea43d90cf7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Leetcode/Questions/42. Trapping Rain Water.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2b05f6a02401b1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Leetcode/Questions/68. Text Justification.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "765862c0f7ff4abc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Leetcode/Questions/125. Valid Palindrome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd23791e3d894be0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Leetcode/Questions/392. Is Subsequence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f06dfefe18bbd7cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Leetcode/Questions/167. Two Sum II - Input array is sorted.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3b5f2589a8d226c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/MOOCs/Generative AI (Coursera)/Week 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -137,7 +209,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "28. find the index",
+                "query": "167",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -190,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Leetcode/Lists/Grind75 + Leetcode150.md",
+                "file": "docs/MOOCs/Generative AI (Coursera)/Week 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +290,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Leetcode/Lists/Grind75 + Leetcode150.md"
+                "file": "docs/MOOCs/Generative AI (Coursera)/Week 1.md"
               }
             }
           },
@@ -228,7 +300,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Leetcode/Lists/Grind75 + Leetcode150.md",
+                "file": "docs/MOOCs/Generative AI (Coursera)/Week 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -271,17 +343,31 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a6d26ce2c6404fba",
+  "active": "a3b5f2589a8d226c",
   "lastOpenFiles": [
+    "docs/Assets/Pasted image 20230709182022.png",
+    "docs/Assets/Pasted image 20230709181807.png",
+    "docs/Assets/Pasted image 20230709181721.png",
+    "docs/Assets/Pasted image 20230709181433.png",
+    "docs/NLP/Transformers.md",
+    "docs/MOOCs/Generative AI (Coursera)/Week 1.md",
+    "docs/Assets/Pasted image 20230709115431.png",
+    "docs/Misc/Contributing to Open Source.md",
+    "docs/MOOCs/Large Language Models - Applications through Production.md",
+    "docs/Leetcode/Lists/Grind75 + Leetcode150.md",
+    "docs/Leetcode/Questions/167. Two Sum II - Input array is sorted.md",
+    "docs/Leetcode/Questions/392. Is Subsequence.md",
+    "docs/Leetcode/Questions/125. Valid Palindrome.md",
+    "docs/Assets/Pasted image 20230705020408.png",
+    "docs/Assets/Pasted image 20230705014312.png",
+    "docs/Leetcode/Questions/42. Trapping Rain Water.md",
     "docs/Leetcode/Questions/28. Find the Index of the First Occurrence in a String.md",
+    "docs/Leetcode/Questions/68. Text Justification.md",
     "docs/ML/Gradient Checkpointing.md",
     "docs/ML/Gradient Accumulation.md",
-    "docs/Leetcode/Lists/Grind75 + Leetcode150.md",
     "docs/Leetcode/Questions/151. Reverse Words in a String.md",
     "docs/Leetcode/Questions/14. Longest Common Prefix.md",
-    "docs/NLP/Transformers.md",
     "docs/Assets/Pasted image 20230629214640.png",
-    "docs/MOOCs/Generative AI (Coursera)/Week 1.md",
     "docs/Assets/Excalidraw/AIOps for Optics 2023-05-01 11-11-56.excalidraw.md",
     "docs/Assets/Pasted image 20230629213032.png",
     "docs/Leetcode/Questions/12. Integer to Roman.md",
@@ -292,24 +378,10 @@
     "docs/Assets/Excalidraw/Ajay 1-1 2023-05-08 16-22-48.excalidraw.md",
     "docs/Assets/Pasted image 20230628090226.png",
     "docs/Assets/Pasted Image 20230627111908_580.png",
-    "docs/Assets/Pasted Image 20230627110627_516.png",
-    "docs/Assets/Pasted Image 20230627110612_501.png",
-    "docs/Assets/Pasted Image 20230624233648_212.png",
-    "docs/Assets/Pasted Image 20230624232951_958.png",
-    "docs/Assets/Pasted Image 20230624232656_954.png",
-    "docs/Assets/Pasted Image 20230624232609_187.png",
     "docs/Personal/Work/5. AIOps for Optics.md",
     "docs/Leetcode/Questions/134. Gas Station.md",
     "docs/Personal/Reading and Writing Kanban.md",
     "docs/Misc/Adding conda environment as a ipython kernels.md",
-    "docs/Leetcode/Questions/380. Insert Delete GetRandom O(1).md",
-    "docs/Leetcode/Concepts/Comparison Vs Non-Comparison based sorting.md",
-    "docs/Leetcode/Questions/692. Top K Frequent Words.md",
-    "docs/Leetcode/Concepts/Arrays.md",
-    "docs/Leetcode/Questions/274. H-Index.md",
-    "docs/Leetcode/Questions/55. Jump Game.md",
-    "docs/Misc/File Permissions.md",
-    "docs/Leetcode/Questions/45. Jump Game II.md",
     "Untitled.canvas"
   ]
 }
