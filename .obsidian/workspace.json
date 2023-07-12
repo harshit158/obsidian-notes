@@ -72,18 +72,6 @@
             }
           },
           {
-            "id": "b00e6be7192cbc53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Leetcode/Questions/14. Longest Common Prefix.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "01ede82c317c9cf9",
             "type": "leaf",
             "state": {
@@ -96,91 +84,31 @@
             }
           },
           {
-            "id": "d7b3a74a17ba90f7",
+            "id": "8bc5afe143ed147c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Leetcode/Questions/28. Find the Index of the First Occurrence in a String.md",
+                "file": "docs/Leetcode/Questions/100. Same Tree.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7d2ddea43d90cf7f",
+            "id": "fbc79ef87327941f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Leetcode/Questions/42. Trapping Rain Water.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a2b05f6a02401b1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Leetcode/Questions/68. Text Justification.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "765862c0f7ff4abc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Leetcode/Questions/125. Valid Palindrome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd23791e3d894be0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Leetcode/Questions/392. Is Subsequence.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f06dfefe18bbd7cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Leetcode/Questions/167. Two Sum II - Input array is sorted.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3b5f2589a8d226c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/MOOCs/Generative AI (Coursera)/Week 1.md",
+                "file": "docs/Misc/Adding conda environment as a ipython kernels.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -209,7 +137,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "167",
+                "query": "100.",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -262,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/MOOCs/Generative AI (Coursera)/Week 1.md",
+                "file": "docs/Assets/Excalidraw/AIOps for Optics 2023-05-01 11-11-56.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -290,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/MOOCs/Generative AI (Coursera)/Week 1.md"
+                "file": "docs/Assets/Excalidraw/AIOps for Optics 2023-05-01 11-11-56.excalidraw.md"
               }
             }
           },
@@ -300,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/MOOCs/Generative AI (Coursera)/Week 1.md",
+                "file": "docs/Assets/Excalidraw/AIOps for Optics 2023-05-01 11-11-56.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -343,18 +271,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a3b5f2589a8d226c",
+  "active": "be47ab2080297691",
   "lastOpenFiles": [
+    "docs/Misc/Adding conda environment as a ipython kernels.md",
+    "docs/Misc/Solving Autocomplete Issue on Jupyter.md",
+    "docs/Misc/Python - Coding Tips and Tricks.md",
+    "docs/Misc/Tools and Libraries.md",
+    "docs/MOOCs/Generative AI (Coursera)/Week 2.md",
+    "docs/Assets/Pasted image 20230710234214.png",
+    "docs/MOOCs/Generative AI (Coursera)/Week 1.md",
+    "docs/Leetcode/Questions/101. Symmetric Tree.md",
+    "docs/Leetcode/Lists/Grind75 + Leetcode150.md",
+    "docs/Leetcode/Questions/100. Same Tree.md",
+    "docs/Leetcode/Questions/104. Maximum Depth of Binary Tree.md",
     "docs/Assets/Pasted image 20230709182022.png",
     "docs/Assets/Pasted image 20230709181807.png",
     "docs/Assets/Pasted image 20230709181721.png",
     "docs/Assets/Pasted image 20230709181433.png",
     "docs/NLP/Transformers.md",
-    "docs/MOOCs/Generative AI (Coursera)/Week 1.md",
     "docs/Assets/Pasted image 20230709115431.png",
     "docs/Misc/Contributing to Open Source.md",
     "docs/MOOCs/Large Language Models - Applications through Production.md",
-    "docs/Leetcode/Lists/Grind75 + Leetcode150.md",
     "docs/Leetcode/Questions/167. Two Sum II - Input array is sorted.md",
     "docs/Leetcode/Questions/392. Is Subsequence.md",
     "docs/Leetcode/Questions/125. Valid Palindrome.md",
@@ -373,15 +310,6 @@
     "docs/Leetcode/Questions/12. Integer to Roman.md",
     "docs/MOOCs/Generative AI (Coursera)",
     "docs/Personal/Work/4. Log Anomaly Detection/Log Anomaly Detection.md",
-    "docs/Personal/Work/Updates.md",
-    "docs/Misc/Git.md",
-    "docs/Assets/Excalidraw/Ajay 1-1 2023-05-08 16-22-48.excalidraw.md",
-    "docs/Assets/Pasted image 20230628090226.png",
-    "docs/Assets/Pasted Image 20230627111908_580.png",
-    "docs/Personal/Work/5. AIOps for Optics.md",
-    "docs/Leetcode/Questions/134. Gas Station.md",
-    "docs/Personal/Reading and Writing Kanban.md",
-    "docs/Misc/Adding conda environment as a ipython kernels.md",
     "Untitled.canvas"
   ]
 }
