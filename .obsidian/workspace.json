@@ -65,9 +65,11 @@
             "id": "be47ab2080297691",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "docs/Assets/Excalidraw/AIOps for Optics 2023-05-01 11-11-56.excalidraw.md"
+                "file": "docs/Personal/Work/3. AIOPs - Active Assurance.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -106,9 +108,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8cbeaac602d13c99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Leetcode/Questions/105. Construct Binary Tree from Preorder and Inorder Traversal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c118e34ef91209d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Leetcode/Questions/106. Construct Binary Tree from Inorder and Postorder Traversal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -137,7 +163,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "100.",
+                "query": "inorder",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -190,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Assets/Excalidraw/AIOps for Optics 2023-05-01 11-11-56.excalidraw.md",
+                "file": "docs/Leetcode/Questions/106. Construct Binary Tree from Inorder and Postorder Traversal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Assets/Excalidraw/AIOps for Optics 2023-05-01 11-11-56.excalidraw.md"
+                "file": "docs/Leetcode/Questions/106. Construct Binary Tree from Inorder and Postorder Traversal.md"
               }
             }
           },
@@ -228,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Assets/Excalidraw/AIOps for Optics 2023-05-01 11-11-56.excalidraw.md",
+                "file": "docs/Leetcode/Questions/106. Construct Binary Tree from Inorder and Postorder Traversal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -271,45 +297,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "be47ab2080297691",
+  "active": "c118e34ef91209d8",
   "lastOpenFiles": [
+    "docs/Assets/Pasted image 20230718222340.png",
+    "docs/Leetcode/Lists/Grind75 + Leetcode150.md",
+    "docs/Leetcode/Questions/106. Construct Binary Tree from Inorder and Postorder Traversal.md",
+    "docs/Leetcode/Questions/105. Construct Binary Tree from Preorder and Inorder Traversal.md",
     "docs/Misc/Adding conda environment as a ipython kernels.md",
+    "docs/Misc/Highlighting in Vi.md",
+    "docs/Misc/Project Structure.md",
+    "docs/Misc/Obsidian Tips.md",
+    "docs/Assets/Excalidraw/Updates 2023-06-12 23-12-18.excalidraw.md",
+    "docs/Assets/Pasted Image 20230713164723_623.png",
+    "docs/Assets/Pasted Image 20230713164708_620.png",
+    "docs/Personal/Work/Updates.md",
+    "docs/Personal/Work/4. Log Anomaly Detection/Experiments.md",
+    "docs/Personal/Work/4. Log Anomaly Detection/Log Anomaly Detection.md",
+    "docs/Papers/Deep Learning for Anomaly Detection in Log Data A Survey.md",
+    "docs/Papers/PC Algorithm.md",
+    "docs/Leetcode/Questions/100. Same Tree.md",
+    "docs/Papers/Paper Reading List.md",
+    "docs/Personal/Work/3. AIOPs - Active Assurance.md",
+    "docs/Personal/Work/2. KG for Log Analysis.md",
+    "docs/Personal/Work/TODOs.md",
+    "docs/Personal/Work/1. AIOPs - Timing.md",
+    "docs/Personal/Work/5. AIOps for Optics.md",
+    "docs/Personal/Work/4. Log Anomaly Detection/Paper Notes.md",
+    "docs/Assets/Excalidraw/AIOps for Optics 2023-05-01 11-11-56.excalidraw.md",
     "docs/Misc/Solving Autocomplete Issue on Jupyter.md",
     "docs/Misc/Python - Coding Tips and Tricks.md",
     "docs/Misc/Tools and Libraries.md",
-    "docs/MOOCs/Generative AI (Coursera)/Week 2.md",
     "docs/Assets/Pasted image 20230710234214.png",
-    "docs/MOOCs/Generative AI (Coursera)/Week 1.md",
-    "docs/Leetcode/Questions/101. Symmetric Tree.md",
-    "docs/Leetcode/Lists/Grind75 + Leetcode150.md",
-    "docs/Leetcode/Questions/100. Same Tree.md",
-    "docs/Leetcode/Questions/104. Maximum Depth of Binary Tree.md",
     "docs/Assets/Pasted image 20230709182022.png",
     "docs/Assets/Pasted image 20230709181807.png",
     "docs/Assets/Pasted image 20230709181721.png",
     "docs/Assets/Pasted image 20230709181433.png",
-    "docs/NLP/Transformers.md",
     "docs/Assets/Pasted image 20230709115431.png",
-    "docs/Misc/Contributing to Open Source.md",
-    "docs/MOOCs/Large Language Models - Applications through Production.md",
-    "docs/Leetcode/Questions/167. Two Sum II - Input array is sorted.md",
-    "docs/Leetcode/Questions/392. Is Subsequence.md",
-    "docs/Leetcode/Questions/125. Valid Palindrome.md",
     "docs/Assets/Pasted image 20230705020408.png",
     "docs/Assets/Pasted image 20230705014312.png",
-    "docs/Leetcode/Questions/42. Trapping Rain Water.md",
-    "docs/Leetcode/Questions/28. Find the Index of the First Occurrence in a String.md",
-    "docs/Leetcode/Questions/68. Text Justification.md",
-    "docs/ML/Gradient Checkpointing.md",
-    "docs/ML/Gradient Accumulation.md",
-    "docs/Leetcode/Questions/151. Reverse Words in a String.md",
-    "docs/Leetcode/Questions/14. Longest Common Prefix.md",
-    "docs/Assets/Pasted image 20230629214640.png",
-    "docs/Assets/Excalidraw/AIOps for Optics 2023-05-01 11-11-56.excalidraw.md",
-    "docs/Assets/Pasted image 20230629213032.png",
-    "docs/Leetcode/Questions/12. Integer to Roman.md",
     "docs/MOOCs/Generative AI (Coursera)",
-    "docs/Personal/Work/4. Log Anomaly Detection/Log Anomaly Detection.md",
     "Untitled.canvas"
   ]
 }
