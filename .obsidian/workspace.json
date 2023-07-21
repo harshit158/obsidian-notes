@@ -122,19 +122,19 @@
             }
           },
           {
-            "id": "c118e34ef91209d8",
+            "id": "ef77d25406e933b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Leetcode/Questions/106. Construct Binary Tree from Inorder and Postorder Traversal.md",
+                "file": "docs/Leetcode/Questions/114. Flatten Binary Tree to Linked List.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -163,7 +163,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "inorder",
+                "query": "117",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -200,7 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5110321044922
+    "width": 508.5110321044922
   },
   "right": {
     "id": "b78f15cdafdd7f3a",
@@ -216,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Leetcode/Questions/106. Construct Binary Tree from Inorder and Postorder Traversal.md",
+                "file": "docs/Leetcode/Lists/Grind75 + Leetcode150.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Leetcode/Questions/106. Construct Binary Tree from Inorder and Postorder Traversal.md"
+                "file": "docs/Leetcode/Lists/Grind75 + Leetcode150.md"
               }
             }
           },
@@ -254,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Leetcode/Questions/106. Construct Binary Tree from Inorder and Postorder Traversal.md",
+                "file": "docs/Leetcode/Lists/Grind75 + Leetcode150.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -297,13 +297,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c118e34ef91209d8",
+  "active": "a6d26ce2c6404fba",
   "lastOpenFiles": [
-    "docs/Assets/Pasted image 20230718222340.png",
-    "docs/Leetcode/Lists/Grind75 + Leetcode150.md",
-    "docs/Leetcode/Questions/106. Construct Binary Tree from Inorder and Postorder Traversal.md",
-    "docs/Leetcode/Questions/105. Construct Binary Tree from Preorder and Inorder Traversal.md",
+    "docs/Leetcode/Questions/114. Flatten Binary Tree to Linked List.md",
     "docs/Misc/Adding conda environment as a ipython kernels.md",
+    "docs/ML/GNN.md",
+    "docs/Assets/Pasted image 20230720004032.png",
+    "docs/Leetcode/Questions/117. Populating Next Right Pointers in Each Node II.md",
+    "docs/ML/Untitled.md",
+    "docs/Misc/Contributing to Open Source.md",
+    "docs/Leetcode/Lists/Grind75 + Leetcode150.md",
+    "docs/Leetcode/Concepts/BFS.md",
+    "docs/Personal/Reading and Writing Kanban.md",
+    "docs/Papers/Paper Reading List.md",
+    "docs/MOOCs/Generative AI (Coursera)/Week 2.md",
+    "docs/Assets/Pasted image 20230719002746.png",
+    "docs/Assets/Pasted image 20230718234234.png",
+    "docs/Leetcode/Questions/106. Construct Binary Tree from Inorder and Postorder Traversal.md",
+    "docs/Assets/Pasted image 20230718222340.png",
+    "docs/Leetcode/Questions/105. Construct Binary Tree from Preorder and Inorder Traversal.md",
     "docs/Misc/Highlighting in Vi.md",
     "docs/Misc/Project Structure.md",
     "docs/Misc/Obsidian Tips.md",
@@ -316,25 +328,13 @@
     "docs/Papers/Deep Learning for Anomaly Detection in Log Data A Survey.md",
     "docs/Papers/PC Algorithm.md",
     "docs/Leetcode/Questions/100. Same Tree.md",
-    "docs/Papers/Paper Reading List.md",
     "docs/Personal/Work/3. AIOPs - Active Assurance.md",
     "docs/Personal/Work/2. KG for Log Analysis.md",
     "docs/Personal/Work/TODOs.md",
-    "docs/Personal/Work/1. AIOPs - Timing.md",
-    "docs/Personal/Work/5. AIOps for Optics.md",
-    "docs/Personal/Work/4. Log Anomaly Detection/Paper Notes.md",
-    "docs/Assets/Excalidraw/AIOps for Optics 2023-05-01 11-11-56.excalidraw.md",
-    "docs/Misc/Solving Autocomplete Issue on Jupyter.md",
-    "docs/Misc/Python - Coding Tips and Tricks.md",
-    "docs/Misc/Tools and Libraries.md",
     "docs/Assets/Pasted image 20230710234214.png",
     "docs/Assets/Pasted image 20230709182022.png",
     "docs/Assets/Pasted image 20230709181807.png",
     "docs/Assets/Pasted image 20230709181721.png",
-    "docs/Assets/Pasted image 20230709181433.png",
-    "docs/Assets/Pasted image 20230709115431.png",
-    "docs/Assets/Pasted image 20230705020408.png",
-    "docs/Assets/Pasted image 20230705014312.png",
     "docs/MOOCs/Generative AI (Coursera)",
     "Untitled.canvas"
   ]

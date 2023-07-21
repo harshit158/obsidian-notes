@@ -91,3 +91,6 @@
 - [[125. Valid Palindrome]] [1]
 - [[392. Is Subsequence]] [1]
 - [[167. Two Sum II - Input array is sorted]] [1]
+- [[106. Construct Binary Tree from Inorder and Postorder Traversal]] [0]
+- [[117. Populating Next Right Pointers in Each Node II]] [1]
+- [[114. Flatten Binary Tree to Linked List]] [0]
