@@ -67,10 +67,14 @@
 
 #### ==Week 12==
 - [[55. Jump Game]] [1]
-- 
+-
+
+#### ==Week 13==
+- [[215. Kth Largest Element in an Array]] [1]
 
 #### ==Week 15==
 - [[42. Trapping Rain Water]] [0]
+- [[295. Find Median from Data Stream]] [0]
 
 --- 
 
@@ -94,3 +98,8 @@
 - [[106. Construct Binary Tree from Inorder and Postorder Traversal]] [0]
 - [[117. Populating Next Right Pointers in Each Node II]] [1]
 - [[114. Flatten Binary Tree to Linked List]] [0]
+- [[129. Sum Root to Leaf Numbers]] [0]
+- [[112. Path Sum]] [1]
+- [[637. Average of Levels in Binary Tree]] [1]
+- [[102. Binary Tree Level Order Traversal]] [1]
+- [[103. Binary Tree Zigzag Level Order Traversal]] [1]

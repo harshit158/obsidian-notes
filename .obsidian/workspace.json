@@ -65,11 +65,9 @@
             "id": "be47ab2080297691",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "docs/Personal/Work/3. AIOPs - Active Assurance.md",
-                "mode": "source",
-                "source": false
+                "file": "docs/Assets/Excalidraw/AIOps for Optics 2023-05-01 11-11-56.excalidraw.md"
               }
             }
           },
@@ -79,26 +77,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/MOOCs/Generative AI (Coursera)/Week 1.md",
+                "file": "docs/Papers/Paper Reading List.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8bc5afe143ed147c",
+            "id": "739aa435c9095dd2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "docs/Assets/Excalidraw/BERT Variants 2022-08-09 10-57-27.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "cab6f5f495d83854",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Leetcode/Questions/100. Same Tree.md",
+                "file": "docs/Personal/Work/Updates.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fbc79ef87327941f",
+            "id": "4bd4491c3a48b3b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Personal/Work/TODOs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "255b3618f05d2e9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Personal/Resume.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ecb9d83f7df61847",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Leetcode/Questions/200. Number of Islands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "539bdfe0134c58ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -110,31 +154,43 @@
             }
           },
           {
-            "id": "8cbeaac602d13c99",
+            "id": "fccd74283e896336",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Leetcode/Questions/105. Construct Binary Tree from Preorder and Inorder Traversal.md",
+                "file": "docs/Leetcode/Questions/215. Kth Largest Element in an Array.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ef77d25406e933b0",
+            "id": "c983f2a87d1ac0fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Leetcode/Questions/114. Flatten Binary Tree to Linked List.md",
+                "file": "docs/Leetcode/Questions/295. Find Median from Data Stream.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aaff2f1c916bf971",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/MOOCs/Generative AI (Coursera)/Week 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -163,7 +219,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "117",
+                "query": "git config",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -200,7 +256,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 508.5110321044922
+    "width": 411.5110321044922
   },
   "right": {
     "id": "b78f15cdafdd7f3a",
@@ -216,7 +272,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Leetcode/Lists/Grind75 + Leetcode150.md",
+                "file": "docs/MOOCs/Generative AI (Coursera)/Week 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +300,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Leetcode/Lists/Grind75 + Leetcode150.md"
+                "file": "docs/MOOCs/Generative AI (Coursera)/Week 2.md"
               }
             }
           },
@@ -254,7 +310,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Leetcode/Lists/Grind75 + Leetcode150.md",
+                "file": "docs/MOOCs/Generative AI (Coursera)/Week 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -297,45 +353,47 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a6d26ce2c6404fba",
+  "active": "aaff2f1c916bf971",
   "lastOpenFiles": [
-    "docs/Leetcode/Questions/114. Flatten Binary Tree to Linked List.md",
+    "docs/ML/RAG.md",
+    "docs/Personal/Work/7. LLM Integration Standups.md",
     "docs/Misc/Adding conda environment as a ipython kernels.md",
-    "docs/ML/GNN.md",
-    "docs/Assets/Pasted image 20230720004032.png",
-    "docs/Leetcode/Questions/117. Populating Next Right Pointers in Each Node II.md",
-    "docs/ML/Untitled.md",
-    "docs/Misc/Contributing to Open Source.md",
-    "docs/Leetcode/Lists/Grind75 + Leetcode150.md",
-    "docs/Leetcode/Concepts/BFS.md",
-    "docs/Personal/Reading and Writing Kanban.md",
-    "docs/Papers/Paper Reading List.md",
-    "docs/MOOCs/Generative AI (Coursera)/Week 2.md",
-    "docs/Assets/Pasted image 20230719002746.png",
-    "docs/Assets/Pasted image 20230718234234.png",
-    "docs/Leetcode/Questions/106. Construct Binary Tree from Inorder and Postorder Traversal.md",
-    "docs/Assets/Pasted image 20230718222340.png",
-    "docs/Leetcode/Questions/105. Construct Binary Tree from Preorder and Inorder Traversal.md",
-    "docs/Misc/Highlighting in Vi.md",
-    "docs/Misc/Project Structure.md",
-    "docs/Misc/Obsidian Tips.md",
-    "docs/Assets/Excalidraw/Updates 2023-06-12 23-12-18.excalidraw.md",
-    "docs/Assets/Pasted Image 20230713164723_623.png",
-    "docs/Assets/Pasted Image 20230713164708_620.png",
-    "docs/Personal/Work/Updates.md",
-    "docs/Personal/Work/4. Log Anomaly Detection/Experiments.md",
-    "docs/Personal/Work/4. Log Anomaly Detection/Log Anomaly Detection.md",
-    "docs/Papers/Deep Learning for Anomaly Detection in Log Data A Survey.md",
-    "docs/Papers/PC Algorithm.md",
-    "docs/Leetcode/Questions/100. Same Tree.md",
+    "docs/Misc/Python - Coding Tips and Tricks.md",
+    "docs/Misc/Git.md",
+    "docs/Personal/Work/6. KG for QA.md",
+    "docs/Personal/Work/5. AIOps for Optics.md",
     "docs/Personal/Work/3. AIOPs - Active Assurance.md",
-    "docs/Personal/Work/2. KG for Log Analysis.md",
+    "docs/Assets/Excalidraw/Flow 2023-09-19 22-12-35.excalidraw.md",
+    "docs/Assets/Pasted Image 20230919221321_282.png",
+    "docs/Personal/Rent Whisperer/Flow.md",
+    "docs/Leetcode/Questions/295. Find Median from Data Stream.md",
+    "docs/Personal/Rent Whisperer",
+    "docs/Leetcode/Lists/Grind75 + Leetcode150.md",
+    "docs/Papers/Paper Reading List.md",
+    "docs/Personal/Reading and Writing Kanban.md",
+    "docs/Personal/Work/Updates.md",
+    "docs/Leetcode/Questions/215. Kth Largest Element in an Array.md",
+    "docs/Leetcode/Questions/200. Number of Islands.md",
+    "docs/Leetcode/Questions/11. Container With Most Water.md",
+    "docs/Personal/Resume.md",
+    "docs/Personal/Note to Myself.md",
+    "docs/Personal/Ajay 1-1.md",
+    "docs/Personal/Form I-983.md",
+    "docs/Personal/On Writing.md",
     "docs/Personal/Work/TODOs.md",
-    "docs/Assets/Pasted image 20230710234214.png",
-    "docs/Assets/Pasted image 20230709182022.png",
-    "docs/Assets/Pasted image 20230709181807.png",
-    "docs/Assets/Pasted image 20230709181721.png",
-    "docs/MOOCs/Generative AI (Coursera)",
-    "Untitled.canvas"
+    "canva trial.canvas",
+    "Untitled.canvas",
+    "docs/Assets/Excalidraw/AIOps for Optics 2023-05-01 11-11-56.excalidraw.md",
+    "docs/Assets/Excalidraw/BERT Variants 2022-08-09 10-57-27.excalidraw.md",
+    "docs/Assets/Pasted Image 20230907095425_800.png",
+    "docs/Assets/Pasted Image 20230907095309_784.png",
+    "docs/Assets/Pasted Image 20230823162652_918.png",
+    "docs/Assets/Pasted Image 20230823162253_940.png",
+    "docs/Assets/Pasted Image 20230823162101_902.png",
+    "docs/Assets/Pasted Image 20230823162029_900.png",
+    "docs/Assets/Pasted image 20230728154055.png",
+    "docs/Assets/Pasted image 20230728154009.png",
+    "docs/Assets/Pasted image 20230728153838.png",
+    "docs/MOOCs/Generative AI (Coursera)"
   ]
 }

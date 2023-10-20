@@ -35,6 +35,20 @@ Ways of creating virtual environment: Using
 - virtualenv (python2)
 
 
+### Installing virtual environments via pyenv
+```
+pyenv virtualenv 3.8.11 <env_name>
+pyenv activate <env_name>
+```
+In case this doesn't work:
+```
+eval "$(pyenv init -)"
+eval "$(pyenv virtualenv-init -)"
+```
+
+Faced some problems while activting the env. Got resolved using:
+https://github.com/pyenv/pyenv-virtualenv/issues/387#
+
 
 ### Automatically Activate virtual environment in Python
 Ref: https://stackoverflow.com/questions/58433333/auto-activate-virtual-environment-in-visual-studio-code#:~:text=Actually%20the%20earlier%20suggested%20solutions%20didn%27t%20work%20for%20me%2C%20instead%20I%20added%20the%20following%20in%20my%20settings%3A
