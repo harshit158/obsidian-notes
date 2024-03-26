@@ -11,7 +11,7 @@ Steps:
 2.  Optimize by using a memoization table (top-down dynamic programming)
 3.  Remove the need for recursion (bottom-up dynamic programming)
    This can either start from dp[0] or dp[-1]
-   Eg: [this](https://leetcode.com/problems/jump-game/solution/#:~:text=Approach%203%3A%20Dynamic%20Programming%20Bottom%2Dup) starts from reverse direction
+   Eg: [[55. Jump Game]] starts from reverse direction
 4.  Apply final tricks to reduce the time / memory complexity
 
 # Patterns

@@ -20,3 +20,6 @@ Types:
 - ==Master== DB only supports ==write operations==
 - ==Slave== DB supports ==read operations==
 - Most applications require higher ratio of reads to writes, hence more number of Slave DBs than Master DBs
+
+> [!info] Writes are 40 times more expensive than reads
+

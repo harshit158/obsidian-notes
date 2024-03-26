@@ -1,6 +1,5 @@
-- [ ] HuggingGPT https://arxiv.org/pdf/2303.17580.pdf
-- [ ] LLM Survey https://arxiv.org/pdf/2303.18223.pdf
-
+- [ ] [HuggingGPT](https://arxiv.org/pdf/2303.17580.pdf)
+- [ ] [LLM Survey](https://arxiv.org/pdf/2303.18223.pdf)
 
 - **Anomaly Detection from Logs:**
 	- [[Catching Unusual Traffic Behavior using TF–IDF-based Port Access Statistics Analysis]]

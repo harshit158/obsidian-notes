@@ -9,8 +9,8 @@ list.pop() -> ==O(1)==
 - Double Ended Queue: Generalization of stack and queue, hence can be used for implementing both
 - Implemented using ==Doubly Linked List==
 - Both popping and appending are ==O(1)== since operations are at the ends (and not in the middle)
-	- *Removing* elements : pop() and pop==left==()
-	- *Inserting* elements : append() and append==left==()
+	- *Removing* elements : pop() and ==popleft()==
+	- *Inserting* elements : append() and ==appendleft()==
 - Complexity of Random access is ==O(n)== just like any other LL.
 	
 **List**

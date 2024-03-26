@@ -1,0 +1,2 @@
+- Each location that contains the assets is called ==PoP (Point of Presence==)
+- 

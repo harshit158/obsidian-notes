@@ -62,135 +62,55 @@
             }
           },
           {
-            "id": "be47ab2080297691",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "docs/Assets/Excalidraw/AIOps for Optics 2023-05-01 11-11-56.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "01ede82c317c9cf9",
+            "id": "46b0d8dbc78631db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Papers/Paper Reading List.md",
+                "file": "docs/Leetcode/Questions/88. Merge Sorted Array.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "739aa435c9095dd2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "docs/Assets/Excalidraw/BERT Variants 2022-08-09 10-57-27.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "cab6f5f495d83854",
+            "id": "65819e1247f0603d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Personal/Work/Updates.md",
+                "file": "docs/Leetcode/Questions/322. Coin Change.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4bd4491c3a48b3b8",
+            "id": "23f724cca9302584",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Personal/Work/TODOs.md",
+                "file": "docs/Leetcode/Questions/169. Majority Element.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "255b3618f05d2e9b",
+            "id": "1cafa4a24480463a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Personal/Resume.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ecb9d83f7df61847",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Leetcode/Questions/200. Number of Islands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "539bdfe0134c58ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Misc/Adding conda environment as a ipython kernels.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fccd74283e896336",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Leetcode/Questions/215. Kth Largest Element in an Array.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c983f2a87d1ac0fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Leetcode/Questions/295. Find Median from Data Stream.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aaff2f1c916bf971",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/MOOCs/Generative AI (Coursera)/Week 2.md",
+                "file": "docs/Leetcode/Concepts/Union Find (Disjoint Set).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -219,8 +139,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git config",
-                "matchingCase": true,
+                "query": "tag:#DFS",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -256,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411.5110321044922
+    "width": 598.5
   },
   "right": {
     "id": "b78f15cdafdd7f3a",
@@ -272,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/MOOCs/Generative AI (Coursera)/Week 2.md",
+                "file": "docs/Leetcode/Questions/169. Majority Element.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -300,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/MOOCs/Generative AI (Coursera)/Week 2.md"
+                "file": "docs/Leetcode/Questions/169. Majority Element.md"
               }
             }
           },
@@ -310,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/MOOCs/Generative AI (Coursera)/Week 2.md",
+                "file": "docs/Leetcode/Questions/169. Majority Element.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -336,7 +256,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 373.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -353,47 +273,48 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aaff2f1c916bf971",
+  "active": "23f724cca9302584",
   "lastOpenFiles": [
-    "docs/ML/RAG.md",
-    "docs/Personal/Work/7. LLM Integration Standups.md",
-    "docs/Misc/Adding conda environment as a ipython kernels.md",
-    "docs/Misc/Python - Coding Tips and Tricks.md",
-    "docs/Misc/Git.md",
-    "docs/Personal/Work/6. KG for QA.md",
-    "docs/Personal/Work/5. AIOps for Optics.md",
-    "docs/Personal/Work/3. AIOPs - Active Assurance.md",
-    "docs/Assets/Excalidraw/Flow 2023-09-19 22-12-35.excalidraw.md",
-    "docs/Assets/Pasted Image 20230919221321_282.png",
-    "docs/Personal/Rent Whisperer/Flow.md",
-    "docs/Leetcode/Questions/295. Find Median from Data Stream.md",
-    "docs/Personal/Rent Whisperer",
+    "docs/Leetcode/Concepts/DFS.md",
+    "docs/Leetcode/Questions/112. Path Sum.md",
+    "docs/Leetcode/Questions/207. Course Schedule.md",
+    "docs/Leetcode/Concepts/Topological Sort.md",
+    "docs/Leetcode/Questions/416. Partition Equal Subset Sum.md",
     "docs/Leetcode/Lists/Grind75 + Leetcode150.md",
-    "docs/Papers/Paper Reading List.md",
-    "docs/Personal/Reading and Writing Kanban.md",
-    "docs/Personal/Work/Updates.md",
-    "docs/Leetcode/Questions/215. Kth Largest Element in an Array.md",
-    "docs/Leetcode/Questions/200. Number of Islands.md",
-    "docs/Leetcode/Questions/11. Container With Most Water.md",
-    "docs/Personal/Resume.md",
-    "docs/Personal/Note to Myself.md",
-    "docs/Personal/Ajay 1-1.md",
-    "docs/Personal/Form I-983.md",
-    "docs/Personal/On Writing.md",
-    "docs/Personal/Work/TODOs.md",
+    "docs/Leetcode/Lists/Hashtable.md",
+    "docs/Leetcode/Lists/Dynamic Programming.md",
+    "docs/Leetcode/Lists/Arrays.md",
+    "docs/Leetcode/Lists/Graph.md",
+    "docs/Leetcode/Lists/MasterList.md",
+    "docs/Leetcode/Concepts/Cycle Detection  in Graph.md",
+    "docs/Leetcode/Concepts/Binary Search.md",
+    "docs/Leetcode/Questions/167. Two Sum II - Input array is sorted.md",
+    "docs/Leetcode/Concepts/Union Find (Disjoint Set).md",
+    "docs/Leetcode/Concepts/Trie.md",
+    "docs/Leetcode/Concepts/Trees.md",
+    "docs/Leetcode/Concepts/Tips.md",
+    "docs/Leetcode/Questions/323. Number of Connected Components in an Undirected Graph.md",
+    "docs/Leetcode/Questions/547. Number of Provinces.md",
+    "docs/Leetcode/Concepts/Segment Tree.md",
+    "docs/Leetcode/Concepts/Linked List.md",
+    "docs/Leetcode/Concepts/Heap.md",
+    "docs/Leetcode/Concepts/Dynamic Programming.md",
+    "docs/Leetcode/Concepts/Backtracking.md",
+    "docs/Leetcode/Concepts/BST (Binary Search Tree).md",
+    "docs/Assets/Pasted image 20240318105105.png",
+    "docs/Assets/Pasted image 20240318104954.png",
     "canva trial.canvas",
     "Untitled.canvas",
-    "docs/Assets/Excalidraw/AIOps for Optics 2023-05-01 11-11-56.excalidraw.md",
-    "docs/Assets/Excalidraw/BERT Variants 2022-08-09 10-57-27.excalidraw.md",
+    "Untitled 1.canvas",
+    "docs/Assets/Pasted image 20240125120449.png",
+    "docs/Assets/Pasted image 20240110212943.png",
+    "docs/Assets/Pasted Image 20230919221321_282.png",
+    "docs/Personal/Rent Whisperer",
     "docs/Assets/Pasted Image 20230907095425_800.png",
     "docs/Assets/Pasted Image 20230907095309_784.png",
     "docs/Assets/Pasted Image 20230823162652_918.png",
     "docs/Assets/Pasted Image 20230823162253_940.png",
     "docs/Assets/Pasted Image 20230823162101_902.png",
-    "docs/Assets/Pasted Image 20230823162029_900.png",
-    "docs/Assets/Pasted image 20230728154055.png",
-    "docs/Assets/Pasted image 20230728154009.png",
-    "docs/Assets/Pasted image 20230728153838.png",
     "docs/MOOCs/Generative AI (Coursera)"
   ]
 }

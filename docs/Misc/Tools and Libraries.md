@@ -6,3 +6,6 @@
 	- data testing (validation)
 	- documentation
 	- profiling
+
+==pipdeptree== (https://github.com/tox-dev/pipdeptree)
+- Displays dependency tree of packages

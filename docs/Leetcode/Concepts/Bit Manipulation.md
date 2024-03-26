@@ -15,5 +15,5 @@ print()
 ```python
 a^b
 ```
-![[Pasted image 20230307171952.png]]
+![[Pasted image 20230307171952.png]] ^4cfaa6
 

@@ -1,3 +1,4 @@
+Link to Grind Questions: https://www.techinterviewhandbook.org/grind75?hours=8&weeks=16
 #### ==Week 1==
 - [[1. Two Sum]]
 - [[20. Valid Parentheses]]
@@ -50,11 +51,15 @@
 
 #### ==Week 5==
 - [[238. Product of Array Except Self]] [1]
+- [[322. Coin Change]]
+- [[994. Rotting Oranges]]
 
 #### ==Week 6==
+- [[139. Word Break]]
 
 #### ==Week 7==
 - [[105. Construct Binary Tree from Preorder and Inorder Traversal]] [1]
+- [[11. Container With Most Water]] [1]
 
 #### ==Week 8==
 
@@ -79,6 +84,8 @@
 --- 
 
 #### ==Leetcode 150 (but not in Grind 75)==
+Link: https://leetcode.com/studyplan/top-interview-150/
+
 - [[27. Remove Element]] [0]
 - [[88. Merge Sorted Array]] [0]
 - [[26. Remove Duplicates from Sorted Array]] [0]
