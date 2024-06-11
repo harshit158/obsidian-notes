@@ -62,55 +62,17 @@
             }
           },
           {
-            "id": "46b0d8dbc78631db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Leetcode/Questions/88. Merge Sorted Array.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "65819e1247f0603d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Leetcode/Questions/322. Coin Change.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "23f724cca9302584",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Leetcode/Questions/169. Majority Element.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1cafa4a24480463a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "docs/Leetcode/Concepts/Union Find (Disjoint Set).md",
-                "mode": "source",
-                "source": false
+                "file": "docs/Assets/Excalidraw/8. AB Testing 2024-06-11 14-20-33.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -139,8 +101,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#DFS",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -176,7 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 598.5
+    "width": 397.5
   },
   "right": {
     "id": "b78f15cdafdd7f3a",
@@ -192,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Leetcode/Questions/169. Majority Element.md",
+                "file": "docs/Assets/Excalidraw/8. AB Testing 2024-06-11 14-20-33.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Leetcode/Questions/169. Majority Element.md"
+                "file": "docs/Assets/Excalidraw/8. AB Testing 2024-06-11 14-20-33.excalidraw.md"
               }
             }
           },
@@ -230,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Leetcode/Questions/169. Majority Element.md",
+                "file": "docs/Assets/Excalidraw/8. AB Testing 2024-06-11 14-20-33.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -273,48 +235,49 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "23f724cca9302584",
+  "active": "1cafa4a24480463a",
   "lastOpenFiles": [
-    "docs/Leetcode/Concepts/DFS.md",
-    "docs/Leetcode/Questions/112. Path Sum.md",
-    "docs/Leetcode/Questions/207. Course Schedule.md",
-    "docs/Leetcode/Concepts/Topological Sort.md",
-    "docs/Leetcode/Questions/416. Partition Equal Subset Sum.md",
+    "docs/Personal/Work/8. AB Testing.md",
+    "docs/Assets/Excalidraw/8. AB Testing 2024-06-11 14-20-33.excalidraw.md",
+    "docs/Personal/Work/6. Work with MIST team.md",
+    "docs/Personal/Work/Updates.md",
+    "docs/Personal/Work/7. LLM Integration Standups.md",
+    "docs/System Design/Database.md",
+    "docs/Assets/Pasted image 20240611080135.png",
+    "docs/Assets/Pasted image 20240611075907.png",
+    "docs/Assets/Pasted image 20240611075559.png",
+    "docs/Assets/Pasted image 20240611075152.png",
+    "docs/Assets/Pasted image 20240611074531.png",
+    "docs/Assets/Excalidraw/Database 2024-06-11 07-40-39.excalidraw.md",
+    "docs/Assets/Excalidraw/Database 2024-06-10 08-14-29.excalidraw.md",
+    "docs/Assets/Pasted image 20240610082004.png",
+    "docs/Assets/Pasted image 20240610081812.png",
+    "docs/Assets/Pasted image 20240610081641.png",
+    "docs/Assets/Pasted image 20240610080414.png",
+    "docs/System Design/replication.md",
+    "docs/Assets/Pasted image 20240609130409.png",
+    "docs/System Design/Caching.md",
+    "docs/System Design/Scalability.md",
+    "docs/System Design/Core Design Principles.md",
+    "docs/MOOCs/Design Patterns in Python/SOLID Design Principles.md",
+    "docs/System Design/Software Architectures.md",
+    "docs/System Design/DNS.md",
+    "docs/System Design/Load Balancing.md",
+    "docs/System Design/Security.md",
+    "docs/System Design/Queuing Systems.md",
+    "docs/Leetcode/Concepts/Min Heap Vs Max Heap for solving problems.md",
+    "docs/Leetcode/Questions/215. Kth Largest Element in an Array.md",
     "docs/Leetcode/Lists/Grind75 + Leetcode150.md",
-    "docs/Leetcode/Lists/Hashtable.md",
-    "docs/Leetcode/Lists/Dynamic Programming.md",
-    "docs/Leetcode/Lists/Arrays.md",
-    "docs/Leetcode/Lists/Graph.md",
-    "docs/Leetcode/Lists/MasterList.md",
-    "docs/Leetcode/Concepts/Cycle Detection  in Graph.md",
-    "docs/Leetcode/Concepts/Binary Search.md",
-    "docs/Leetcode/Questions/167. Two Sum II - Input array is sorted.md",
-    "docs/Leetcode/Concepts/Union Find (Disjoint Set).md",
-    "docs/Leetcode/Concepts/Trie.md",
-    "docs/Leetcode/Concepts/Trees.md",
-    "docs/Leetcode/Concepts/Tips.md",
-    "docs/Leetcode/Questions/323. Number of Connected Components in an Undirected Graph.md",
-    "docs/Leetcode/Questions/547. Number of Provinces.md",
-    "docs/Leetcode/Concepts/Segment Tree.md",
-    "docs/Leetcode/Concepts/Linked List.md",
     "docs/Leetcode/Concepts/Heap.md",
-    "docs/Leetcode/Concepts/Dynamic Programming.md",
+    "docs/Leetcode/Concepts/String thumbrules.md",
+    "docs/Leetcode/Questions/21. Merge Two sorted lists.md",
+    "docs/Leetcode/Questions/20. Valid Parentheses.md",
     "docs/Leetcode/Concepts/Backtracking.md",
-    "docs/Leetcode/Concepts/BST (Binary Search Tree).md",
-    "docs/Assets/Pasted image 20240318105105.png",
-    "docs/Assets/Pasted image 20240318104954.png",
     "canva trial.canvas",
+    "docs/MOOCs/APIs",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "docs/Assets/Pasted image 20240125120449.png",
-    "docs/Assets/Pasted image 20240110212943.png",
-    "docs/Assets/Pasted Image 20230919221321_282.png",
     "docs/Personal/Rent Whisperer",
-    "docs/Assets/Pasted Image 20230907095425_800.png",
-    "docs/Assets/Pasted Image 20230907095309_784.png",
-    "docs/Assets/Pasted Image 20230823162652_918.png",
-    "docs/Assets/Pasted Image 20230823162253_940.png",
-    "docs/Assets/Pasted Image 20230823162101_902.png",
     "docs/MOOCs/Generative AI (Coursera)"
   ]
 }

@@ -56,7 +56,7 @@ heapq.heappop(nums)
 
 
 ### Breaking tie between same frequencies:
--> Add a tuple of (freq, second_item) 
+-> Add a tuple of (freq, second_item)
 -> If there is a tie between freq of multiple items, it uses second_item to break the tie
 
 ```python
@@ -77,3 +77,5 @@ output
 ```python
 [(2, 'avocado'), (2, 'banana'), (3, 'cherry'), (5, 'apple')]
 ```
+
+TODO: Check the order of inserted values

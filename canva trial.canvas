@@ -2,10 +2,12 @@
 	"nodes":[
 		{"id":"0b0f2097e9d908b9","type":"text","text":"","x":-772,"y":-318,"width":250,"height":60},
 		{"id":"d113f67313129026","type":"file","file":"docs/ML/Vanishing Gradient.md","x":-2160,"y":-540,"width":674,"height":445,"color":"4"},
-		{"id":"ce773c2012e9c69f","type":"file","file":"docs/ML/Time Series.md","x":-1320,"y":-840,"width":385,"height":400}
+		{"id":"ce773c2012e9c69f","type":"file","file":"docs/ML/Time Series.md","x":-1320,"y":-840,"width":385,"height":400},
+		{"id":"5faaeec6eb979c54","type":"text","text":"this is \ndsfskj fksjkdj fs\n","x":-1360,"y":-155,"width":250,"height":135,"color":"4"}
 	],
 	"edges":[
 		{"id":"74e0203524b9f86c","fromNode":"d113f67313129026","fromSide":"right","toNode":"ce773c2012e9c69f","toSide":"left","label":"is only variable"},
-		{"id":"7f67c1358f990f90","fromNode":"ce773c2012e9c69f","fromSide":"right","toNode":"0b0f2097e9d908b9","toSide":"left"}
+		{"id":"7f67c1358f990f90","fromNode":"ce773c2012e9c69f","fromSide":"right","toNode":"0b0f2097e9d908b9","toSide":"left"},
+		{"id":"94a8427a1398b446","fromNode":"d113f67313129026","fromSide":"right","toNode":"5faaeec6eb979c54","toSide":"top","color":"1"}
 	]
 }

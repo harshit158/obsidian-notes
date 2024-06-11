@@ -1,0 +1,3 @@
+- How to check if a char is an alphabet in python
+	- it belongs to a-z => ord(ch) is in [97, 122]
+	- it belongs to A-Z => ord(ch) is in [65, 90]

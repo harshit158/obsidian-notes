@@ -1,0 +1,3 @@
+- Operable
+- Simple
+- Evolvable
