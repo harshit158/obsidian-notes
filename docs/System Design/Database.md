@@ -346,6 +346,10 @@ Eg: Implementation in Cassandra / DynamoDB
 		- Find data for keys in range (1->100) - here hash needs to be calculated for each key and searched
 	- Data redistribution in case of scaling up / down could be costly
 	  ![[Pasted image 20240610082004.png]]
+4. **Directory Based Sharding**
+	- One of the fields is used as a shard key to tell us which nodes contains the data
+	- Lookup table here is single point of failure
+![[Pasted image 20240612080411.png]]
 
 
 ## Options to consider before sharding
@@ -406,3 +410,60 @@ Eg: Implementation in Cassandra / DynamoDB
 ![[Pasted image 20240611080135.png]]
 
 
+---
+
+# Indexing
+
+- Optimizes performance of DB read queries by minimizing number of disk accesses required
+- ==Additional sorted data structure== maintained along with data
+- Generally ==B Tree, Quad Tree, Hashing== are used to build these structures
+
+## Types of Indexes
+1. **Hash based**
+	- Memory intensive
+	- Supports equality query but ==NOT range query and NOT sort query==
+
+2. **B-Tree index**
+	- Multi-level index
+	- Supports all equality / range / sort queries
+	- Most commonly used
+
+3. **Geospatial Index**
+	- Based on ==QTree==
+	- Specifically used for location data
+	- Caters to spherical nature of earth
+
+4. **TTL Index**
+	- Indexes that support expiry of records after a specified time
+
+
+## Advantages
+- Blazing fast searches (O(N) -> O(logN))
+- Quite effective in queries involving ==sort==
+- Can maintain ==uniqueness== of record
+
+## Disadvantages
+- An overhead on write operation (I/U/D)
+- Can take additional disk as well RAM
+- Recommended only when ==R>>W==
+
+
+## Multi-level Indexing
+
+- Structure of a magnetic disk:
+	- **Track**: cocentric circles on disk
+	- **Sector**: Areas on disk
+	- **Block**: Intersection of Track and Sector
+	  Any block ID can be identified by TrackID and SectorID
+![[Pasted image 20240613083738.png|500]]
+
+
+- Data is stored on multiple blocks depending on block size and data size
+- During indexing: a mapping is created between ID -> Block ID so that the reader doesn't have to read all blocks to retrieve a record having ID=1
+- These mapping are also stored in blocks and known as ==Index Blocks==
+
+### Multi-level Index:
+- In case of large data: 10000 rows:
+	- Datablocks -> 2500 blocks
+	- Index Blocks -> 24 blocks 
+- This is huge - so we need to have 
