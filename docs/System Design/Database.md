@@ -418,6 +418,8 @@ Eg: Implementation in Cassandra / DynamoDB
 - ==Additional sorted data structure== maintained along with data
 - Generally ==B Tree, Quad Tree, Hashing== are used to build these structures
 
+![[Pasted image 20240614082302.png]]
+
 ## Types of Indexes
 1. **Hash based**
 	- Memory intensive
@@ -467,3 +469,16 @@ Eg: Implementation in Cassandra / DynamoDB
 	- Datablocks -> 2500 blocks
 	- Index Blocks -> 24 blocks 
 - This is huge - so we need to have 
+
+
+### B-Tree
+- Generalization of BST + M-Way search tree
+- Can create only if half of the root node is filled
+- Creation process is ==bottom up==
+- Root can have minimum of 2 children
+- All leaf node should be at the same level
+
+![[Pasted image 20240614080238.png]]
+
+### B+Tree
+- Overcomes the cons of B-Tree

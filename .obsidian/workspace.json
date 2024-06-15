@@ -62,17 +62,7 @@
             }
           },
           {
-            "id": "1cafa4a24480463a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "docs/Assets/Excalidraw/8. AB Testing 2024-06-11 14-20-33.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "f66a9fcf0606afaa",
+            "id": "c0d1f0bb8b5e334e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -84,12 +74,12 @@
             }
           },
           {
-            "id": "c0d1f0bb8b5e334e",
+            "id": "13069bf243e2c658",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/System Design/Database.md",
+                "file": "docs/System Design/UMLs.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "UML",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/System Design/Database.md",
+                "file": "docs/System Design/UMLs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/System Design/Database.md"
+                "file": "docs/System Design/UMLs.md"
               }
             }
           },
@@ -216,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/System Design/Database.md",
+                "file": "docs/System Design/UMLs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -259,19 +249,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f66a9fcf0606afaa",
+  "active": "13069bf243e2c658",
   "lastOpenFiles": [
+    "docs/System Design/OOPs.md",
+    "docs/System Design/UMLs.md",
+    "docs/Personal/Work/8. AB Testing.md",
+    "docs/Personal/Work/Updates.md",
+    "docs/System Design/Database.md",
+    "docs/Assets/Pasted image 20240614082302.png",
+    "docs/Assets/Pasted image 20240614080238.png",
+    "docs/Assets/Excalidraw/8. AB Testing 2024-06-11 14-20-33.excalidraw.md",
     "docs/Assets/Pasted image 20240613083738.png",
     "docs/Assets/Excalidraw/Database 2024-06-13 08-34-21.excalidraw.md",
     "docs/Assets/Pasted Image 20240613083436_818.png",
-    "docs/System Design/Database.md",
     "docs/Assets/Pasted image 20240612080411.png",
     "docs/Assets/Excalidraw/Database 2024-06-10 08-14-29.excalidraw.md",
     "docs/System Design/Caching.md",
-    "docs/Assets/Excalidraw/8. AB Testing 2024-06-11 14-20-33.excalidraw.md",
-    "docs/Personal/Work/8. AB Testing.md",
     "docs/Personal/Work/6. Work with MIST team.md",
-    "docs/Personal/Work/Updates.md",
     "docs/Personal/Work/7. LLM Integration Standups.md",
     "docs/Assets/Pasted image 20240611080135.png",
     "docs/Assets/Pasted image 20240611075907.png",
@@ -279,9 +273,6 @@
     "docs/Assets/Pasted image 20240611075152.png",
     "docs/Assets/Pasted image 20240611074531.png",
     "docs/Assets/Excalidraw/Database 2024-06-11 07-40-39.excalidraw.md",
-    "docs/Assets/Pasted image 20240610082004.png",
-    "docs/Assets/Pasted image 20240610081812.png",
-    "docs/Assets/Pasted image 20240610081641.png",
     "docs/System Design/replication.md",
     "docs/System Design/Scalability.md",
     "docs/System Design/Core Design Principles.md",
@@ -296,7 +287,6 @@
     "docs/Leetcode/Lists/Grind75 + Leetcode150.md",
     "docs/Leetcode/Concepts/Heap.md",
     "docs/Leetcode/Concepts/String thumbrules.md",
-    "docs/Leetcode/Questions/21. Merge Two sorted lists.md",
     "canva trial.canvas",
     "docs/MOOCs/APIs",
     "Untitled.canvas",
