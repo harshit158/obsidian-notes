@@ -14,6 +14,8 @@ Ask clarifying questions to understand the problem and expectations of the inter
 👉 Who will use the system  
 👉 Total/Daily active users  
 👉 How the system will be used
+👉 Any legal requirements
+	- If data is PII (Personally identifiable information - data cannot be stored in plain text)
 
 𝐛) 𝐍𝐨𝐧 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐚𝐥 𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐦𝐞𝐧𝐭𝐬
 
@@ -26,7 +28,8 @@ Ask clarifying questions to understand the problem and expectations of the inter
 👉 Latency/Throughput expectations  
 👉 QPS (Queries Per Second) Read/Write ratio  
 👉 Traffic estimates  
-👉 Storage estimates  
+👉 Storage estimates
+	- 1 year and 5 year estimates
 👉 Memory estimates
 
 ✅ 𝐀𝐏𝐈 𝐃𝐞𝐬𝐢𝐠𝐧 (3-5 𝐦𝐢𝐧)

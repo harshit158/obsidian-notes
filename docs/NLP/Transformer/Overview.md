@@ -17,3 +17,7 @@ http://nlp.seas.harvard.edu/annotated-transformer/
 - Example from "Getting started with Google BERT"
 
 
+## Dimensions
+
+From: https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html 
+![[Pasted image 20240619181915.png]]

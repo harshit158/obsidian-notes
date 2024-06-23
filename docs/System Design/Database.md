@@ -482,3 +482,5 @@ Eg: Implementation in Cassandra / DynamoDB
 
 ### B+Tree
 - Overcomes the cons of B-Tree
+- They don't support "Update" operations rather achieved using "Insertion" and "Deletion" operations
+- Leaf nodes of a B+ tree contain pointers to actual data records

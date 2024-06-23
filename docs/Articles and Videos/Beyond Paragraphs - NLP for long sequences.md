@@ -4,7 +4,7 @@ https://github.com/allenai/naacl2021-longdoc-tutorial
 - Will be targeting context with >500-1000 tokens
 - ==Limitations== of existing approaches:
 	- RNN/LSTM -> sequential input, slow for long sequences
-	- [Self attention cost in Transformers](Transformers#^ce649a)
+	- [Self attention cost in Transformers](Overview.md#^ce649a)
 	- Pre-trained LMs limited to 512 tokens (eg: BERT)
 
 - ==Solutions==:

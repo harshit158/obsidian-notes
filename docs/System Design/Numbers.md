@@ -1,3 +1,7 @@
+## Back of the Envelope Estimation
+
+L1 cache < L2 cache < RAM < SSD < Cache over network < Magnetic Disk < Public Internet
+
 ## 2's power
 ```
 Power    Approx Value (Bytes)       Bytes
@@ -55,11 +59,11 @@ https://matthewdbill.medium.com/back-of-envelope-calculations-cheat-sheet-d6758d
 
 ### Storage Units
 
-1. **Kilobyte (KB)**: 1 KB = 1024 bytes.
-2. **Megabyte (MB)**: 1 MB = 1024 KB.
-3. **Gigabyte (GB)**: 1 GB = 1024 MB.
-4. **Terabyte (TB)**: 1 TB = 1024 GB.
-5. **Petabyte (PB)**: 1 PB = 1024 TB.
+1. **Kilobyte (KB)**: 1 KB = 1024 bytes. (==10^3== - Thousand)
+2. **Megabyte (MB)**: 1 MB = 1024 KB. (==10^6== - Million)
+3. **Gigabyte (GB)**: 1 GB = 1024 MB. (==10^9== - Billion)
+4. **Terabyte (TB)**: 1 TB = 1024 GB. (==10^12== - Trillion)
+5. **Petabyte (PB)**: 1 PB = 1024 TB. (==10^15== - Quadrillion)
 6. **Exabyte (EB)**: 1 EB = 1024 PB.
 7. **Zettabyte (ZB)**: 1 ZB = 1024 EB.
 8. **Yottabyte (YB)**: 1 YB = 1024 ZB

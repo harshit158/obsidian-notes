@@ -14,6 +14,13 @@ Components:
 	2. Provides the acknowledgement that it has processed the message
 
 
+==Arrival Rate:== This measures how fast new items are coming into the queue.
+==Service Rate:== This measures how fast items in the queue are being handled
+
+### Assumptions of Queuing systems:
+- Arrivals have ==Poisson== distribution
+- Service times have ==Exponential== distribution
+- Arrivals and Service times are all independent
 ### When to use it
 - Decoupling heavy weight processing like image processing / sending emails
 - Process batch of data
@@ -53,5 +60,6 @@ Components:
 	- Every message is delivered to each consumer
 	![[Pasted image 20240529211029.png|500]]
 	- Eg: SNS (AWS), Topics in Kafka
+	  (Max size of SNS message: 256 KB)
 	  SNS matches topic to a list of subscribers who have subscribed to that topic and delivers the message to each of those subscribers
 	![[Pasted image 20240529212720.png|500]]
