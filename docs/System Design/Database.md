@@ -13,8 +13,16 @@ Types:
 
 ## Relational DB
 - ACID compliant
+	- Atomicity - a transaction either fails or succeeds
+	- Consistency - data inserted is consistent with db constraints
+	- Isolation - all transactions run independently and in isolated manner
+	- Durability - transactions once completed are persisted
+	
+![[Pasted image 20240624212447.png]]
+
 ## Non-Relational DB
 - Joins are not supported
+- Data is ==eventually consistent==
 - Advantageous if:
 	- Application requires ==low-latency==
 	- Data is ==unstructured==
@@ -44,6 +52,17 @@ Types:
 		- Use Cases: IoT based application
 		- Optimized for storing data in the form of pairs of time and value
 
+> [!NOTE] Advantage of Non-relational over Relational
+> - They are designed to scale horizontally and can partition data more effectively across multiple servers, enabling more efficient distributed data management
+> - For sharding - always go for nosql 
+> - Can store docs with differing schema
+
+> [!tip] 
+> Complexity of data relationships is a key consideration while choosing between relational and non-relational database 
+
+## How to choose ?
+
+--- 
 ## Database Replication
 - ==Master== DB only supports ==write operations==
 - ==Slave== DB supports ==read operations==

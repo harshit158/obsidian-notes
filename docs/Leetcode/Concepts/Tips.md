@@ -19,8 +19,11 @@ list.pop() -> ==O(1)==
 **Queue**
 - What about this ? queue.pop(0) vs deque.popleft() ? #todo 
 
-
-
+**Graphs**:
+- To form adjacent list, use:
+```python
+adj = collections.defaultdict(list)
+```
 ## Subarrays
 - Whenever a problem description talks about subarrays, you should figure out if ==sliding window== is a good option by analyzing the problem description
 - Next possibility is ==prefix sum==

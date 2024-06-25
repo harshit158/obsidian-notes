@@ -1,4 +1,5 @@
 title: {{title}}
+link: 
 date: {{date}} {{time}}
 tags: #leetcode #new
 difficulty:

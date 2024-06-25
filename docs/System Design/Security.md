@@ -78,6 +78,15 @@ secret
 - Proper management of keys is vital for secure communication
 - Updated protocols and softwares crucial for maintaining security
 
+
+> [!info] 
+> RSA and DSA are two algorithms used in generation of digital signature
+
+
+> [!tip] 
+> Nonce (Number used only once) is used in cryptographic communication to avoid "replay attacks"
+> 
+
 ---
 
 ### Network Security

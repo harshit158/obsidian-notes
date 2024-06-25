@@ -83,3 +83,5 @@ Based on ==OSI (Open Systems Interconnection)== - there are two types
 - Earlier responsibilities of Load Balancers such as health check of servers / tracking metadata are now handled by Registry service
 - Helps in synchronizing data across multiple load balancers
 - Eg: Zookeeper
+
+[TODO] What is Reverse Proxy load balancer ?

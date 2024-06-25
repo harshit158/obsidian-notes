@@ -26,6 +26,11 @@ The complete adrs above is know as ==Fully Qualified Domain Name (FQDN)==
 
 **Steps:**
 - The client queries a local DNS resolver, which checks its cache for the corresponding IP address.  
+
+> [!NOTE] DNS Resolver
+> **DNS resolver** is a client that sends DNS queries to DNS servers to resolve domain names to IP addresses. Resolver runs on a client machine or is provided by the client's network provider
+
+
 - If the resolver has the IP address in its cache, it returns it to the client. Otherwise, it forwards the query to a root DNS server.  
 - The root DNS server responds to the query with the IP address of the top-level domain server (TLD), such as .com, .org, or .net.  
 - The resolver then sends a query to the TLD server, which response with the IP address of the authoritative DNS server for the domain name.  
